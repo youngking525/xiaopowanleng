@@ -9,7 +9,7 @@ http://192.168.123.1:1245/rtp/232.0.0.170:1234
 http://192.168.123.1:1245/rtp/232.0.0.201:1234
 #EXTINF:-1 tvg-name="CCTV5" tvg-logo="https://live.fanmingming.com/tv/CCTV5.png",CCTV-5体育
 http://192.168.123.1:1245/rtp/232.0.0.171:1234
-#EXTINF:-1 tvg-name="CCTV5+体育赛事" tvg-logo="https://live.fanmingming.com/tv/CCTV5+.png",CCTV5+体育赛事
+#EXTINF:-1 tvg-name="CCTV5+" tvg-logo="https://live.fanmingming.com/tv/CCTV5+.png",CCTV5+体育赛事
 http://192.168.123.1:1245/rtp/232.0.0.93:1234
 #EXTINF:-1 tvg-name="CCTV6" tvg-logo="https://live.fanmingming.com/tv/CCTV6.png",CCTV-6电影
 http://192.168.123.1:1245/rtp/232.0.0.172:1234
@@ -129,17 +129,17 @@ http://192.168.123.1:1245/rtp/232.0.0.206:1234
 http://192.168.123.1:1245/rtp/232.0.0.53:1234
 #EXTINF:-1 tvg-name="CCTV4" tvg-logo="https://live.fanmingming.com/tv/CCTV4美洲.png",CCTV-4美洲
 http://192.168.123.1:1245/rtp/232.0.0.59:1234
-#EXTINF:-1,tvg-id="CGTN-英语新闻" tvg-name="CGTN-英语新闻" tvg-logo="https://live.fanmingming.com/tv/CGTN.png",CGTN-英语新闻
+#EXTINF:-1,tvg-id="CGTN" tvg-name="CGTN-英语新闻" tvg-logo="https://live.fanmingming.com/tv/CGTN.png",CGTN-英语新闻
 http://192.168.123.1:1245/rtp/232.0.0.188:1234
-#EXTINF:-1,tvg-id="CGTN-纪录(国际版)" tvg-name="CGTN-纪录(国际版)" tvg-logo="https://live.fanmingming.com/tv/CGTNDoc.png",CGTN-纪录(国际版)
+#EXTINF:-1,tvg-id="CGTN纪录" tvg-name="CGTN-纪录(国际版)" tvg-logo="https://live.fanmingming.com/tv/CGTNDoc.png",CGTN-纪录(国际版)
 http://192.168.123.1:1245/rtp/232.0.0.198:1234
-#EXTINF:-1,tvg-id="CGTN-俄语国际" tvg-name="CGTN-俄语国际" tvg-logo="https://live.fanmingming.com/tv/CGTN俄语.png",CGTN-俄语国际
+#EXTINF:-1,tvg-id="CGTN俄语" tvg-name="CGTN-俄语国际" tvg-logo="https://live.fanmingming.com/tv/CGTN俄语.png",CGTN-俄语国际
 http://192.168.123.1:1245/rtp/232.0.0.28:1234
-#EXTINF:-1,tvg-id="CGTN-西班牙语国际" tvg-name="CGTN-西班牙语国际" tvg-logo="https://live.fanmingming.com/tv/CGTN西语.png",CGTN-西班牙语国际
+#EXTINF:-1,tvg-id="CGTN西语" tvg-name="CGTN-西班牙语国际" tvg-logo="https://live.fanmingming.com/tv/CGTN西语.png",CGTN-西班牙语国际
 http://192.168.123.1:1245/rtp/232.0.0.6:1234
-#EXTINF:-1,tvg-id="CGTN-阿拉伯语国际" tvg-name="CGTN-阿拉伯语国际" tvg-logo="https://live.fanmingming.com/tv/CGTN阿语.png",CGTN-阿拉伯语国际
+#EXTINF:-1,tvg-id="CGTN阿语" tvg-name="CGTN-阿拉伯语国际" tvg-logo="https://live.fanmingming.com/tv/CGTN阿语.png",CGTN-阿拉伯语国际
 http://192.168.123.1:1245/rtp/232.0.0.43:1234
-#EXTINF:-1,tvg-id="CGTN-法语国际" tvg-name="CGTN-法语国际" tvg-logo="https://live.fanmingming.com/tv/CGTN法语.png",CGTN-法语国际
+#EXTINF:-1,tvg-id="CGTN-法语" tvg-name="CGTN-法语国际" tvg-logo="https://live.fanmingming.com/tv/CGTN法语.png",CGTN-法语国际
 http://192.168.123.1:1245/rtp/232.0.0.8:1234
 #EXTINF:-1,tvg-id="CETV1" tvg-name="CETV1" tvg-logo="https://live.fanmingming.com/tv/CETV1.png",CETV1
 http://192.168.123.1:1245/rtp/232.0.0.212:1234
@@ -185,8 +185,6 @@ http://192.168.123.1:1245/rtp/232.0.0.121:1234
 http://192.168.123.1:1245/rtp/232.0.0.144:1234
 #EXTINF:-1,tvg-id="财富天下" tvg-name="财富天下" tvg-logo="https://live.fanmingming.com/tv/财富天下.png",财富天下
 http://192.168.123.1:1245/rtp/232.0.0.147:1234
-#EXTINF:-1,tvg-id="欢笑剧场" tvg-name="欢笑剧场" tvg-logo="https://live.fanmingming.com/tv/欢笑剧场.png",4K欢笑剧场
-http://192.168.123.1:1245/rtp/232.0.0.98:1234
 #EXTINF:-1,tvg-id="生活时尚" tvg-name="生活时尚" tvg-logo="https://live.fanmingming.com/tv/生活时尚.png",生活时尚
 http://192.168.123.1:1245/rtp/232.0.0.107:1234
 #EXTINF:-1,tvg-id="乐游" tvg-name="乐游" tvg-logo="https://live.fanmingming.com/tv/乐游.png",乐游
