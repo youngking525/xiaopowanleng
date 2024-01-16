@@ -113,7 +113,7 @@ http://192.168.123.1:1245/rtp/232.0.0.25:1234
 http://192.168.123.1:1245/rtp/232.0.0.164:1234
 #EXTINF:-1,tvg-id="辽宁生活" tvg-name="辽宁生活" tvg-logo="https://epg.112114.xyz/logo/辽宁生活.png",辽宁生活
 http://192.168.123.1:1245/rtp/232.0.0.150:1234
-#EXTINF:-1,tvg-id="辽宁教育青少" tvg-name="辽宁教育青少" tvg-logo="https://epg.112114.xyz/logo/辽宁教育青少.png",辽宁教育青少
+#EXTINF:-1,tvg-id="辽宁青少" tvg-name="辽宁教育青少" tvg-logo="https://epg.112114.xyz/logo/辽宁教育青少.png",辽宁教育青少
 http://192.168.123.1:1245/rtp/232.0.0.241:1234
 #EXTINF:-1,tvg-id="辽宁北方" tvg-name="辽宁北方" tvg-logo="https://epg.112114.xyz/logo/辽宁北方.png",辽宁北方
 http://192.168.123.1:1245/rtp/232.0.0.151:1234
@@ -141,17 +141,17 @@ http://192.168.123.1:1245/rtp/232.0.0.6:1234
 http://192.168.123.1:1245/rtp/232.0.0.43:1234
 #EXTINF:-1,tvg-id="CGTN-法语" tvg-name="CGTN-法语国际" tvg-logo="https://live.fanmingming.com/tv/CGTN法语.png",CGTN-法语国际
 http://192.168.123.1:1245/rtp/232.0.0.8:1234
-#EXTINF:-1,tvg-id="CETV1" tvg-name="CETV1" tvg-logo="https://live.fanmingming.com/tv/CETV1.png",CETV1
+#EXTINF:-1,tvg-id="中国教育1台" tvg-name="CETV1" tvg-logo="https://live.fanmingming.com/tv/CETV1.png",CETV1
 http://192.168.123.1:1245/rtp/232.0.0.212:1234
-#EXTINF:-1,tvg-id="CETV2" tvg-name="CETV2" tvg-logo="https://live.fanmingming.com/tv/CETV2.png",CETV2
+#EXTINF:-1,tvg-id="中国教育2台" tvg-name="CETV2" tvg-logo="https://live.fanmingming.com/tv/CETV2.png",CETV2
 http://192.168.123.1:1245/rtp/232.0.0.238:1234
-#EXTINF:-1,tvg-id="CETV4" tvg-name="CETV4" tvg-logo="https://live.fanmingming.com/tv/CETV4.png",CETV4
+#EXTINF:-1,tvg-id="中国教育4台" tvg-name="CETV4" tvg-logo="https://live.fanmingming.com/tv/CETV4.png",CETV4
 http://192.168.123.1:1245/rtp/232.0.0.46:1234
 #EXTINF:-1,tvg-id="金鹰卡通" tvg-name="金鹰卡通" tvg-logo="https://live.fanmingming.com/tv/金鹰卡通.png",金鹰卡通
 http://192.168.123.1:1245/rtp/232.0.0.90:1234
-#EXTINF:-1,tvg-id="炫动卡通" tvg-name="炫动卡通" tvg-logo="https://live.fanmingming.com/tv/哈哈炫动.png",炫动卡通
+#EXTINF:-1,tvg-id="哈哈炫动" tvg-name="炫动卡通" tvg-logo="https://live.fanmingming.com/tv/哈哈炫动.png",炫动卡通
 http://192.168.123.1:1245/rtp/232.0.0.103:1234
-#EXTINF:-1,tvg-id="优漫卡通" tvg-name="优漫卡通" tvg-logo="https://live.fanmingming.com/tv/优漫卡通.png",优漫卡通
+#EXTINF:-1,tvg-id="江苏优漫卡通" tvg-name="优漫卡通" tvg-logo="https://live.fanmingming.com/tv/优漫卡通.png",优漫卡通
 http://192.168.123.1:1245/rtp/232.0.0.159:1234
 #EXTINF:-1,tvg-id="嘉佳卡通" tvg-name="嘉佳卡通" tvg-logo="https://live.fanmingming.com/tv/嘉佳卡通.png",嘉佳卡通
 http://192.168.123.1:1245/rtp/232.0.0.157:1234
@@ -187,7 +187,7 @@ http://192.168.123.1:1245/rtp/232.0.0.144:1234
 http://192.168.123.1:1245/rtp/232.0.0.147:1234
 #EXTINF:-1,tvg-id="生活时尚" tvg-name="生活时尚" tvg-logo="https://live.fanmingming.com/tv/生活时尚.png",生活时尚
 http://192.168.123.1:1245/rtp/232.0.0.107:1234
-#EXTINF:-1,tvg-id="乐游" tvg-name="乐游" tvg-logo="https://live.fanmingming.com/tv/乐游.png",乐游
+#EXTINF:-1,tvg-id="SITV-DOCUMENTARY" tvg-name="乐游" tvg-logo="https://live.fanmingming.com/tv/乐游.png",乐游
 http://192.168.123.1:1245/rtp/232.0.0.108:1234
 #EXTINF:-1,tvg-id="游戏风云" tvg-name="游戏风云" tvg-logo="https://live.fanmingming.com/tv/游戏风云.png",游戏风云
 http://192.168.123.1:1245/rtp/232.0.0.127:1234
