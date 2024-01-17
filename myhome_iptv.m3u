@@ -139,7 +139,7 @@ http://192.168.123.1:1245/rtp/232.0.0.28:1234
 http://192.168.123.1:1245/rtp/232.0.0.6:1234
 #EXTINF:-1,tvg-id="CGTN阿语" tvg-name="CGTN-阿拉伯语国际" tvg-logo="https://live.fanmingming.com/tv/CGTN阿语.png",CGTN-阿拉伯语国际
 http://192.168.123.1:1245/rtp/232.0.0.43:1234
-#EXTINF:-1,tvg-id="CGTN-法语" tvg-name="CGTN-法语国际" tvg-logo="https://live.fanmingming.com/tv/CGTN法语.png",CGTN-法语国际
+#EXTINF:-1,tvg-id="CGTN法语" tvg-name="CGTN-法语国际" tvg-logo="https://live.fanmingming.com/tv/CGTN法语.png",CGTN-法语国际
 http://192.168.123.1:1245/rtp/232.0.0.8:1234
 #EXTINF:-1,tvg-id="中国教育1台" tvg-name="CETV1" tvg-logo="https://live.fanmingming.com/tv/CETV1.png",CETV1
 http://192.168.123.1:1245/rtp/232.0.0.212:1234
