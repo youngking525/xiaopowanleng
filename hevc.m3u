@@ -35,6 +35,10 @@ http://[2409:8087:2001:20:2800:0:df6e:eb0a]:80/PLTV/1/224/3221230609/index.m3u8
 http://[2409:8087:2001:20:2800:0:df6e:eb02]:80/PLTV/1/224/3221230990/index.m3u8
 #EXTINF:-1 tvg-name="CCTV17" tvg-logo="https://cdn.jsdelivr.net/gh/wanglindl/TVlogo@main/img/CCTV17.png",CCTV17 农业农村
 http://[2409:8087:2001:20:2800:0:df6e:eb0a]:80/PLTV/1/224/3221230578/index.m3u8
+#EXTINF:-1 tvg-name="CCTV4K" tvg-logo="https://cdn.jsdelivr.net/gh/wanglindl/TVlogo@main/img/CCTV4K.png",CCTV4K 超高清
+http://[2409:8087:2001:20:2800:0:df6e:eb12]:80/PLTV/1/224/3221230974/index.m3u8
+#EXTINF:-1 tvg-name="CCTV8K" tvg-logo="https://cdn.jsdelivr.net/gh/wanglindl/TVlogo@main/img/CCTV8K.png",CCTV8K 超高清
+http://[2409:8087:2001:20:2800:0:df6e:eb02]:80/PLTV/1/224/3221230960/index.m3u8
 #EXTINF:-1 tvg-name="兵器科技" tvg-logo="https://cdn.jsdelivr.net/gh/wanglindl/TVlogo@main/img/CCTVbqkj.png",兵器科技
 http://[2409:8087:2001:20:2800:0:df6e:eb22]:80/PLTV/1/224/3221231210/index.m3u8
 #EXTINF:-1 tvg-name="第一剧场" tvg-logo="https://cdn.jsdelivr.net/gh/wanglindl/TVlogo@main/img/CCTVdyjc.png",第一剧场
@@ -57,79 +61,75 @@ http://[2409:8087:2001:20:2800:0:df6e:eb14]:80/PLTV/1/224/3221231204/index.m3u8
 http://[2409:8087:2001:20:2800:0:df6e:eb08]:80/PLTV/1/224/3221231207/index.m3u8
 #EXTINF:-1 tvg-name="央视台球" tvg-logo="https://cdn.jsdelivr.net/gh/wanglindl/TVlogo@main/img/CCTVystq.png",央视台球
 http://[2409:8087:2001:20:2800:0:df6e:eb22]:80/PLTV/1/224/3221231284/index.m3u8
-#EXTINF:-1 tvg-name="央视文化精品" tvg-logo="https://cdn.jsdelivr.net/gh/wanglindl/TVlogo@main/img/CCTVyswhjp.png",央视文化精品
+#EXTINF:-1 tvg-name="文化精品" tvg-logo="https://cdn.jsdelivr.net/gh/wanglindl/TVlogo@main/img/CCTVyswhjp.png",央视文化精品
 http://[2409:8087:2001:20:2800:0:df6e:eb20]:80/PLTV/1/224/3221231281/index.m3u8
-#EXTINF:-1 tvg-name="CCTV4K" tvg-logo="https://cdn.jsdelivr.net/gh/wanglindl/TVlogo@main/img/CCTV4K.png",CCTV4K 超高清
-http://[2409:8087:2001:20:2800:0:df6e:eb12]:80/PLTV/1/224/3221230974/index.m3u8
-#EXTINF:-1 tvg-name="CCTV8K" tvg-logo="https://cdn.jsdelivr.net/gh/wanglindl/TVlogo@main/img/CCTV8K.png",CCTV8K 超高清
-http://[2409:8087:2001:20:2800:0:df6e:eb02]:80/PLTV/1/224/3221230960/index.m3u8
-#EXTINF:-1 tvg-name="吉林卫视" tvg-logo="https://live.fanmingming.com/tv/吉林卫视.png",吉林卫视
+#EXTINF:-1 tvg-name="吉林卫视" tvg-logo="https://cdn.jsdelivr.net/gh/wanglindl/TVlogo@main/img/Jilin.png",吉林卫视
 http://[2409:8087:2001:20:2800:0:df6e:eb02]:80/PLTV/1/224/3221230963/index.m3u8
-#EXTINF:-1 tvg-name="辽宁卫视" tvg-logo="https://live.fanmingming.com/tv/辽宁卫视.png",辽宁卫视
+#EXTINF:-1 tvg-name="辽宁卫视" tvg-logo="https://cdn.jsdelivr.net/gh/wanglindl/TVlogo@main/img/Liaoning.png",辽宁卫视
 http://[2409:8087:2001:20:2800:0:df6e:eb22]:80/PLTV/1/224/3221231019/index.m3u8
-#EXTINF:-1 tvg-name="北京卫视" tvg-logo="https://live.fanmingming.com/tv/北京卫视.png",北京卫视
+#EXTINF:-1 tvg-name="北京卫视" tvg-logo="https://cdn.jsdelivr.net/gh/wanglindl/TVlogo@main/img/Beijing.png",北京卫视
 http://[2409:8087:2001:20:2800:0:df6e:eb22]:80/PLTV/1/224/3221231010/index.m3u8
-#EXTINF:-1 tvg-name="天津卫视" tvg-logo="https://live.fanmingming.com/tv/天津卫视.png",天津卫视
+#EXTINF:-1 tvg-name="天津卫视" tvg-logo="https://cdn.jsdelivr.net/gh/wanglindl/TVlogo@main/img/Tianjin.png",天津卫视
 http://[2409:8087:2001:20:2800:0:df6e:eb18]:80/PLTV/1/224/3221231029/index.m3u8
-#EXTINF:-1 tvg-name="东方卫视" tvg-logo="https://live.fanmingming.com/tv/东方卫视.png",东方卫视
+#EXTINF:-1 tvg-name="东方卫视" tvg-logo="https://cdn.jsdelivr.net/gh/wanglindl/TVlogo@main/img/Dongfang.png",东方卫视
 http://[2409:8087:2001:20:2800:0:df6e:eb20]:80/PLTV/1/224/3221230997/index.m3u8
-#EXTINF:-1 tvg-name="浙江卫视" tvg-logo="https://live.fanmingming.com/tv/浙江卫视.png",浙江卫视
+#EXTINF:-1 tvg-name="浙江卫视" tvg-logo="https://cdn.jsdelivr.net/gh/wanglindl/TVlogo@main/img/Zhejiang.png",浙江卫视
 http://[2409:8087:2001:20:2800:0:df6e:eb22]:80/PLTV/1/224/3221231023/index.m3u8
-#EXTINF:-1 tvg-name="江苏卫视" tvg-logo="https://live.fanmingming.com/tv/江苏卫视.png",江苏卫视
+#EXTINF:-1 tvg-name="江苏卫视" tvg-logo="https://cdn.jsdelivr.net/gh/wanglindl/TVlogo@main/img/Jiangsu.png",江苏卫视
 http://[2409:8087:2001:20:2800:0:df6e:eb18]:80/PLTV/1/224/3221230988/index.m3u8
-#EXTINF:-1 tvg-name="安徽卫视" tvg-logo="https://live.fanmingming.com/tv/安徽卫视.png",安徽卫视
+#EXTINF:-1 tvg-name="安徽卫视" tvg-logo="https://cdn.jsdelivr.net/gh/wanglindl/TVlogo@main/img/Anhui.png",安徽卫视
 http://[2409:8087:2001:20:2800:0:df6e:eb20]:80/PLTV/1/224/3221231035/index.m3u8
-#EXTINF:-1 tvg-name="湖南卫视" tvg-logo="https://live.fanmingming.com/tv/湖南卫视.png",湖南卫视
+#EXTINF:-1 tvg-name="湖南卫视" tvg-logo="https://cdn.jsdelivr.net/gh/wanglindl/TVlogo@main/img/Hunan.png",湖南卫视
 http://[2409:8087:2001:20:2800:0:df6e:eb22]:80/PLTV/1/224/3221230991/index.m3u8
-#EXTINF:-1 tvg-name="贵州卫视" tvg-logo="https://live.fanmingming.com/tv/贵州卫视.png",贵州卫视
+#EXTINF:-1 tvg-name="贵州卫视" tvg-logo="https://cdn.jsdelivr.net/gh/wanglindl/TVlogo@main/img/Guizhou.png",贵州卫视
 http://[2409:8087:2001:20:2800:0:df6e:eb08]:80/PLTV/1/224/3221230941/index.m3u8
-#EXTINF:-1 tvg-name="山东卫视" tvg-logo="https://live.fanmingming.com/tv/山东卫视.png",山东卫视
+#EXTINF:-1 tvg-name="山东卫视" tvg-logo="https://cdn.jsdelivr.net/gh/wanglindl/TVlogo@main/img/Shandong.png",山东卫视
 http://[2409:8087:2001:20:2800:0:df6e:eb22]:80/PLTV/1/224/3221230994/index.m3u8
-#EXTINF:-1 tvg-name="山西卫视" tvg-logo="https://live.fanmingming.com/tv/山西卫视.png",山西卫视
+#EXTINF:-1 tvg-name="山西卫视" tvg-logo="https://cdn.jsdelivr.net/gh/wanglindl/TVlogo@main/img/Shanxi_.png",山西卫视
 http://[2409:8087:2001:20:2800:0:df6e:eb06]:80/PLTV/1/224/3221230444/index.m3u8
-#EXTINF:-1 tvg-name="广东卫视" tvg-logo="https://live.fanmingming.com/tv/广东卫视.png",广东卫视
+#EXTINF:-1 tvg-name="广东卫视" tvg-logo="https://cdn.jsdelivr.net/gh/wanglindl/TVlogo@main/img/Guangdong.png",广东卫视
 http://[2409:8087:2001:20:2800:0:df6e:eb22]:80/PLTV/1/224/3221231026/index.m3u8
-#EXTINF:-1 tvg-name="广西卫视" tvg-logo="https://live.fanmingming.com/tv/广西卫视.png",广西卫视
+#EXTINF:-1 tvg-name="广西卫视" tvg-logo="https://cdn.jsdelivr.net/gh/wanglindl/TVlogo@main/img/Guangxi.png",广西卫视
 http://[2409:8087:2001:20:2800:0:df6e:eb04]:80/PLTV/1/224/3221230953/index.m3u8
-#EXTINF:-1 tvg-name="湖北卫视" tvg-logo="https://live.fanmingming.com/tv/湖北卫视.png",湖北卫视
+#EXTINF:-1 tvg-name="湖北卫视" tvg-logo="https://cdn.jsdelivr.net/gh/wanglindl/TVlogo@main/img/Hubei.png",湖北卫视
 http://[2409:8087:2001:20:2800:0:df6e:eb0c]:80/PLTV/1/224/3221230621/index.m3u8
-#EXTINF:-1 tvg-name="江西卫视" tvg-logo="https://live.fanmingming.com/tv/江西卫视.png",江西卫视
+#EXTINF:-1 tvg-name="江西卫视" tvg-logo="https://cdn.jsdelivr.net/gh/wanglindl/TVlogo@main/img/Jiangxi.png",江西卫视
 http://[2409:8087:2001:20:2800:0:df6e:eb0c]:80/PLTV/1/224/3221230604/index.m3u8
-#EXTINF:-1 tvg-name="河北卫视" tvg-logo="https://live.fanmingming.com/tv/河北卫视.png",河北卫视
+#EXTINF:-1 tvg-name="河北卫视" tvg-logo="https://cdn.jsdelivr.net/gh/wanglindl/TVlogo@main/img/Hebei.png",河北卫视
 http://[2409:8087:2001:20:2800:0:df6e:eb04]:80/PLTV/1/224/3221230917/index.m3u8
-#EXTINF:-1 tvg-name="河南卫视" tvg-logo="https://live.fanmingming.com/tv/河南卫视.png",河南卫视
+#EXTINF:-1 tvg-name="河南卫视" tvg-logo="https://cdn.jsdelivr.net/gh/wanglindl/TVlogo@main/img/Henan.png",河南卫视
 http://[2409:8087:2001:20:2800:0:df6e:eb16]:80/PLTV/1/224/3221230933/index.m3u8
-#EXTINF:-1 tvg-name="四川卫视" tvg-logo="https://live.fanmingming.com/tv/四川卫视.png",四川卫视
+#EXTINF:-1 tvg-name="四川卫视" tvg-logo="https://cdn.jsdelivr.net/gh/wanglindl/TVlogo@main/img/Sichuan.png",四川卫视
 http://[2409:8087:2001:20:2800:0:df6e:eb08]:80/PLTV/1/224/3221230938/index.m3u8
-#EXTINF:-1 tvg-name="重庆卫视" tvg-logo="https://live.fanmingming.com/tv/重庆卫视.png",重庆卫视
+#EXTINF:-1 tvg-name="重庆卫视" tvg-logo="https://cdn.jsdelivr.net/gh/wanglindl/TVlogo@main/img/Chongqing.png",重庆卫视
 http://[2409:8087:2001:20:2800:0:df6e:eb0c]:80/PLTV/1/224/3221230617/index.m3u8
-#EXTINF:-1 tvg-name="东南卫视" tvg-logo="https://live.fanmingming.com/tv/东南卫视.png",东南卫视
+#EXTINF:-1 tvg-name="东南卫视" tvg-logo="https://cdn.jsdelivr.net/gh/wanglindl/TVlogo@main/img/Dongnan.png",东南卫视
 http://[2409:8087:2001:20:2800:0:df6e:eb0a]:80/PLTV/1/224/3221230588/index.m3u8
-#EXTINF:-1 tvg-name="海南卫视" tvg-logo="https://live.fanmingming.com/tv/海南卫视.png",海南卫视
+#EXTINF:-1 tvg-name="海南卫视" tvg-logo="https://cdn.jsdelivr.net/gh/wanglindl/TVlogo@main/img/Hainan.png",海南卫视
 http://[2409:8087:2001:20:2800:0:df6e:eb08]:80/PLTV/1/224/3221230944/index.m3u8
-#EXTINF:-1 tvg-name="青海卫视" tvg-logo="https://live.fanmingming.com/tv/青海卫视.png",青海卫视
+#EXTINF:-1 tvg-name="青海卫视" tvg-logo="https://cdn.jsdelivr.net/gh/wanglindl/TVlogo@main/img/Qinghai.png",青海卫视
 http://[2409:8087:2001:20:2800:0:df6e:eb1a]:80/PLTV/1/224/3221230493/index.m3u8
-#EXTINF:-1 tvg-name="云南卫视" tvg-logo="https://live.fanmingming.com/tv/云南卫视.png",云南卫视
+#EXTINF:-1 tvg-name="云南卫视" tvg-logo="https://cdn.jsdelivr.net/gh/wanglindl/TVlogo@main/img/Yunnan.png",云南卫视
 http://[2409:8087:2001:20:2800:0:df6e:eb18]:80/PLTV/1/224/3221230448/index.m3u8
-#EXTINF:-1 tvg-name="陕西卫视" tvg-logo="https://live.fanmingming.com/tv/陕西卫视.png",陕西卫视
+#EXTINF:-1 tvg-name="陕西卫视" tvg-logo="https://cdn.jsdelivr.net/gh/wanglindl/TVlogo@main/img/Shanxi.png",陕西卫视
 http://[2409:8087:2001:20:2800:0:df6e:eb1a]:80/PLTV/1/224/3221230487/index.m3u8
-#EXTINF:-1 tvg-name="内蒙古卫视" tvg-logo="https://live.fanmingming.com/tv/内蒙古卫视.png",内蒙古卫视
+#EXTINF:-1 tvg-name="内蒙古卫视" tvg-logo="https://cdn.jsdelivr.net/gh/wanglindl/TVlogo@main/img/Neimeng.png",内蒙古卫视
 http://[2409:8087:2001:20:2800:0:df6e:eb18]:80/PLTV/1/224/3221230497/index.m3u8
-#EXTINF:-1 tvg-name="宁夏卫视" tvg-logo="https://live.fanmingming.com/tv/宁夏卫视.png",宁夏卫视
+#EXTINF:-1 tvg-name="宁夏卫视" tvg-logo="https://cdn.jsdelivr.net/gh/wanglindl/TVlogo@main/img/Ningxia.png",宁夏卫视
 http://[2409:8087:2001:20:2800:0:df6e:eb06]:80/PLTV/1/224/3221230501/index.m3u8
-#EXTINF:-1 tvg-name="新疆卫视" tvg-logo="https://live.fanmingming.com/tv/新疆卫视.png",新疆卫视
+#EXTINF:-1 tvg-name="新疆卫视" tvg-logo="https://cdn.jsdelivr.net/gh/wanglindl/TVlogo@main/img/Xinjiang.png",新疆卫视
 http://[2409:8087:2001:20:2800:0:df6e:eb0a]:80/PLTV/1/224/3221230961/index.m3u8
-#EXTINF:-1 tvg-name="甘肃卫视" tvg-logo="https://live.fanmingming.com/tv/甘肃卫视.png",甘肃卫视
+#EXTINF:-1 tvg-name="甘肃卫视" tvg-logo="https://cdn.jsdelivr.net/gh/wanglindl/TVlogo@main/img/Gansu.png",甘肃卫视
 http://[2409:8087:2001:20:2800:0:df6e:eb1a]:80/PLTV/1/224/3221230456/index.m3u8
-#EXTINF:-1 tvg-name="西藏卫视" tvg-logo="https://live.fanmingming.com/tv/西藏卫视.png",西藏卫视
+#EXTINF:-1 tvg-name="西藏卫视" tvg-logo="https://cdn.jsdelivr.net/gh/wanglindl/TVlogo@main/img/Xizang.png",西藏卫视
 http://[2409:8087:2001:20:2800:0:df6e:eb1a]:80/PLTV/1/224/3221230481/index.m3u8
-#EXTINF:-1 tvg-name="黑龙江卫视" tvg-logo="https://live.fanmingming.com/tv/黑龙江卫视.png",黑龙江卫视
+#EXTINF:-1 tvg-name="黑龙江卫视" tvg-logo="https://cdn.jsdelivr.net/gh/wanglindl/TVlogo@main/img/Heilongjiang.png",黑龙江卫视
 http://[2409:8087:2001:20:2800:0:df6e:eb22]:80/PLTV/1/224/3221231013/index.m3u8
-#EXTINF:-1 tvg-name="深圳卫视" tvg-logo="https://live.fanmingming.com/tv/深圳卫视.png",深圳卫视
+#EXTINF:-1 tvg-name="深圳卫视" tvg-logo="https://cdn.jsdelivr.net/gh/wanglindl/TVlogo@main/img/Shenzhen.png",深圳卫视
 http://[2409:8087:2001:20:2800:0:df6e:eb18]:80/PLTV/1/224/3221230935/index.m3u8
-#EXTINF:-1 tvg-name="厦门卫视" tvg-logo="https://live.fanmingming.com/tv/厦门卫视.png",厦门卫视
+#EXTINF:-1 tvg-name="厦门卫视" tvg-logo="https://cdn.jsdelivr.net/gh/wanglindl/TVlogo@main/img/Xiamen.png",厦门卫视
 http://[2409:8087:2001:20:2800:0:df6e:eb0e]:80/PLTV/1/224/3221230535/index.m3u8
-#EXTINF:-1 tvg-name="兵团卫视" tvg-logo="https://live.fanmingming.com/tv/兵团卫视.png",兵团卫视
+#EXTINF:-1 tvg-name="兵团卫视" tvg-logo="https://cdn.jsdelivr.net/gh/wanglindl/TVlogo@main/img/Bingtuan.png",兵团卫视
 http://[2409:8087:2001:20:2800:0:df6e:eb10]:80/PLTV/1/224/3221230537/index.m3u8
-#EXTINF:-1 tvg-name="延边卫视" tvg-logo="https://live.fanmingming.com/tv/延边卫视.png",延边卫视
+#EXTINF:-1 tvg-name="延边卫视" tvg-logo="https://cdn.jsdelivr.net/gh/wanglindl/TVlogo@main/img/Yanbian.png",延边卫视
 http://[2409:8087:2001:20:2800:0:df6e:eb0e]:80/PLTV/1/224/3221230533/index.m3u8
