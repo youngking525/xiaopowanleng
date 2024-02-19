@@ -36,7 +36,7 @@ http://192.168.123.1:1245/udp/232.0.0.182:1234
 #EXTINF:-1 tvg-name="CCTV17" tvg-logo="https://cdn.jsdelivr.net/gh/wanglindl/TVlogo@main/img/CCTV17.png" group-title="央视",CCTV-17 农业农村
 http://192.168.123.1:1245/udp/232.0.0.230:1234
 #EXTINF:-1 tvg-name="CCTV4K" tvg-logo="https://cdn.jsdelivr.net/gh/wanglindl/TVlogo@main/img/CCTV4K.png" group-title="央视",CCTV4K 超高清
-http://192.168.123.1:1245/udp/232.0.0.166:1234
+http://192.168.123.1:1245/udp/232.0.0.158:1234
 #EXTINF:-1,tvg-id="吉林卫视" tvg-name="吉林卫视" tvg-logo="https://cdn.jsdelivr.net/gh/wanglindl/TVlogo@main/img/Jilin.png" group-title="卫视",吉林卫视
 http://192.168.123.1:1245/udp/232.0.0.180:1234
 #EXTINF:-1,tvg-id="辽宁卫视" tvg-name="辽宁卫视" tvg-logo="https://cdn.jsdelivr.net/gh/wanglindl/TVlogo@main/img/Liaoning.png" group-title="卫视",辽宁卫视
