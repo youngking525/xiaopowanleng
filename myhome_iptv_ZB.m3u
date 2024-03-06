@@ -1,203 +1,203 @@
-#EXTM3U x-tvg-url="https://mirror.ghproxy.com/raw.githubusercontent.com/Meroser/IPTV/main/tvxml.xml,https://mirror.ghproxy.com/raw.githubusercontent.com/Meroser/EPG-test/main/tvxml-test.xml.gz" catchup="append" catchup-source="?playseek=${(b)yyyyMMddHHmmss}-${(e)yyyyMMddHHmmss}"
+#EXTM3U x-tvg-url="https://mirror.ghproxy.com/https://raw.githubusercontent.com/Meroser/IPTV/main/tvxml.xml,https://mirror.ghproxy.com/https://raw.githubusercontent.com/Meroser/EPG-test/main/tvxml-test.xml.gz" catchup="append" catchup-source="?playseek=${(b)yyyyMMddHHmmss}-${(e)yyyyMMddHHmmss}"
 #EXTINF:-1 tvg-name="CCTV1" tvg-logo="https://cdn.jsdelivr.net/gh/wanglindl/TVlogo@main/img/CCTV1.png" group-title="央视",CCTV-1 综合
-rtp://232.0.0.200:1234
+udp://232.0.0.200:1234
 #EXTINF:-1 tvg-name="CCTV2" tvg-logo="https://cdn.jsdelivr.net/gh/wanglindl/TVlogo@main/img/CCTV2.png" group-title="央视",CCTV-2 财经
-rtp://232.0.0.135:1234
+udp://232.0.0.135:1234
 #EXTINF:-1 tvg-name="CCTV3" tvg-logo="https://cdn.jsdelivr.net/gh/wanglindl/TVlogo@main/img/CCTV3.png" group-title="央视",CCTV-3 综艺
-rtp://232.0.0.170:1234
+udp://232.0.0.170:1234
 #EXTINF:-1 tvg-name="CCTV4" tvg-logo="https://cdn.jsdelivr.net/gh/wanglindl/TVlogo@main/img/CCTV4.png" group-title="央视",CCTV-4 国际
-rtp://232.0.0.201:1234
+udp://232.0.0.201:1234
 #EXTINF:-1 tvg-name="CCTV5" tvg-logo="https://cdn.jsdelivr.net/gh/wanglindl/TVlogo@main/img/CCTV5.png" group-title="央视",CCTV-5 体育
-rtp://232.0.0.171:1234
+udp://232.0.0.171:1234
 #EXTINF:-1 tvg-name="CCTV5+" tvg-logo="https://cdn.jsdelivr.net/gh/wanglindl/TVlogo@main/img/CCTV5plus.png" group-title="央视",CCTV5+ 体育赛事
-rtp://232.0.0.93:1234
+udp://232.0.0.93:1234
 #EXTINF:-1 tvg-name="CCTV6" tvg-logo="https://cdn.jsdelivr.net/gh/wanglindl/TVlogo@main/img/CCTV6.png" group-title="央视",CCTV-6 电影
-rtp://232.0.0.172:1234
+udp://232.0.0.172:1234
 #EXTINF:-1 tvg-name="CCTV7" tvg-logo="https://cdn.jsdelivr.net/gh/wanglindl/TVlogo@main/img/CCTV7.png" group-title="央视",CCTV-7 国防军事
-rtp://232.0.0.136:1234
+udp://232.0.0.136:1234
 #EXTINF:-1 tvg-name="CCTV8" tvg-logo="https://cdn.jsdelivr.net/gh/wanglindl/TVlogo@main/img/CCTV8.png" group-title="央视",CCTV-8 电视剧
-rtp://232.0.0.173:1234
+udp://232.0.0.173:1234
 #EXTINF:-1 tvg-name="CCTV9" tvg-logo="https://cdn.jsdelivr.net/gh/wanglindl/TVlogo@main/img/CCTV9.png" group-title="央视",CCTV-9 纪录
-rtp://232.0.0.137:1234
+udp://232.0.0.137:1234
 #EXTINF:-1 tvg-name="CCTV10" tvg-logo="https://cdn.jsdelivr.net/gh/wanglindl/TVlogo@main/img/CCTV10.png" group-title="央视",CCTV-10 科教
-rtp://232.0.0.138:1234
+udp://232.0.0.138:1234
 #EXTINF:-1 tvg-name="CCTV11" tvg-logo="https://cdn.jsdelivr.net/gh/wanglindl/TVlogo@main/img/CCTV11.png" group-title="央视",CCTV-11 戏曲
-rtp://232.0.0.178:1234
+udp://232.0.0.178:1234
 #EXTINF:-1 tvg-name="CCTV12" tvg-logo="https://cdn.jsdelivr.net/gh/wanglindl/TVlogo@main/img/CCTV12.png" group-title="央视",CCTV-12 社会与法
-rtp://232.0.0.139:1234
+udp://232.0.0.139:1234
 #EXTINF:-1 tvg-name="CCTV13" tvg-logo="https://cdn.jsdelivr.net/gh/wanglindl/TVlogo@main/img/CCTV13.png" group-title="央视",CCTV-13 新闻
-rtp://232.0.0.15:1234
+udp://232.0.0.15:1234
 #EXTINF:-1 tvg-name="CCTV14" tvg-logo="https://cdn.jsdelivr.net/gh/wanglindl/TVlogo@main/img/CCTV14.png" group-title="央视",CCTV-14 少儿
-rtp://232.0.0.140:1234
+udp://232.0.0.140:1234
 #EXTINF:-1 tvg-name="CCTV15" tvg-logo="https://cdn.jsdelivr.net/gh/wanglindl/TVlogo@main/img/CCTV15.png" group-title="央视",CCTV-15 音乐
-rtp://232.0.0.179:1234
+udp://232.0.0.179:1234
 #EXTINF:-1 tvg-name="CCTV16" tvg-logo="https://cdn.jsdelivr.net/gh/wanglindl/TVlogo@main/img/CCTV16.png" group-title="央视",CCTV-16 奥林匹克
-rtp://232.0.0.182:1234
+udp://232.0.0.182:1234
 #EXTINF:-1 tvg-name="CCTV17" tvg-logo="https://cdn.jsdelivr.net/gh/wanglindl/TVlogo@main/img/CCTV17.png" group-title="央视",CCTV-17 农业农村
-rtp://232.0.0.230:1234
+udp://232.0.0.230:1234
 #EXTINF:-1 tvg-name="CCTV4K" tvg-logo="https://cdn.jsdelivr.net/gh/wanglindl/TVlogo@main/img/CCTV4K.png" group-title="央视",CCTV4K 超高清
-rtp://232.0.0.158:1234
+udp://232.0.0.158:1234
 #EXTINF:-1,tvg-id="吉林卫视" tvg-name="吉林卫视" tvg-logo="https://cdn.jsdelivr.net/gh/wanglindl/TVlogo@main/img/Jilin.png" group-title="卫视",吉林卫视
-rtp://232.0.0.180:1234
+udp://232.0.0.180:1234
 #EXTINF:-1,tvg-id="辽宁卫视" tvg-name="辽宁卫视" tvg-logo="https://cdn.jsdelivr.net/gh/wanglindl/TVlogo@main/img/Liaoning.png" group-title="卫视",辽宁卫视
-rtp://232.0.0.126:1234
+udp://232.0.0.126:1234
 #EXTINF:-1,tvg-id="北京卫视" tvg-name="北京卫视" tvg-logo="https://cdn.jsdelivr.net/gh/wanglindl/TVlogo@main/img/Beijing.png" group-title="卫视",北京卫视
-rtp://232.0.0.117:1234
+udp://232.0.0.117:1234
 #EXTINF:-1,tvg-id="天津卫视" tvg-name="天津卫视" tvg-logo="https://cdn.jsdelivr.net/gh/wanglindl/TVlogo@main/img/Tianjin.png" group-title="卫视",天津卫视
-rtp://232.0.0.125:1234
+udp://232.0.0.125:1234
 #EXTINF:-1,tvg-id="东方卫视" tvg-name="东方卫视" tvg-logo="https://cdn.jsdelivr.net/gh/wanglindl/TVlogo@main/img/Dongfang.png" group-title="卫视",东方卫视
-rtp://232.0.0.122:1234
+udp://232.0.0.122:1234
 #EXTINF:-1,tvg-id="浙江卫视" tvg-name="浙江卫视" tvg-logo="https://cdn.jsdelivr.net/gh/wanglindl/TVlogo@main/img/Zhejiang.png" group-title="卫视",浙江卫视
-rtp://232.0.0.123:1234
+udp://232.0.0.123:1234
 #EXTINF:-1,tvg-id="江苏卫视" tvg-name="江苏卫视" tvg-logo="https://cdn.jsdelivr.net/gh/wanglindl/TVlogo@main/img/Jiangsu.png" group-title="卫视",江苏卫视
-rtp://232.0.0.116:1234
+udp://232.0.0.116:1234
 #EXTINF:-1,tvg-id="安徽卫视" tvg-name="安徽卫视" tvg-logo="https://cdn.jsdelivr.net/gh/wanglindl/TVlogo@main/img/Anhui.png" group-title="卫视",安徽卫视
-rtp://232.0.0.141:1234
+udp://232.0.0.141:1234
 #EXTINF:-1,tvg-id="湖南卫视" tvg-name="湖南卫视" tvg-logo="https://cdn.jsdelivr.net/gh/wanglindl/TVlogo@main/img/Hunan.png" group-title="卫视",湖南卫视
-rtp://232.0.0.115:1234
+udp://232.0.0.115:1234
 #EXTINF:-1,tvg-id="贵州卫视" tvg-name="贵州卫视" tvg-logo="https://cdn.jsdelivr.net/gh/wanglindl/TVlogo@main/img/Guizhou.png" group-title="卫视",贵州卫视
-rtp://232.0.0.181:1234
+udp://232.0.0.181:1234
 #EXTINF:-1,tvg-id="山东卫视" tvg-name="山东卫视" tvg-logo="https://cdn.jsdelivr.net/gh/wanglindl/TVlogo@main/img/Shandong.png" group-title="卫视",山东卫视
-rtp://232.0.0.131:1234
+udp://232.0.0.131:1234
 #EXTINF:-1,tvg-id="山西卫视" tvg-name="山西卫视" tvg-logo="https://cdn.jsdelivr.net/gh/wanglindl/TVlogo@main/img/Shanxi_.png" group-title="卫视",山西卫视
-rtp://232.0.0.86:1234
+udp://232.0.0.86:1234
 #EXTINF:-1,tvg-id="广东卫视" tvg-name="广东卫视" tvg-logo="https://cdn.jsdelivr.net/gh/wanglindl/TVlogo@main/img/Guangdong.png" group-title="卫视",广东卫视
-rtp://232.0.0.130:1234
+udp://232.0.0.130:1234
 #EXTINF:-1,tvg-id="广西卫视" tvg-name="广西卫视" tvg-logo="https://cdn.jsdelivr.net/gh/wanglindl/TVlogo@main/img/Guangxi.png" group-title="卫视",广西卫视
-rtp://232.0.0.22:1234
+udp://232.0.0.22:1234
 #EXTINF:-1,tvg-id="湖北卫视" tvg-name="湖北卫视" tvg-logo="https://cdn.jsdelivr.net/gh/wanglindl/TVlogo@main/img/Hubei.png" group-title="卫视",湖北卫视
-rtp://232.0.0.124:1234
+udp://232.0.0.124:1234
 #EXTINF:-1,tvg-id="江西卫视" tvg-name="江西卫视" tvg-logo="https://cdn.jsdelivr.net/gh/wanglindl/TVlogo@main/img/Jiangxi.png" group-title="卫视",江西卫视
-rtp://232.0.0.31:1234
+udp://232.0.0.31:1234
 #EXTINF:-1,tvg-id="河北卫视" tvg-name="河北卫视" tvg-logo="https://cdn.jsdelivr.net/gh/wanglindl/TVlogo@main/img/Hebei.png" group-title="卫视",河北卫视
-rtp://232.0.0.32:1234
+udp://232.0.0.32:1234
 #EXTINF:-1,tvg-id="河南卫视" tvg-name="河南卫视" tvg-logo="https://cdn.jsdelivr.net/gh/wanglindl/TVlogo@main/img/Henan.png" group-title="卫视",河南卫视
-rtp://232.0.0.33:1234
+udp://232.0.0.33:1234
 #EXTINF:-1,tvg-id="四川卫视" tvg-name="四川卫视" tvg-logo="https://cdn.jsdelivr.net/gh/wanglindl/TVlogo@main/img/Sichuan.png" group-title="卫视",四川卫视
-rtp://232.0.0.185:1234
+udp://232.0.0.185:1234
 #EXTINF:-1,tvg-id="重庆卫视" tvg-name="重庆卫视" tvg-logo="https://cdn.jsdelivr.net/gh/wanglindl/TVlogo@main/img/Chongqing.png" group-title="卫视",重庆卫视
-rtp://232.0.0.186:1234
+udp://232.0.0.186:1234
 #EXTINF:-1,tvg-id="东南卫视" tvg-name="东南卫视" tvg-logo="https://cdn.jsdelivr.net/gh/wanglindl/TVlogo@main/img/Dongnan.png" group-title="卫视",东南卫视
-rtp://232.0.0.42:1234
+udp://232.0.0.42:1234
 #EXTINF:-1,tvg-id="海南卫视" tvg-name="海南卫视" tvg-logo="https://cdn.jsdelivr.net/gh/wanglindl/TVlogo@main/img/Hainan.png" group-title="卫视",海南卫视
-rtp://232.0.0.26:1234
+udp://232.0.0.26:1234
 #EXTINF:-1,tvg-id="青海卫视" tvg-name="青海卫视" tvg-logo="https://cdn.jsdelivr.net/gh/wanglindl/TVlogo@main/img/Qinghai.png" group-title="卫视",青海卫视
-rtp://232.0.0.101:1234
+udp://232.0.0.101:1234
 #EXTINF:-1,tvg-id="云南卫视" tvg-name="云南卫视" tvg-logo="https://cdn.jsdelivr.net/gh/wanglindl/TVlogo@main/img/Yunnan.png" group-title="卫视",云南卫视
-rtp://232.0.0.37:1234
+udp://232.0.0.37:1234
 #EXTINF:-1,tvg-id="陕西卫视" tvg-name="陕西卫视" tvg-logo="https://cdn.jsdelivr.net/gh/wanglindl/TVlogo@main/img/Shanxi.png" group-title="卫视",陕西卫视
-rtp://232.0.0.35:1234
+udp://232.0.0.35:1234
 #EXTINF:-1,tvg-id="内蒙古卫视" tvg-name="内蒙古卫视" tvg-logo="https://cdn.jsdelivr.net/gh/wanglindl/TVlogo@main/img/Neimeng.png" group-title="卫视",内蒙古卫视
-rtp://232.0.0.111:1234
+udp://232.0.0.111:1234
 #EXTINF:-1,tvg-id="宁夏卫视" tvg-name="宁夏卫视" tvg-logo="https://cdn.jsdelivr.net/gh/wanglindl/TVlogo@main/img/Ningxia.png" group-title="卫视",宁夏卫视
-rtp://232.0.0.34:1234
+udp://232.0.0.34:1234
 #EXTINF:-1,tvg-id="新疆卫视" tvg-name="新疆卫视" tvg-logo="https://cdn.jsdelivr.net/gh/wanglindl/TVlogo@main/img/Xinjiang.png" group-title="卫视",新疆卫视
-rtp://232.0.0.18:1234
+udp://232.0.0.18:1234
 #EXTINF:-1,tvg-id="甘肃卫视" tvg-name="甘肃卫视" tvg-logo="https://cdn.jsdelivr.net/gh/wanglindl/TVlogo@main/img/Gansu.png" group-title="卫视",甘肃卫视
-rtp://232.0.0.50:1234
+udp://232.0.0.50:1234
 #EXTINF:-1,tvg-id="西藏卫视" tvg-name="西藏卫视" tvg-logo="https://cdn.jsdelivr.net/gh/wanglindl/TVlogo@main/img/Xizang.png" group-title="卫视",西藏卫视
-rtp://232.0.0.114:1234
+udp://232.0.0.114:1234
 #EXTINF:-1,tvg-id="黑龙江卫视" tvg-name="黑龙江卫视" tvg-logo="https://cdn.jsdelivr.net/gh/wanglindl/TVlogo@main/img/Heilongjiang.png" group-title="卫视",黑龙江卫视
-rtp://232.0.0.95:1234
+udp://232.0.0.95:1234
 #EXTINF:-1,tvg-id="深圳卫视" tvg-name="深圳卫视" tvg-logo="https://cdn.jsdelivr.net/gh/wanglindl/TVlogo@main/img/Shenzhen.png" group-title="卫视",深圳卫视
-rtp://232.0.0.110:1234
+udp://232.0.0.110:1234
 #EXTINF:-1,tvg-id="厦门卫视" tvg-name="厦门卫视" tvg-logo="https://cdn.jsdelivr.net/gh/wanglindl/TVlogo@main/img/Xiamen.png" group-title="卫视",厦门卫视
-rtp://232.0.0.160:1234
+udp://232.0.0.160:1234
 #EXTINF:-1,tvg-id="兵团卫视" tvg-name="兵团卫视" tvg-logo="https://cdn.jsdelivr.net/gh/wanglindl/TVlogo@main/img/Bingtuan.png" group-title="卫视",兵团卫视
-rtp://232.0.0.67:1234
+udp://232.0.0.67:1234
 #EXTINF:-1,tvg-id="延边卫视" tvg-name="延边卫视" tvg-logo="https://cdn.jsdelivr.net/gh/wanglindl/TVlogo@main/img/Yanbian.png" group-title="卫视",延边卫视
-rtp://232.0.0.161:1234
+udp://232.0.0.161:1234
 #EXTINF:-1,tvg-id="辽宁卫视" tvg-name="辽宁卫视" tvg-logo="https://cdn.jsdelivr.net/gh/wanglindl/TVlogo@main/img/Liaoning.png" group-title="辽宁",辽宁卫视
-rtp://232.0.0.126:1234
+udp://232.0.0.126:1234
 #EXTINF:-1,tvg-id="辽宁都市" tvg-name="辽宁都市" tvg-logo="https://cdn.jsdelivr.net/gh/wanglindl/TVlogo@main/img/Liaoning1.png" group-title="辽宁",辽宁都市
-rtp://232.0.0.154:1234
+udp://232.0.0.154:1234
 #EXTINF:-1,tvg-id="辽宁影视剧" tvg-name="辽宁影视剧" tvg-logo="https://cdn.jsdelivr.net/gh/wanglindl/TVlogo@main/img/Liaoning2.png" group-title="辽宁",辽宁影视剧
-rtp://232.0.0.25:1234
+udp://232.0.0.25:1234
 #EXTINF:-1,tvg-id="辽宁体育" tvg-name="辽宁体育" tvg-logo="https://cdn.jsdelivr.net/gh/wanglindl/TVlogo@main/img/Liaoning6.png" group-title="辽宁",辽宁体育
-rtp://232.0.0.164:1234
+udp://232.0.0.164:1234
 #EXTINF:-1,tvg-id="辽宁生活" tvg-name="辽宁生活" tvg-logo="https://cdn.jsdelivr.net/gh/wanglindl/TVlogo@main/img/Liaoning4.png" group-title="辽宁",辽宁生活
-rtp://232.0.0.150:1234
+udp://232.0.0.150:1234
 #EXTINF:-1,tvg-id="辽宁青少" tvg-name="辽宁教育青少" tvg-logo="https://cdn.jsdelivr.net/gh/wanglindl/TVlogo@main/img/Liaoning3.png" group-title="辽宁",辽宁教育青少
-rtp://232.0.0.241:1234
+udp://232.0.0.241:1234
 #EXTINF:-1,tvg-id="辽宁北方" tvg-name="辽宁北方" tvg-logo="https://cdn.jsdelivr.net/gh/wanglindl/TVlogo@main/img/Liaoning8.png" group-title="辽宁",辽宁北方
-rtp://232.0.0.151:1234
+udp://232.0.0.151:1234
 #EXTINF:-1,tvg-id="辽宁公共" tvg-name="辽宁公共" tvg-logo="https://cdn.jsdelivr.net/gh/wanglindl/TVlogo@main/img/Liaoning5.png" group-title="辽宁",沈阳公共
-rtp://232.0.0.168:1234
+udp://232.0.0.168:1234
 #EXTINF:-1,tvg-id="辽宁经济" tvg-name="辽宁经济" tvg-logo="https://cdn.jsdelivr.net/gh/wanglindl/TVlogo@main/img/Liaoning7.png" group-title="辽宁",沈阳经济
-rtp://232.0.0.156:1234
+udp://232.0.0.156:1234
 #EXTINF:-1,tvg-id="沈阳新闻" tvg-name="沈阳新闻" tvg-logo="http://epg.51zmt.top:8000/tb1/qt/LNSY1.png" group-title="辽宁",沈阳新闻综合
-rtp://232.0.0.206:1234
+udp://232.0.0.206:1234
 #EXTINF:-1 tvg-name="CCTV4" tvg-logo="https://cdn.jsdelivr.net/gh/wanglindl/TVlogo@main/img/CCTV4oz.png" group-title="国际",CCTV-4 欧洲
-rtp://232.0.0.53:1234
+udp://232.0.0.53:1234
 #EXTINF:-1 tvg-name="CCTV4" tvg-logo="https://cdn.jsdelivr.net/gh/wanglindl/TVlogo@main/img/CCTV4mz.png" group-title="国际",CCTV-4 美洲
-rtp://232.0.0.59:1234
+udp://232.0.0.59:1234
 #EXTINF:-1,tvg-id="CGTN" tvg-name="CGTN" tvg-logo="https://cdn.jsdelivr.net/gh/wanglindl/TVlogo@main/img/CGTN.png" group-title="国际",CGTN
-rtp://232.0.0.188:1234
+udp://232.0.0.188:1234
 #EXTINF:-1,tvg-id="CGTN纪录" tvg-name="CGTN Documentary" tvg-logo="https://cdn.jsdelivr.net/gh/wanglindl/TVlogo@main/img/CGTNjilu.png" group-title="国际",CGTN Documentary
-rtp://232.0.0.198:1234
+udp://232.0.0.198:1234
 #EXTINF:-1,tvg-id="CGTN俄语" tvg-name="CGTN Русский" tvg-logo="https://cdn.jsdelivr.net/gh/wanglindl/TVlogo@main/img/CGTNey.png" group-title="国际",CGTN Русский
-rtp://232.0.0.28:1234
+udp://232.0.0.28:1234
 #EXTINF:-1,tvg-id="CGTN西语" tvg-name="CGTN Español" tvg-logo="https://cdn.jsdelivr.net/gh/wanglindl/TVlogo@main/img/CGTNxbyy.png" group-title="国际",CGTN Español
-rtp://232.0.0.6:1234
+udp://232.0.0.6:1234
 #EXTINF:-1,tvg-id="CGTN阿语" tvg-name="CGTN العربية" tvg-logo="https://cdn.jsdelivr.net/gh/wanglindl/TVlogo@main/img/CGTNalby.png" group-title="国际",CGTN العربية
-rtp://232.0.0.43:1234
+udp://232.0.0.43:1234
 #EXTINF:-1,tvg-id="CGTN法语" tvg-name="CGTN Français" tvg-logo="https://cdn.jsdelivr.net/gh/wanglindl/TVlogo@main/img/CGTNfy.png" group-title="国际",CGTN Français
-rtp://232.0.0.8:1234
+udp://232.0.0.8:1234
 #EXTINF:-1,tvg-id="中国教育1台" tvg-name="CETV1" tvg-logo="https://cdn.jsdelivr.net/gh/wanglindl/TVlogo@main/img/CETV1.png" group-title="其它",CETV1
-rtp://232.0.0.212:1234
+udp://232.0.0.212:1234
 #EXTINF:-1,tvg-id="中国教育2台" tvg-name="CETV2" tvg-logo="https://cdn.jsdelivr.net/gh/wanglindl/TVlogo@main/img/CETV2.png" group-title="其它",CETV2
-rtp://232.0.0.238:1234
+udp://232.0.0.238:1234
 #EXTINF:-1,tvg-id="中国教育4台" tvg-name="CETV4" tvg-logo="https://cdn.jsdelivr.net/gh/wanglindl/TVlogo@main/img/CETV4.png" group-title="其它",CETV4
-rtp://232.0.0.46:1234
+udp://232.0.0.46:1234
 #EXTINF:-1,tvg-id="金鹰纪实" tvg-name="金鹰纪实" tvg-logo="https://cdn.jsdelivr.net/gh/wanglindl/TVlogo@main/img/jyjs.png" group-title="其它",金鹰纪实
-rtp://232.0.0.163:1234
+udp://232.0.0.163:1234
 #EXTINF:-1,tvg-id="北京纪实" tvg-name="北京纪实" tvg-logo="https://cdn.jsdelivr.net/gh/wanglindl/TVlogo@main/img/jskj.png" group-title="其它",北京纪实科教
-rtp://232.0.0.162:1234
+udp://232.0.0.162:1234
 #EXTINF:-1,tvg-id="上海纪实" tvg-name="上海纪实" tvg-logo="https://cdn.jsdelivr.net/gh/wanglindl/TVlogo@main/img/jsrw.png" group-title="其它",上海纪实人文
-rtp://232.0.0.132:1234
+udp://232.0.0.132:1234
 #EXTINF:-1,tvg-id="金鹰卡通" tvg-name="金鹰卡通" tvg-logo="https://cdn.jsdelivr.net/gh/wanglindl/TVlogo@main/img/jykt.png" group-title="其它",金鹰卡通
-rtp://232.0.0.90:1234
+udp://232.0.0.90:1234
 #EXTINF:-1,tvg-id="哈哈炫动" tvg-name="炫动卡通" tvg-logo="https://cdn.jsdelivr.net/gh/wanglindl/TVlogo@main/img/hhxd.png" group-title="其它",炫动卡通
-rtp://232.0.0.103:1234
+udp://232.0.0.103:1234
 #EXTINF:-1,tvg-id="江苏优漫卡通" tvg-name="优漫卡通" tvg-logo="https://cdn.jsdelivr.net/gh/wanglindl/TVlogo@main/img/ymkt.png" group-title="其它",优漫卡通
-rtp://232.0.0.159:1234
+udp://232.0.0.159:1234
 #EXTINF:-1,tvg-id="嘉佳卡通" tvg-name="嘉佳卡通" tvg-logo="https://cdn.jsdelivr.net/gh/wanglindl/TVlogo@main/img/jjkt.png" group-title="其它",嘉佳卡通
-rtp://232.0.0.157:1234
+udp://232.0.0.157:1234
 #EXTINF:-1,tvg-id="卡酷少儿" tvg-name="卡酷少儿" tvg-logo="https://cdn.jsdelivr.net/gh/wanglindl/TVlogo@main/img/Beijing8.png" group-title="其它",卡酷少儿
-rtp://232.0.0.54:1234
+udp://232.0.0.54:1234
 #EXTINF:-1,tvg-id="新动漫" tvg-name="新动漫" tvg-logo="https://cdn.jsdelivr.net/gh/wanglindl/TVlogo@main/img/xindm.png" group-title="其它",新动漫
-rtp://232.0.0.36:1234
+udp://232.0.0.36:1234
 #EXTINF:-1,tvg-id="家庭理财" tvg-name="家庭理财" tvg-logo="https://cdn.jsdelivr.net/gh/wanglindl/TVlogo@main/img/jtlc.png" group-title="其它",家庭理财
-rtp://232.0.0.39:1234
+udp://232.0.0.39:1234
 #EXTINF:-1,tvg-id="环球旅游" tvg-name="环球旅游" tvg-logo="https://cdn.jsdelivr.net/gh/wanglindl/TVlogo@main/img/hqly.png" group-title="其它",环球旅游
-rtp://232.0.0.65:1234
+udp://232.0.0.65:1234
 #EXTINF:-1,tvg-id="四海钓鱼" tvg-name="四海钓鱼" tvg-logo="https://cdn.jsdelivr.net/gh/wanglindl/TVlogo@main/img/shdy.png" group-title="其它",四海钓鱼
-rtp://232.0.0.66:1234
+udp://232.0.0.66:1234
 #EXTINF:-1,tvg-id="中华特产" tvg-name="中华特产" tvg-logo="https://cdn.jsdelivr.net/gh/wanglindl/TVlogo@main/img/zhtc.png" group-title="其它",中华特产
-rtp://232.0.0.89:1234
+udp://232.0.0.89:1234
 #EXTINF:-1,tvg-id="优优宝贝" tvg-name="优优宝贝" tvg-logo="https://cdn.jsdelivr.net/gh/wanglindl/TVlogo@main/img/yybb.png" group-title="其它",优优宝贝
-rtp://232.0.0.100:1234
+udp://232.0.0.100:1234
 #EXTINF:-1,tvg-id="SITV-DOCUMENTARY" tvg-name="乐游" tvg-logo="https://cdn.jsdelivr.net/gh/wanglindl/TVlogo@main/img/leyou.png" group-title="其它",乐游
-rtp://232.0.0.108:1234
+udp://232.0.0.108:1234
 #EXTINF:-1,tvg-id="车迷" tvg-name="车迷" tvg-logo="https://cdn.jsdelivr.net/gh/wanglindl/TVlogo@main/img/chemitv.png" group-title="其它",车迷
-rtp://232.0.0.112:1234
+udp://232.0.0.112:1234
 #EXTINF:-1,tvg-id="生态环境" tvg-name="生态环境" tvg-logo="https://cdn.jsdelivr.net/gh/wanglindl/TVlogo@main/img/sthj.png" group-title="其它",生态环境
-rtp://232.0.0.113:1234
+udp://232.0.0.113:1234
 #EXTINF:-1,tvg-id="百姓健康" tvg-name="百姓健康" tvg-logo="https://cdn.jsdelivr.net/gh/wanglindl/TVlogo@main/img/bxjk.png" group-title="其它",百姓健康
-rtp://232.0.0.121:1234
+udp://232.0.0.121:1234
 #EXTINF:-1,tvg-id="中国天气" tvg-name="中国天气" tvg-logo="https://cdn.jsdelivr.net/gh/wanglindl/TVlogo@main/img/zgtq.png" group-title="其它",中国天气
-rtp://232.0.0.144:1234
+udp://232.0.0.144:1234
 #EXTINF:-1,tvg-id="财富天下" tvg-name="财富天下" tvg-logo="https://cdn.jsdelivr.net/gh/wanglindl/TVlogo@main/img/cftx.png" group-title="其它",财富天下
-rtp://232.0.0.147:1234
+udp://232.0.0.147:1234
 #EXTINF:-1,tvg-id="生活时尚" tvg-name="生活时尚" tvg-logo="https://cdn.jsdelivr.net/gh/wanglindl/TVlogo@main/img/shss.png" group-title="其它",生活时尚
-rtp://232.0.0.107:1234
+udp://232.0.0.107:1234
 #EXTINF:-1,tvg-id="游戏风云" tvg-name="游戏风云" tvg-logo="https://cdn.jsdelivr.net/gh/wanglindl/TVlogo@main/img/yxfy.png" group-title="其它",游戏风云
-rtp://232.0.0.127:1234
+udp://232.0.0.127:1234
 #EXTINF:-1,tvg-id="动漫秀场" tvg-name="动漫秀场" tvg-logo="https://cdn.jsdelivr.net/gh/wanglindl/TVlogo@main/img/dmxc.png" group-title="其它",动漫秀场
-rtp://232.0.0.128:1234
+udp://232.0.0.128:1234
 #EXTINF:-1,tvg-id="金色学堂" tvg-name="金色学堂" tvg-logo="https://cdn.jsdelivr.net/gh/wanglindl/TVlogo@main/img/jsxt.png" group-title="其它",金色学堂
-rtp://232.0.0.133:1234
+udp://232.0.0.133:1234
 #EXTINF:-1,tvg-id="法治天地" tvg-name="法治天地" tvg-logo="https://cdn.jsdelivr.net/gh/wanglindl/TVlogo@main/img/fztd.png" group-title="其它",法治天地
-rtp://232.0.0.134:1234
+udp://232.0.0.134:1234
 #EXTINF:-1,tvg-id="都市剧场" tvg-name="都市剧场" tvg-logo="https://cdn.jsdelivr.net/gh/wanglindl/TVlogo@main/img/dsjc.png" group-title="其它",都市剧场
-rtp://232.0.0.149:1234
+udp://232.0.0.149:1234
