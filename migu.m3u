@@ -12,4 +12,8 @@ http://[2409:8087:1a01:df::4023]/PLTV/88888888/224/3221225903/index.m3u8
 #EXTINF:-1 tvg-name="咪咕6" tvg-logo="https://cdn.jsdelivr.net/gh/Meroser/IPTV@main/TVlogo/MG.png",咪咕6
 http://[2409:8087:1a01:df::4051]/PLTV/88888888/224/3221225905/index.m3u8
 #EXTINF:-1 tvg-name="咪咕7" tvg-logo="https://cdn.jsdelivr.net/gh/Meroser/IPTV@main/TVlogo/MG.png",咪咕7
+http://[2409:8087:1a01:df::4077]/PLTV/88888888/224/3221225758/index.m3u8
+#EXTINF:-1 tvg-name="咪咕8" tvg-logo="https://cdn.jsdelivr.net/gh/Meroser/IPTV@main/TVlogo/MG.png",咪咕8
+http://[2409:8087:1a01:df::4076]/PLTV/88888888/224/3221225912/index.m3u8
+#EXTINF:-1 tvg-name="咪咕9" tvg-logo="https://cdn.jsdelivr.net/gh/Meroser/IPTV@main/TVlogo/MG.png",咪咕9
 http://[2409:8087:2001:20:2800:0:df6e:eb1a]:80/PLTV/1/224/3221230394/index.m3u8
