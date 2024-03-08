@@ -17,3 +17,13 @@ http://[2409:8087:1a01:df::4077]/PLTV/88888888/224/3221225758/index.m3u8
 http://[2409:8087:1a01:df::4076]/PLTV/88888888/224/3221225912/index.m3u8
 #EXTINF:-1 tvg-name="咪咕9" tvg-logo="https://cdn.jsdelivr.net/gh/Meroser/IPTV@main/TVlogo/MG.png",咪咕9
 http://[2409:8087:2001:20:2800:0:df6e:eb1a]:80/PLTV/1/224/3221230394/index.m3u8
+#EXTINF:-1 tvg-name="咪咕10" tvg-logo="https://cdn.jsdelivr.net/gh/Meroser/IPTV@main/TVlogo/MG.png",咪咕10
+http://[2409:8087:2001:20:2800:0:df6e:eb18]:80/PLTV/1/224/3221230365/index.m3u8
+#EXTINF:-1 tvg-name="咪咕11" tvg-logo="https://cdn.jsdelivr.net/gh/Meroser/IPTV@main/TVlogo/MG.png",咪咕11
+http://[2409:8087:2001:20:2800:0:df6e:eb1a]:80/PLTV/1/224/3221230363/index.m3u8
+#EXTINF:-1 tvg-name="咪咕12" tvg-logo="https://cdn.jsdelivr.net/gh/Meroser/IPTV@main/TVlogo/MG.png",咪咕12
+http://[2409:8087:1a01:df::4027]/PLTV/88888888/224/3221225914/index.m3u8
+#EXTINF:-1 tvg-name="咪咕13" tvg-logo="https://cdn.jsdelivr.net/gh/Meroser/IPTV@main/TVlogo/MG.png",咪咕13
+http://[2409:8087:1a01:df::4028]/PLTV/88888888/224/3221225897/index.m3u8
+#EXTINF:-1 tvg-name="足球" tvg-logo="https://cdn.jsdelivr.net/gh/Meroser/IPTV@main/TVlogo/MG.png",足球
+http://[2409:8087:2001:20:2800:0:df6e:eb0e]:80/PLTV/1/224/3221230902/index.m3u8
