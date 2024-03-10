@@ -29,6 +29,8 @@ http://[2409:8087:1a01:df::4022]/PLTV/88888888/224/3221225648/index.m3u8
 http://[2409:8087:1a01:df::4012]/PLTV/88888888/224/3221225660/index.m3u8
 #EXTINF:-1 tvg-name="咪咕15" tvg-logo="https://cdn.jsdelivr.net/gh/Meroser/IPTV@main/TVlogo/MG.png",咪咕15
 http://[2409:8087:1a01:df::4062]/PLTV/88888888/224/3221225733/index.m3u8
+#EXTINF:-1 tvg-name="咪咕16" tvg-logo="https://cdn.jsdelivr.net/gh/Meroser/IPTV@main/TVlogo/MG.png",咪咕16
+http://[2409:8087:1a01:df::4023]/PLTV/88888888/224/3221225611/index.m3u8
 #EXTINF:-1 tvg-name="赛事1" tvg-logo="https://cdn.jsdelivr.net/gh/Meroser/IPTV@main/TVlogo/MG.png",赛事1
 http://[2409:8087:1a01:df::4030]/PLTV/88888888/224/3221225754/index.m3u8
 #EXTINF:-1 tvg-name="赛事2" tvg-logo="https://cdn.jsdelivr.net/gh/Meroser/IPTV@main/TVlogo/MG.png",赛事2
