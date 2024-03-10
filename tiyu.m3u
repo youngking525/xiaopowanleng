@@ -24,6 +24,22 @@ http://[2409:8087:2001:20:2800:0:df6e:eb1a]:80/PLTV/1/224/3221230363/index.m3u8
 #EXTINF:-1 tvg-name="咪咕12" tvg-logo="https://cdn.jsdelivr.net/gh/Meroser/IPTV@main/TVlogo/MG.png",咪咕12
 http://[2409:8087:1a01:df::4027]/PLTV/88888888/224/3221225914/index.m3u8
 #EXTINF:-1 tvg-name="咪咕13" tvg-logo="https://cdn.jsdelivr.net/gh/Meroser/IPTV@main/TVlogo/MG.png",咪咕13
-http://[2409:8087:1a01:df::4028]/PLTV/88888888/224/3221225897/index.m3u8
-#EXTINF:-1 tvg-name="足球" tvg-logo="https://cdn.jsdelivr.net/gh/Meroser/IPTV@main/TVlogo/MG.png",足球
+http://[2409:8087:1a01:df::4022]/PLTV/88888888/224/3221225648/index.m3u8
+#EXTINF:-1 tvg-name="咪咕14" tvg-logo="https://cdn.jsdelivr.net/gh/Meroser/IPTV@main/TVlogo/MG.png",咪咕14
+http://[2409:8087:1a01:df::4012]/PLTV/88888888/224/3221225660/index.m3u8
+#EXTINF:-1 tvg-name="咪咕15" tvg-logo="https://cdn.jsdelivr.net/gh/Meroser/IPTV@main/TVlogo/MG.png",咪咕15
+http://[2409:8087:1a01:df::4062]/PLTV/88888888/224/3221225733/index.m3u8
+#EXTINF:-1 tvg-name="赛事1" tvg-logo="https://cdn.jsdelivr.net/gh/Meroser/IPTV@main/TVlogo/MG.png",赛事1
+http://[2409:8087:1a01:df::4030]/PLTV/88888888/224/3221225754/index.m3u8
+#EXTINF:-1 tvg-name="赛事2" tvg-logo="https://cdn.jsdelivr.net/gh/Meroser/IPTV@main/TVlogo/MG.png",赛事2
+http://[2409:8087:2001:20:2800:0:df6e:eb0e]:80/PLTV/1/224/3221230921/index.m3u8
+#EXTINF:-1 tvg-name="赛事3" tvg-logo="https://cdn.jsdelivr.net/gh/Meroser/IPTV@main/TVlogo/MG.png",赛事3
+http://[2409:8087:2001:20:2800:0:df6e:eb18]:80/PLTV/1/224/3221230434/index.m3u8
+#EXTINF:-1 tvg-name="UFC?" tvg-logo="https://cdn.jsdelivr.net/gh/Meroser/IPTV@main/TVlogo/MG.png",UFC?
+http://[2409:8087:2001:20:2800:0:df6e:eb1a]:80/PLTV/1/224/3221230949/index.m3u8
+#EXTINF:-1 tvg-name="足球1" tvg-logo="https://cdn.jsdelivr.net/gh/Meroser/IPTV@main/TVlogo/MG.png",足球1
 http://[2409:8087:2001:20:2800:0:df6e:eb0e]:80/PLTV/1/224/3221230902/index.m3u8
+#EXTINF:-1 tvg-name="足球2" tvg-logo="https://cdn.jsdelivr.net/gh/Meroser/IPTV@main/TVlogo/MG.png",足球2
+http://[2409:8087:2001:20:2800:0:df6e:eb04]:80/PLTV/1/224/3221231241/index.m3u8
+#EXTINF:-1 tvg-name="精品体育" tvg-logo="https://cdn.jsdelivr.net/gh/wanglindl/TVlogo@main/img/NewTV18.png",精品体育
+http://[2409:8087:2001:20:2800:0:df6e:eb1a]:80/PLTV/1/224/3221230477/index.m3u8
