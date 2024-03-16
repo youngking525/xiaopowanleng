@@ -146,6 +146,8 @@ http://[2409:8087:7004:20:1000::22]:6610/yinhe/2/ch00000090990000001306/index.m3
 #4K
 #EXTINF:-1 tvg-id="A19" tvg-name="CCTV4K" tvg-logo="https://cdn.jsdelivr.net/gh/wanglindl/TVlogo@main/img/CCTV4K.png" group-title="4K",CCTV-4K 超高清
 http://192.168.123.1:1245/udp/232.0.0.158:1234
+#EXTINF:-1 tvg-id="A19" tvg-name="CCTV8K" tvg-logo="https://cdn.jsdelivr.net/gh/wanglindl/TVlogo@main/img/CCTV8K.png" group-title="4K",CCTV-8K 超高清
+http://192.168.123.2:6789/ysp.php?id=cctv8k_60m
 #EXTINF:-1 tvg-name="LoveNrture" group-title="4K",Love Nrture 4K
 https://d18dyiwu97wm6q.cloudfront.net/playlist2160p.m3u8
 #EXTINF:-1 tvg-name="Loupe" group-title="4K",Loupe 4K
