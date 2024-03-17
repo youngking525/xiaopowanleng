@@ -200,6 +200,12 @@ http://[2409:8087:7000:20:1000::22]:6060/000000001000/5000000002000029972/index.
 http://[2409:8087:7004:20:1000::22]:6610/yinhe/2/ch00000090990000001322/index.m3u8?virtualDomain=yinhe.live_hls.zte.com
 
 #国际
+#EXTINF:-1 tvg-id="PH01" tvg-name="凤凰中文" tvg-logo="https://cdn.jsdelivr.net/gh/wanglindl/TVlogo@main/img/Phoenix1.png" group-title="国际时事",凤凰中文
+http://113.64.145.173:8081/hls/37/index.m3u8
+#EXTINF:-1 tvg-id="PH02" tvg-name="凤凰资讯" tvg-logo="https://cdn.jsdelivr.net/gh/wanglindl/TVlogo@main/img/Phoenix2.png" group-title="国际时事",凤凰资讯
+http://113.64.145.173:8081/hls/36/index.m3u8
+#EXTINF:-1 tvg-id="PH03" tvg-name="凤凰香港" tvg-logo="https://cdn.jsdelivr.net/gh/wanglindl/TVlogo@main/img/Phoenix3.png" group-title="国际时事",凤凰香港
+http://113.64.145.173:8081/hls/38/index.m3u8
 #EXTINF:-1 tvg-id="CGTN01" tvg-name="CGTN" tvg-logo="https://cdn.jsdelivr.net/gh/wanglindl/TVlogo@main/img/CGTN.png" group-title="国际",CGTN
 http://[2409:8087:7000:20:1000::22]:6060/yinhe/2/ch00000090990000001024/index.m3u8?virtualDomain=yinhe.live_hls.zte.com
 #EXTINF:-1 tvg-id="CGTN02" tvg-name="CGTN Documentary" tvg-logo="https://cdn.jsdelivr.net/gh/wanglindl/TVlogo@main/img/CGTNjilu.png" group-title="国际",CGTN Documentary
