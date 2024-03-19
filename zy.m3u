@@ -5,29 +5,29 @@ http://[2409:8087:7000:20::4]/dbiptv.sn.chinamobile.com/PLTV/88888888/224/322122
 #EXTINF:-1 tvg-id="2" tvg-name="CCTV2" tvg-logo="https://cdn.jsdelivr.net/gh/youngking525/TVlogo@main/img/CCTV2.png" group-title="央视",CCTV-2 财经
 http://[2409:8087:7000:20:1000::22]:6060/yinhe/2/ch00000090990000001332/index.m3u8?virtualDomain=yinhe.live_hls.zte.com
 #EXTINF:-1 tvg-id="3" tvg-name="CCTV3" tvg-logo="https://cdn.jsdelivr.net/gh/youngking525/TVlogo@main/img/CCTV3.png" group-title="央视",CCTV-3 综艺
-http://[2409:8087:7001:20:3::7]:80/dbiptv.sn.chinamobile.com/PLTV/88888888/224/3221226397/index.m3u8
+http://36.129.204.120:880/DX101.m3u8
 #EXTINF:-1 tvg-id="4" tvg-name="CCTV4" tvg-logo="https://cdn.jsdelivr.net/gh/youngking525/TVlogo@main/img/CCTV4.png" group-title="央视",CCTV-4 中文国际
 http://[2409:8087:7000:20:1000::22]:6060/yinhe/2/ch00000090990000001333/index.m3u8?virtualDomain=yinhe.live_hls.zte.com
 #EXTINF:-1 tvg-id="5" tvg-name="CCTV5" tvg-logo="https://cdn.jsdelivr.net/gh/youngking525/TVlogo@main/img/CCTV5.png" group-title="央视",CCTV-5 体育
-http://[2409:8087:7001:20:3::5]:80/dbiptv.sn.chinamobile.com/PLTV/88888888/224/3221226395/index.m3u8
+http://36.129.204.120:880/DX99.m3u8
 #EXTINF:-1 tvg-id="6" tvg-name="CCTV5plus" tvg-logo="https://cdn.jsdelivr.net/gh/youngking525/TVlogo@main/img/CCTV5plus.png" group-title="央视",CCTV-5+ 体育赛事
 http://[2409:8087:7000:20:1000::22]:6060/yinhe/2/ch00000090990000001334/index.m3u8?virtualDomain=yinhe.live_hls.zte.com
 #EXTINF:-1 tvg-id="7" tvg-name="CCTV6" tvg-logo="https://cdn.jsdelivr.net/gh/youngking525/TVlogo@main/img/CCTV6.png" group-title="央视",CCTV-6 电影
-http://[2409:8087:7001:20:3::7]:80/dbiptv.sn.chinamobile.com/PLTV/88888888/224/3221226393/index.m3u8
+http://36.129.204.120:880/DX98.m3u8
 #EXTINF:-1 tvg-id="8" tvg-name="CCTV7" tvg-logo="https://cdn.jsdelivr.net/gh/youngking525/TVlogo@main/img/CCTV7.png" group-title="央视",CCTV-7 国防军事
-http://[2409:8087:7001:20:3::4]:80/dbiptv.sn.chinamobile.com/PLTV/88888888/224/3221226192/index.m3u8
+http://36.129.204.120:880/DX7.m3u8
 #EXTINF:-1 tvg-id="9" tvg-name="CCTV8" tvg-logo="https://cdn.jsdelivr.net/gh/youngking525/TVlogo@main/img/CCTV8.png" group-title="央视",CCTV-8 电视剧
-http://[2409:8087:7001:20:3::8]:80/dbiptv.sn.chinamobile.com/PLTV/88888888/224/3221226391/index.m3u8
+http://36.129.204.120:880/DX8.m3u8
 #EXTINF:-1 tvg-id="10" tvg-name="CCTV9" tvg-logo="https://cdn.jsdelivr.net/gh/youngking525/TVlogo@main/img/CCTV9.png" group-title="央视",CCTV-9 纪录
-http://[2409:8087:7001:20:3::4]:80/dbiptv.sn.chinamobile.com/PLTV/88888888/224/3221226197/index.m3u8
+http://36.129.204.120:880/DX9.m3u8
 #EXTINF:-1 tvg-id="11" tvg-name="CCTV10" tvg-logo="https://cdn.jsdelivr.net/gh/youngking525/TVlogo@main/img/CCTV10.png" group-title="央视",CCTV-10 科教
-http://[2409:8087:1a01:df::7005]/ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221226473/index.m3u8
+http://36.129.204.120:880/DX11.m3u8
 #EXTINF:-1 tvg-id="12" tvg-name="CCTV11" tvg-logo="https://cdn.jsdelivr.net/gh/youngking525/TVlogo@main/img/CCTV11.png" group-title="央视",CCTV-11 戏曲
 http://[2409:8087:7000:20::4]:80/dbiptv.sn.chinamobile.com/PLTV/88888888/224/3221226240/1.m3u8
 #EXTINF:-1 tvg-id="13" tvg-name="CCTV12" tvg-logo="https://cdn.jsdelivr.net/gh/youngking525/TVlogo@main/img/CCTV12.png" group-title="央视",CCTV-12 社会与法
-http://[2409:8087:1a01:df::7005]/ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221226568/index.m3u8
+http://36.129.204.120:880/DX12.m3u8
 #EXTINF:-1 tvg-id="14" tvg-name="CCTV13" tvg-logo="https://cdn.jsdelivr.net/gh/youngking525/TVlogo@main/img/CCTV13.png" group-title="央视",CCTV-13 新闻
-http://[2409:8087:1a01:df::7005]/ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221226537/index.m3u8
+http://36.129.204.120:880/DX92.m3u8
 #EXTINF:-1 tvg-id="15" tvg-name="CCTV14" tvg-logo="https://cdn.jsdelivr.net/gh/youngking525/TVlogo@main/img/CCTV14.png" group-title="央视",CCTV-14 少儿
 http://[2409:8087:1a01:df::7005]/ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221226591/index.m3u8
 #EXTINF:-1 tvg-id="16" tvg-name="CCTV15" tvg-logo="https://cdn.jsdelivr.net/gh/youngking525/TVlogo@main/img/CCTV15.png" group-title="央视",CCTV-15 音乐
