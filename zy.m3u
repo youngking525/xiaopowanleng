@@ -23,7 +23,7 @@ http://36.129.204.120:880/DX9.m3u8
 #EXTINF:-1 tvg-id="11" tvg-name="CCTV10" tvg-logo="https://cdn.jsdelivr.net/gh/youngking525/TVlogo@main/img/CCTV10.png" group-title="央视",CCTV-10 科教
 http://36.129.204.120:880/DX11.m3u8
 #EXTINF:-1 tvg-id="12" tvg-name="CCTV11" tvg-logo="https://cdn.jsdelivr.net/gh/youngking525/TVlogo@main/img/CCTV11.png" group-title="央视",CCTV-11 戏曲
-http://36.129.204.120:880/DX11.m3u8
+http://36.129.204.120:880/DXX11.m3u8
 #EXTINF:-1 tvg-id="13" tvg-name="CCTV12" tvg-logo="https://cdn.jsdelivr.net/gh/youngking525/TVlogo@main/img/CCTV12.png" group-title="央视",CCTV-12 社会与法
 http://36.129.204.120:880/DX12.m3u8
 #EXTINF:-1 tvg-id="14" tvg-name="CCTV13" tvg-logo="https://cdn.jsdelivr.net/gh/youngking525/TVlogo@main/img/CCTV13.png" group-title="央视",CCTV-13 新闻
