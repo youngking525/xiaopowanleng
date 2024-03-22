@@ -1,0 +1,97 @@
+#EXTM3U x-tvg-url="http://content.stream-link.org/epg/guide.xml" catchup="append" catchup-source="?playseek=${(b)yyyyMMddHHmmss}-${(e)yyyyMMddHHmmss}"
+#EXTINF:-1,tvg-id="TVB 新闻" tvg-name="TVB 新闻" tvg-logo="https://epg.112114.xyz/logo/TVB新闻.png" group-title="港澳台",TVB 新闻
+http://ali.hlspull.yximgs.com/live/huanqiuhklivefhwjpthljjsjsjjbvdljdmnbjhdhyjyjtvbwxxw.flv
+#EXTINF:-1,tvg-id="TVB 财经" tvg-name="TVB 财经" tvg-logo="https://epg.112114.xyz/logo/TVB财经.png" group-title="港澳台",TVB 财经
+http://ali.hlspull.yximgs.com/live/huanqiuhklivefhwylwpthjyjjfjxvjlmnduhyjmtvbwxcd.flv
+#EXTINF:-1,tvg-id="无线财经" tvg-name="无线财经" tvg-logo="https://epg.112114.xyz/logo/无线财经.png" group-title="港澳台",无线财经
+http://ali.hlspull.yximgs.com/live/huanqiuhklivefhwohdpthfgfbvcfghjyfjsjbcvxjvbxjsfjfjsehbvbjtvbd5.flv
+#EXTINF:-1,tvg-id="TVB 新闻" tvg-name="TVB 新闻" tvg-logo="https://epg.112114.xyz/logo/TVB新闻.png" group-title="港澳台",TVB 新闻
+http://live.cooltv.top/tv/tvb.php?id=1&hq
+#EXTINF:-1,tvg-id="TVB 财经" tvg-name="TVB 财经" tvg-logo="https://epg.112114.xyz/logo/TVB财经.png" group-title="港澳台",TVB 财经
+http://live.cooltv.top/tv/tvb.php?id=2&hq
+#EXTINF:-1,tvg-id="HOY 77" tvg-name="HOY 77" tvg-logo="https://epg.112114.xyz/logo/HOY77.png" group-title="其他",HOY 77
+http://ali.hlspull.yximgs.com/live/huanqiuhkliveyvjojmfdyjjdjdjhdnowspjjlfjhjtycxjfjjojtspjjmehoytv.flv
+#EXTINF:-1,tvg-id="HOY 78" tvg-name="HOY 78" tvg-logo="https://epg.112114.xyz/logo/HOY78.png" group-title="其他",HOY 78
+http://ali.hlspull.yximgs.com/live/huanqiuhklivejejcxlvofbncvshhjsjcvndfncvbdjpeyjhxchjsjjhjejjjyxxw.flv
+#EXTINF:-1,tvg-id="J2" tvg-name="J2" tvg-logo="https://epg.112114.xyz/logo/J2.png" group-title="港澳台",TVB J2
+http://ali.hlspull.yximgs.com/live/huanqiuhklivefhwohdpthjyfiplhdftujfbvdimhdjnbjsjbcvxjfjsehbvbjtvbd2.flv
+#EXTINF:-1,tvg-id="TVB 翡翠" tvg-name="TVB 翡翠" tvg-logo="https://epg.112114.xyz/logo/TVB翡翠.png" group-title="港澳台",TVB 翡翠
+http://ali.hlspull.yximgs.com/live/huanqiuhklivefhwwjpthjyjtjjjxcxbfhjjfjvhdtjdvbtvjsjxjfsjjcvbctvbfc.flv
+#EXTINF:-1,tvg-id="TVB 明珠" tvg-name="TVB 明珠" tvg-logo="https://epg.112114.xyz/logo/TVB明珠.png" group-title="港澳台",TVB 明珠
+http://ali.hlspull.yximgs.com/live/huanqiuhklivetcfjhvdjjxcodwoetjmncthvbstyreyhbnnvbdjjwthjyjtvbmj.flv
+#EXTINF:-1,tvg-id="VIUTV" tvg-name="VIUTV" tvg-logo="https://epg.112114.xyz/logo/VIUTV.png" group-title="其他",VIU TV
+http://ali.hlspull.yximgs.com/live/huanqiuhklivefhtjjnjjdldjlujobnmjjhnbbmdjlpthjyjvjutv.flv
+#EXTINF:-1,tvg-id="镜 新 闻" tvg-name="镜 新 闻" tvg-logo="https://epg.112114.xyz/logo/镜新闻.png" group-title="其他",镜 新 闻
+http://ali.hlspull.yximgs.com/live/huanqiuhkliveexcvjjocvuojxucfdexjpjjyxchvljxjfejhcelethjjdxw.flv
+#EXTINF:-1,tvg-id="壹 新 闻" tvg-name="壹 新 闻" tvg-logo="https://epg.112114.xyz/logo/壹新闻.png" group-title="其他",壹 新 闻
+http://ali.hlspull.yximgs.com/live/huanqiuhklivemjfoyjvjsdvbnwejtjujjxjcvfjjsjfhfjddjjlhtbchyxw.flv
+#EXTINF:-1,tvg-id="寰宇新闻" tvg-name="寰宇新闻" tvg-logo="https://epg.112114.xyz/logo/寰宇新闻.png" group-title="其他",寰宇新闻
+http://ali.hlspull.yximgs.com/live/huanqiuhklivephxehmffjuxcxjvejejyhmnjjxjjhjdhnjbnxfdjfhyxw.flv
+#EXTINF:-1,tvg-id="TVBS" tvg-name="TVBS" tvg-logo="https://epg.112114.xyz/logo/TVBS.png" group-title="港澳台",TVBS HD
+http://ali.hlspull.yximgs.com/live/huanqiuhklivejpjovdxjojfdejodsjxcvljjfvhnjljjjobjjjsvhjchtvbs.flv
+#EXTINF:-1,tvg-id="TVBS新闻台" tvg-name="TVBS新闻台" tvg-logo="https://epg.112114.xyz/logo/TVBS新闻台.png" group-title="港澳台",TVBS新闻
+http://ali.hlspull.yximgs.com/live/huanqiuhklivejojwhjxojhjjjlfhjljsjcnxjfvbhjdjwjfjjdsswvtvbsxw.flv
+#EXTINF:-1,tvg-id="中天新闻台" tvg-name="中天新闻台" tvg-logo="https://epg.112114.xyz/logo/中天新闻台.png" group-title="其他",中天新闻
+http://ali.hlspull.yximgs.com/live/huanqiuhklivepjjtvvjjjyjuujjfvbscvjdjtwjfsjjsjjjcvuyjemjejtxw.flv
+#EXTINF:-1,tvg-id="中视新闻" tvg-name="中视新闻" tvg-logo="https://epg.112114.xyz/logo/中视新闻.png" group-title="港澳台",中视新闻
+http://ali.hlspull.yximgs.com/live/huanqiuhklivepnvjydstudjbsjcvbfjjjsjfjsjwetymjldhdujocnjsxw.flv
+#EXTINF:-1,tvg-id="年代新闻台" tvg-name="年代新闻台" tvg-logo="https://epg.112114.xyz/logo/年代新闻台.png" group-title="港澳台",年代新闻
+http://ali.hlspull.yximgs.com/live/huanqiuhkliveojevdyscvbudlojlnsfjewtjudvbbjxfjnjlvcjdjdnjxw.flv
+#EXTINF:-1,tvg-id="东森新闻台" tvg-name="东森新闻台" tvg-logo="https://epg.112114.xyz/logo/东森新闻台.png" group-title="港澳台",东森新闻
+http://ali.hlspull.yximgs.com/live/huanqiuhklivemhjttujjcvbyjuojdjjejywefjjfbxfbxxvbjjjljjhjsxw.flv
+#EXTINF:-1,tvg-id="三立iNEWS" tvg-name="三立iNEWS" tvg-logo="https://epg.112114.xyz/logo/三立INEWS.png" group-title="其他",三立iNEWS
+http://ali.hlspull.yximgs.com/live/huanqiuhklivehmcyoywjjubjdfjfvchtjujxcjxvcbsjfsdxcbmjsllivexw.flv
+#EXTINF:-1,tvg-id="三立LIVE" tvg-name="三立LIVE" tvg-logo="https://epg.112114.xyz/logo/三立LIVE.png" group-title="其他",三立LIVE
+http://ali.hlspull.yximgs.com/live/huanqiuhklivehmcyoywjjubjfdjfvchtcbsjjjvfjhncvndvbsxcbmjsllive.flv
+#EXTINF:-1,tvg-id="非凡新闻台" tvg-name="非凡新闻台" tvg-logo="https://epg.112114.xyz/logo/非凡新闻台.png" group-title="其他",非凡新闻
+http://ali.hlspull.yximgs.com/live/huanqiuhklivesjtnfjjojdcbfcxvjfuujjwejjjsjyuhhdjsjhjynffxw.flv
+#EXTINF:-1,tvg-id="民视新闻台" tvg-name="民视新闻台" tvg-logo="https://epg.112114.xyz/logo/民视新闻台.png" group-title="港澳台",民视新闻
+hhttp://ali.hlspull.yximgs.com/live/huanqiuhklivecnbvjfhdjujjvcbnjftujscxjfjejyhjjvjfmsxw.flv
+#EXTINF:-1,tvg-id="华视" tvg-name="华视" tvg-logo="https://epg.112114.xyz/logo/华视.png" group-title="港澳台",华视新闻
+http://ali.hlspull.yximgs.com/live/huanqiuhklivencxtdtejhlvmjsjwjejwttyjhvcbjjjsjntjvbjugsxw.flv
+#EXTINF:-1,tvg-id="台视新闻台" tvg-name="台视新闻台" tvg-logo="https://epg.112114.xyz/logo/台视新闻台.png" group-title="港澳台",台视新闻
+http://ali.hlspull.yximgs.com/live/huanqiuhklivencjjtjjudtjljcvbcvntjjjsfwetjfvcbcxvdjbjfflvcjtsxw.flv
+#EXTINF:-1,tvg-id="台视新闻台" tvg-name="台视新闻台" tvg-logo="https://epg.112114.xyz/logo/台视新闻台.png" group-title="港澳台",台视新闻
+https://live.wcetv.com/hls/master-ttvnews.m3u8
+#EXTINF:-1,tvg-id="THRILL" tvg-name="THRILL" tvg-logo="https://epg.112114.xyz/logo/THRILL.png" group-title="其他",Thrill
+http://ali.hlspull.yximgs.com/live/huanqiuhkliveecvjwejjosvojjjsjjjdejfjxjucjshvjcsjjfcjtchpljy.flv
+#EXTINF:-1,tvg-id="THRILL" tvg-name="THRILL" tvg-logo="https://epg.112114.xyz/logo/THRILL.png" group-title="其他",Thrill
+http://ali.hlspull.yximgs.com/live/huanqiuhklivejvpjfjwjojcvljnjletfojsjjhjsjdjljdfewjjtthjjll.flv
+#EXTINF:-1,tvg-id="天映经典" tvg-name="天映经典" tvg-logo="https://epg.112114.xyz/logo/天映经典.png" group-title="其他",天映频道
+http://ali.hlspull.yximgs.com/live/huanqiuhklivejejcxlvofbjbvnjjsfjvbhfhcvxcvjsjbcvjfdvjsfcbjbnjtypj.flv
+#EXTINF:-1,tvg-id="天映经典" tvg-name="天映经典" tvg-logo="https://epg.112114.xyz/logo/天映经典.png" group-title="其他",天映经典
+http://ali.hlspull.yximgs.com/live/huanqiuhklivevcnydsjfjsetjjfcvbcdtsjjfvxcvsjnmbnljjhjjnmyhsjjftydj.flv
+#EXTINF:-1,tvg-id="华艺综合台" tvg-name="华艺综合台" tvg-logo="https://epg.112114.xyz/logo/华艺综合台.png" group-title="其他",华艺综合台
+http://ali.hlspull.yximgs.com/live/huanqiuhklivesfbxcvjsfjdhnfcvbsxjdnjsvmbnfjujfdhyujmjbvnjslhdj.flv
+#EXTINF:-1,tvg-id="东森戏剧台" tvg-name="东森戏剧台" tvg-logo="https://epg.112114.xyz/logo/东森戏剧台.png" group-title="港澳台",东森戏剧台
+http://ali.hlspull.yximgs.com/live/huanqiuhkliveyvjojmfdycvbjcxljdjfxdcvnjvdwspjcophjfvjtycxjpjjmendsxd.flv
+#EXTINF:-1,tvg-id="东森戏剧台" tvg-name="东森戏剧台" tvg-logo="https://epg.112114.xyz/logo/东森戏剧台.png" group-title="港澳台",东森戏剧台
+http://ali.hlspull.yximgs.com/live/huanqiuhkliveyvjojmfdycvbjcxljdjfxdcvnjvdwspjcophjfvjtycxjpjjmendsxd.flv
+#EXTINF:-1,tvg-id="东森电影台" tvg-name="东森电影台" tvg-logo="https://epg.112114.xyz/logo/东森电影台.png" group-title="港澳台",东森电影台
+http://ali.hlspull.yximgs.com/live/huanqiuhklivejowdxnjltdjhecvxcjjejjejyhjdyduojuomdfjhjjjdjsjy.flv
+#EXTINF:-1,tvg-id="东森洋片台" tvg-name="东森洋片台" tvg-logo="https://epg.112114.xyz/logo/东森洋片台.png" group-title="港澳台",东森洋片台
+http://ali.hlspull.yximgs.com/live/huanqiuhklivejmjptdjjxfjwetjvbjstjjjsutyhdjhfljjfhfhyjwjsyp.flv
+#EXTINF:-1,tvg-id="龙祥电影台" tvg-name="龙祥电影台" tvg-logo="https://epg.112114.xyz/logo/龙祥电影台.png" group-title="其他",龙祥电影台
+http://ali.hlspull.yximgs.com/live/huanqiuhklivemjloehjbjjjpvboydetjewsjhthjyujfjwetyjjjhflxsj.flv
+#EXTINF:-1,tvg-id="龙华戏剧" tvg-name="龙华戏剧" tvg-logo="https://epg.112114.xyz/logo/龙华戏剧.png" group-title="其他",龙华戏剧台
+http://ali.hlspull.yximgs.com/live/huanqiuhklivejejcxlvofbjbvnjjsfjvbhslcfvxcvjsjbcvjfdvjsfcbjbnjtyjd.flv
+#EXTINF:-1,tvg-id="龙华洋片" tvg-name="龙华洋片" tvg-logo="https://epg.112114.xyz/logo/龙华洋片.png" group-title="其他",龙华洋片台
+http://ali.hlspull.yximgs.com/live/huanqiuhklivejejcxlvofbjbvbjjjfjvjhslcfvxcvxsjbcvjfdvsfcbjbnjtyxty.flv
+#EXTINF:-1,tvg-id="好莱坞电影台" tvg-name="好莱坞电影台" tvg-logo="https://epg.112114.xyz/logo/好莱坞电影台.png" group-title="其他",好莱坞电影台
+http://ali.hlspull.yximgs.com/live/huanqiuhklivejmpjjwdeyjsjjcjvsjfjljvjfhjuejdfjhjwjljcmbhlwjy.flv
+#EXTINF:-1,tvg-id="ELTA影剧台" tvg-name="ELTA影剧台" tvg-logo="https://epg.112114.xyz/logo/ELTA影剧台.png" group-title="其他",ELTA影剧台
+http://ali.hlspull.yximgs.com/live/huanqiuhklivesfbxcvjsfjdhnfcvbsxjdnjsvmvbsjjjfdhyujmjbvnjslhxd.flv
+#EXTINF:-1,tvg-id="CI" tvg-name="CI" tvg-logo="https://epg.112114.xyz/logo/CI.png" group-title="其他",CINEMAX电影台
+http://ali.hlspull.yximgs.com/live/huanqiuhklivejejcxlvofbjbvbjjjbvyvblcfybjxdbcjcfdvsfcbjbnjtcjnemjx.flv
+#EXTINF:-1,tvg-id="BOO恐怖台" tvg-name="BOO恐怖台" tvg-logo="https://epg.112114.xyz/logo/BOO恐怖台.png" group-title="其他",BOO恐怖台
+http://ali.hlspull.yximgs.com/live/huanqiuhklivejejcxlvofbncvshhjsjcvndfncvbdjpxyjhjchjsjbhjejjjvboo.flv
+#EXTINF:-1,tvg-id="THRILL" tvg-name="THRILL" tvg-logo="https://epg.112114.xyz/logo/THRILL.png" group-title="其他",Thrill台
+http://ali.hlspull.yximgs.com/live/huanqiuhkliveecvjwejjosvojjjsjjjdejfjxjucjshvjcsjjfcjtchpljy.flv
+#EXTINF:-1,tvg-id="THRILL" tvg-name="THRILL" tvg-logo="https://epg.112114.xyz/logo/THRILL.png" group-title="其他",Thrill台
+http://ali.hlspull.yximgs.com/live/huanqiuhklivejvpjfjwjojcvljnjletfojsjjhjsjdjljdfewjjtthjjll.flv
+#EXTINF:-1,tvg-id="AXN" tvg-name="AXN" tvg-logo="https://epg.112114.xyz/logo/AXN.png" group-title="其他",AXN台
+http://ali.hlspull.yximgs.com/live/huanqiuhklivejejcxlvofbjbvbjjjfjvjhslcfybjssxsjbcjcfdvsfcbjbnjtyjxn.flv
+#EXTINF:-1,tvg-id="HBO" tvg-name="HBO" tvg-logo="https://epg.112114.xyz/logo/HBO.png" group-title="港澳台",HBO台
+http://ali.hlspull.yximgs.com/live/huanqiuhklivemjjljpwjdctdfhdvjdjdujlvcbeywejweefshjfhhjsjjcxhbo.flv
+#EXTINF:-1,tvg-id="HBO" tvg-name="HBO" tvg-logo="https://epg.112114.xyz/logo/HBO.png" group-title="港澳台",HBO 家庭台
+http://ali.hlspull.yximgs.com/live/huanqiuhklivetjcvsjgcjyhpvobjxclmvhjogdjbodbsjhlelevendhbosignature.flv
