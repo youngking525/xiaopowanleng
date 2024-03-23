@@ -130,17 +130,17 @@ http://113.64.145.173:8081/hls/37/index.m3u8
 http://113.64.145.173:8081/hls/36/index.m3u8
 #EXTINF:-1 tvg-id="284" tvg-name="凤凰香港" tvg-logo="https://cdn.jsdelivr.net/gh/youngking525/TVlogo@main/img/Phoenix3.png" group-title="国际时事",凤凰香港
 http://113.64.145.173:8081/hls/38/index.m3u8
-#EXTINF:-1 tvg-id="CGTN新闻" tvg-name="CGTN-新闻" tvg-logo="https://cdn.jsdelivr.net/gh/youngking525/TVlogo@main/img/CGTN.png" group-title="国际",CGTN
+#EXTINF:-1 tvg-id="25" tvg-name="CGTN-新闻" tvg-logo="https://cdn.jsdelivr.net/gh/youngking525/TVlogo@main/img/CGTN.png" group-title="国际",CGTN-新闻
 http://[2409:8087:7000:20:1000::22]:6060/yinhe/2/ch00000090990000001024/index.m3u8?virtualDomain=yinhe.live_hls.zte.com
-#EXTINF:-1 tvg-id="CGTN纪录" tvg-name="CGTN-纪录" tvg-logo="https://cdn.jsdelivr.net/gh/youngking525/TVlogo@main/img/CGTNjilu.png" group-title="国际",CGTN Documentary
+#EXTINF:-1 tvg-id="29" tvg-name="CGTN-纪录" tvg-logo="https://cdn.jsdelivr.net/gh/youngking525/TVlogo@main/img/CGTNjilu.png" group-title="国际",CGTN-纪录
 http://[2409:8087:7000:20:1000::22]:6060/yinhe/2/ch00000090990000002905/index.m3u8?virtualDomain=yinhe.live_hls.zte.com
-#EXTINF:-1 tvg-id="CGTN法语" tvg-name="CGTN-法语" tvg-logo="https://cdn.jsdelivr.net/gh/youngking525/TVlogo@main/img/CGTNfy.png" group-title="国际",CGTN Français
+#EXTINF:-1 tvg-id="22" tvg-name="CGTN-法语" tvg-logo="https://cdn.jsdelivr.net/gh/youngking525/TVlogo@main/img/CGTNfy.png" group-title="国际",CGTN-法语
 http://[2409:8087:7000:20:1000::22]:6060/yinhe/2/ch00000090990000002827/index.m3u8?virtualDomain=yinhe.live_hls.zte.com
-#EXTINF:-1 tvg-id="CGTN俄语" tvg-name="CGTN-俄语" tvg-logo="https://cdn.jsdelivr.net/gh/youngking525/TVlogo@main/img/CGTNey.png" group-title="国际",CGTN Русский
+#EXTINF:-1 tvg-id="23" tvg-name="CGTN-俄语" tvg-logo="https://cdn.jsdelivr.net/gh/youngking525/TVlogo@main/img/CGTNey.png" group-title="国际",CGTN-俄语
 http://[2409:8087:7000:20:1000::22]:6060/yinhe/2/ch00000090990000002883/index.m3u8?virtualDomain=yinhe.live_hls.zte.com
-#EXTINF:-1 tvg-id="CGTN西语" tvg-name="CGTN-西语 Español" tvg-logo="https://cdn.jsdelivr.net/gh/youngking525/TVlogo@main/img/CGTNxbyy.png" group-title="国际",CGTN Español
+#EXTINF:-1 tvg-id="21" tvg-name="CGTN-西语 Español" tvg-logo="https://cdn.jsdelivr.net/gh/youngking525/TVlogo@main/img/CGTNxbyy.png" group-title="国际",CGTN-西语
 http://[2409:8087:7000:20:1000::22]:6060/yinhe/2/ch00000090990000002716/index.m3u8?virtualDomain=yinhe.live_hls.zte.com
-#EXTINF:-1 tvg-id="CGTN阿语" tvg-name="CGTN-阿语" tvg-logo="https://cdn.jsdelivr.net/gh/youngking525/TVlogo@main/img/CGTNalby.png" group-title="国际",CGTN العربية
+#EXTINF:-1 tvg-id="24" tvg-name="CGTN-阿语" tvg-logo="https://cdn.jsdelivr.net/gh/youngking525/TVlogo@main/img/CGTNalby.png" group-title="国际",CGTN-阿语
 http://[2409:8087:7000:20:1000::22]:6060/yinhe/2/ch00000090990000002826/index.m3u8?virtualDomain=yinhe.live_hls.zte.com
 
 #数字
@@ -166,7 +166,7 @@ http://[2409:8087:7000:20::4]/dbiptv.sn.chinamobile.com/PLTV/88888888/224/322122
 http://[2409:8087:7000:20::4]/dbiptv.sn.chinamobile.com/PLTV/88888888/224/3221226981/index.m3u8
 #EXTINF:-1 tvg-id="148" tvg-name="CCTV央视台球" tvg-logo="https://cdn.jsdelivr.net/gh/youngking525/TVlogo@main/img/CCTVystq.png" group-title="数字",CCTV央视台球
 http://[2409:8087:7000:20::4]/dbiptv.sn.chinamobile.com/PLTV/88888888/224/3221226956/index.m3u8
-#EXTINF:-1 tvg-id="436" tvg-name="电视指南" tvg-logo="https://cdn.jsdelivr.net/gh/youngking525/TVlogo@main/img/CCTVdszn.png" group-title="数字",CCTV电视指南
+#EXTINF:-1 tvg-id="436" tvg-name="CCTV电视指南" tvg-logo="https://cdn.jsdelivr.net/gh/youngking525/TVlogo@main/img/CCTVdszn.png" group-title="数字",CCTV电视指南
 http://[2409:8087:7000:20::4]/dbiptv.sn.chinamobile.com/PLTV/88888888/224/3221226987/index.m3u8
 #EXTINF:-1 tvg-id="180" tvg-name="CHC动作电影" tvg-logo="https://cdn.jsdelivr.net/gh/youngking525/TVlogo@main/img/CHC3.png" group-title="数字",CHC动作电影
 http://[2409:8087:7000:20:1000::22]:6060/yinhe/2/ch00000090990000002055/index.m3u8?virtualDomain=yinhe.live_hls.zte.com
@@ -186,19 +186,21 @@ http://[2409:8087:7001:20:1000::95]:6610/000000001000/6000000002000003382/index.
 http://[2409:8087:7001:20:1000::95]:6610/000000001000/6000000002000010046/index.m3u8?channel-id=wasusyt&Contentid=6000000002000010046&livemode=1&stbId=3
 #EXTINF:-1 tvg-id="179" tvg-name="乐游" tvg-logo="https://cdn.jsdelivr.net/gh/youngking525/TVlogo@main/img/leyou.png" group-title="数字",乐游
 http://[2409:8087:7000:20:1000::22]:6060/yinhe/2/ch00000090990000002157/index.m3u8?virtualDomain=yinhe.live_hls.zte.com
-#EXTINF:-1 tvg-id="纪实人文" tvg-name="纪实人文" tvg-logo="https://cdn.jsdelivr.net/gh/youngking525/TVlogo@main/img/jsrw.png" group-title="数字",纪实人文
+#EXTINF:-1 tvg-id="136" tvg-name="纪实科教" tvg-logo="https://cdn.jsdelivr.net/gh/youngking525/TVlogo@main/img/jsrw.png" group-title="数字",纪实科教
+http://[2409:8087:7000:20::4]/dbiptv.sn.chinamobile.com/PLTV/88888888/224/3221226230/index.m3u8
+#EXTINF:-1 tvg-id="196" tvg-name="纪实人文" tvg-logo="https://cdn.jsdelivr.net/gh/youngking525/TVlogo@main/img/jsrw.png" group-title="数字",纪实人文
 http://[2409:8087:7000:20::4]/dbiptv.sn.chinamobile.com/PLTV/88888888/224/3221226230/index.m3u8
 #EXTINF:-1 tvg-id="178" tvg-name="都市剧场" tvg-logo="https://cdn.jsdelivr.net/gh/youngking525/TVlogo@main/img/dsjc.png" group-title="数字",都市剧场
 http://[2409:8087:7000:20::F]:80/dbiptv.sn.chinamobile.com/TVOD/88888890/224/3221226581/index.m3u8
 #EXTINF:-1 tvg-id="185" tvg-name="金色学堂" tvg-logo="https://cdn.jsdelivr.net/gh/youngking525/TVlogo@main/img/jsxt.png" group-title="数字",金色学堂
 http://[2409:8087:7000:20:1000::22]:6060/yinhe/2/ch00000090990000002675/index.m3u8?virtualDomain=yinhe.live_hls.zte.com
-#EXTINF:-1 tvg-id="哈哈炫动" tvg-name="哈哈炫动" tvg-logo="https://cdn.jsdelivr.net/gh/youngking525/TVlogo@main/img/hhxd.png" group-title="数字",哈哈炫动
+#EXTINF:-1 tvg-id="209" tvg-name="哈哈炫动" tvg-logo="https://cdn.jsdelivr.net/gh/youngking525/TVlogo@main/img/hhxd.png" group-title="数字",哈哈炫动
 http://[2409:8087:7000:20:1000::22]:6060/000000001000/5000000005000031641/index.m3u8?channel-id=bestzb&Contentid=5000000005000031641&livemode=1&stbId=3
 #EXTINF:-1 tvg-id="222" tvg-name="游戏风云" tvg-logo="https://cdn.jsdelivr.net/gh/youngking525/TVlogo@main/img/yxfy.png" group-title="数字",游戏风云
 http://[2409:8087:7000:20::4]:80/dbiptv.sn.chinamobile.com/PLTV/88888888/224/3221226579/1.m3u8
 #EXTINF:-1 tvg-id="285" tvg-name="七彩戏剧" tvg-logo="https://cdn.jsdelivr.net/gh/youngking525/TVlogo@main/img/qcxj.png" group-title="数字",七彩戏剧
 http://[2409:8087:7001:20:1000::88]:6610/000000001000/5000000011000031116/index.m3u8?channel-id=bestzb&Contentid=5000000011000031116&livemode=1&stbId=3
-#EXTINF:-1 tvg-id="上海第一财经" tvg-name="上海第一财经" tvg-logo="https://cdn.jsdelivr.net/gh/youngking525/TVlogo@main/img/dycj.png" group-title="数字",第一财经
+#EXTINF:-1 tvg-id="198" tvg-name="第一财经" tvg-logo="https://cdn.jsdelivr.net/gh/youngking525/TVlogo@main/img/dycj.png" group-title="数字",第一财经
 http://[2409:8087:7001:20:2::3]:80/dbiptv.sn.chinamobile.com/PLTV/88888893/224/3221226966/index.m3u8
 #EXTINF:-1 tvg-id="229" tvg-name="武术世界" tvg-logo="https://cdn.jsdelivr.net/gh/youngking525/TVlogo@main/img/wssj.png" group-title="数字",武术世界
 http://[2409:8087:4c0a:22:1::11]:6410/170000001115/UmaiCHAN638078be5d654/index.m3u8?AuthInfo=toEYVdLfxymUP2l9NZpQI5%2BK6T7j%2FlRm%2BvbM9VO7bA0MVaBO3fffRWKM%2FzNpNYjRBAiSJylXYBAiox0V94ejMfwEtXXuH8b8M%2F%2FDznZB61s
@@ -206,7 +208,7 @@ http://[2409:8087:4c0a:22:1::11]:6410/170000001115/UmaiCHAN638078be5d654/index.m
 http://[2409:8087:4c0a:22:1::11]:6410/170000001115/UmaiCHAN638078a346161/index.m3u8?AuthInfo=toEYVdLfxymUP2l9NZpQI5%2BK6T7j%2FlRm%2BvbM9VO7bA199v9hZiIrZ%2B5X675R6%2FGDjgcqn5UaJ6D814KM9%2FvF7QwvFfeEXMAK7LltfEC%2FKQQ
 #EXTINF:-1 tvg-id="230" tvg-name="梨园" tvg-logo="https://cdn.jsdelivr.net/gh/youngking525/TVlogo@main/img/lypd.png" group-title="数字",梨园频道
 http://[2409:8087:4c0a:22:1::11]:6410/170000001115/UmaiCHAN6380788ba7bed/index.m3u8?AuthInfo=toEYVdLfxymUP2l9NZpQI5%2BK6T7j%2FlRm%2BvbM9VO7bA0q1S1k1f36SqqriM0FZoFSAJRfCt8SS7X6sTRmXb81a8O4H%2FdroDKjLoDeaMQdyJQ
-#EXTINF:-1 tvg-id="重温经典" tvg-name="重温经典" tvg-logo="https://cdn.jsdelivr.net/gh/Meroser/IPTV@main/TVlogo/cwjd.png" group-title="数字",重温经典
+#EXTINF:-1 tvg-id="351" tvg-name="重温经典" tvg-logo="https://gitee.com/Black_crow/epglogo/raw/master/sichuan/Sichuan10.png" group-title="数字",重温经典
 http://43.141.130.70/zycfcdn.gdwlcloud.com/PLTV/88888888/224/3221225563/index.m3u8
 #EXTINF:-1 tvg-id="176" tvg-name="劲爆体育" tvg-logo="https://cdn.jsdelivr.net/gh/youngking525/TVlogo@main/img/jbty.png" group-title="数字",劲爆体育
 http://[2409:8087:7000:20:1000::22]:6060/000000001000/5000000002000029972/index.m3u8?channel-id=bestzb&Contentid=5000000002000029972&livemode=1&stbId=3
