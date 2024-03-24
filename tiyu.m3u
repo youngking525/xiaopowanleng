@@ -1,12 +1,10 @@
 #EXTM3U x-tvg-url="https://epg.112114.xyz/pp.xml.gz" catchup="append" catchup-source="?playseek=${(b)yyyyMMddHHmmss}-${(e)yyyyMMddHHmmss}"
 #EXTINF:-1 tvg-id="CCTV5" tvg-name="CCTV5" tvg-logo="https://cdn.jsdelivr.net/gh/youngking525/TVlogo@main/img/CCTV5.png" group-title="合集",CCTV-5 体育
-http://113.236.18.28:9901/tsfile/live/1004_1.m3u8?key=txiptv&playlive=1&authid=0
+http://[2409:8087:7001:20:3::5]:80/dbiptv.sn.chinamobile.com/PLTV/88888888/224/3221226395/index.m3u8
 #EXTINF:-1 tvg-id="CCTV5+" tvg-name="CCTV5+" tvg-logo="https://cdn.jsdelivr.net/gh/youngking525/TVlogo@main/img/CCTV5plus.png" group-title="合集",CCTV-5+ 体育赛事
 http://[2409:8087:7000:20:1000::22]:6060/yinhe/2/ch00000090990000001334/index.m3u8?virtualDomain=yinhe.live_hls.zte.com
 #EXTINF:-1 tvg-id="CCTV16" tvg-name="CCTV16" tvg-logo="https://cdn.jsdelivr.net/gh/youngking525/TVlogo@main/img/CCTV16.png" group-title="合集",CCTV-16 奥林匹克
-http://113.236.18.28:9901/tsfile/live/1027_1.m3u8?key=txiptv&playlive=1&authid=0
-#EXTINF:-1 tvg-id="辽宁体育" tvg-name="辽宁体育" tvg-logo="https://cdn.jsdelivr.net/gh/youngking525/TVlogo@main/img/Liaoning6.png" group-title="合集",辽宁体育
-http://113.236.18.28:9901/tsfile/live/1023_1.m3u8?key=txiptv&playlive=1&authid=0
+http://[2409:8087:7001:20:3::9]:80/dbiptv.sn.chinamobile.com/PLTV/88888888/224/3221226921/index.m3u8
 #EXTINF:-1 tvg-id="风云足球" tvg-name="风云足球" tvg-logo="https://cdn.jsdelivr.net/gh/youngking525/TVlogo@main/img/CCTVfyzq.png" group-title="合集",CCTV风云足球
 http://[2409:8087:7000:20::4]/dbiptv.sn.chinamobile.com/PLTV/88888888/224/3221226984/index.m3u8
 #EXTINF:-1 tvg-id="高尔夫网球" tvg-name="高尔夫网球" tvg-logo="https://cdn.jsdelivr.net/gh/youngking525/TVlogo@main/img/CCTVgefwq.png" group-title="合集",CCTV高尔夫网球
