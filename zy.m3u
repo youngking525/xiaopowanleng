@@ -9,7 +9,7 @@ http://[2409:8087:7001:20:3::7]/dbiptv.sn.chinamobile.com/PLTV/88888888/224/3221
 #EXTINF:-1 tvg-id="A04" tvg-name="CCTV4" tvg-logo="https://cdn.jsdelivr.net/gh/youngking525/TVlogo@main/img/CCTV4.png" group-title="央视",CCTV-4 中文国际
 http://[2409:8087:7000:20:1000::22]:6060/yinhe/2/ch00000090990000001333/index.m3u8?virtualDomain=yinhe.live_hls.zte.com
 #EXTINF:-1 tvg-id="A05" tvg-name="CCTV5" tvg-logo="https://cdn.jsdelivr.net/gh/youngking525/TVlogo@main/img/CCTV5.png" group-title="央视",CCTV-5 体育
-http://[2409:8087:7001:20:3::9]/dbiptv.sn.chinamobile.com/PLTV/88888888/224/3221226921/index.m3u8
+http://113.236.18.28:9901/tsfile/live/1004_1.m3u8?key=txiptv&playlive=1&authid=0
 #EXTINF:-1 tvg-id="A06" tvg-name="CCTV5+" tvg-logo="https://cdn.jsdelivr.net/gh/youngking525/TVlogo@main/img/CCTV5plus.png" group-title="央视",CCTV-5+ 体育赛事
 http://[2409:8087:7000:20:1000::22]:6060/yinhe/2/ch00000090990000001334/index.m3u8?virtualDomain=yinhe.live_hls.zte.com
 #EXTINF:-1 tvg-id="A07" tvg-name="CCTV6" tvg-logo="https://cdn.jsdelivr.net/gh/youngking525/TVlogo@main/img/CCTV6.png" group-title="央视",CCTV-6 电影
