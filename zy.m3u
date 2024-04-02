@@ -126,7 +126,7 @@ http://[2409:8087:7004:20:1000::22]:6610/yinhe/2/ch00000090990000001312/index.m3
 #海外
 #EXTINF:-1 tvg-id="PH01" tvg-name="凤凰中文" tvg-logo="https://cdn.jsdelivr.net/gh/youngking525/TVlogo@main/img/Phoenix1.png" group-title="海外",凤凰中文
 http://103.95.24.37:880/fhws.m3u8
-#EXTINF:-1 tvg-id="PH02" tvg-name="凤凰资讯" tvg-logo="https://cdn.jsdelivr.net/gh/youngking525/TVlogo@main/img/Phoenix2.png" group-title="海外事",凤凰资讯
+#EXTINF:-1 tvg-id="PH02" tvg-name="凤凰资讯" tvg-logo="https://cdn.jsdelivr.net/gh/youngking525/TVlogo@main/img/Phoenix2.png" group-title="海外",凤凰资讯
 http://103.95.24.37:880/fhzx.m3u8
 #EXTINF:-1 tvg-id="PH03" tvg-name="凤凰香港" tvg-logo="https://cdn.jsdelivr.net/gh/youngking525/TVlogo@main/img/Phoenix3.png" group-title="海外",凤凰香港
 http://103.95.24.37:880/fhxgt.m3u8
@@ -134,8 +134,6 @@ http://103.95.24.37:880/fhxgt.m3u8
 https://iptv.hiper25.com/TVB/video.m3u8
 #EXTINF:-1 tvg-id="190" tvg-name="明珠台" tvg-logo="https://cdn.jsdelivr.net/gh/youngking525/TVlogo@main/img/TVB2.png" group-title="海外",翡翠台
 https://iptv.hiper25.com/Pearl/video.m3u8
-#EXTINF:-1 tvg-id="189" tvg-name="翡翠台" tvg-logo="https://cdn.jsdelivr.net/gh/youngking525/TVlogo@main/img/TVB1.png" group-title="海外",翡翠台
-https://iptv.hiper25.com/TVB/video.m3u8
 #EXTINF:-1 tvg-id="CGTN01" tvg-name="CGTN" tvg-logo="https://cdn.jsdelivr.net/gh/youngking525/TVlogo@main/img/CGTN.png" group-title="海外",CGTN-新闻
 http://[2409:8087:7000:20::4]/dbiptv.sn.chinamobile.com/PLTV/88888888/224/3221225745/index.m3u8
 #EXTINF:-1 tvg-id="CGTN02" tvg-name="CGTN Documentary" tvg-logo="https://cdn.jsdelivr.net/gh/youngking525/TVlogo@main/img/CGTNjilu.png" group-title="海外",CGTN-纪录
