@@ -146,6 +146,12 @@ http://[2409:8087:1a01:df::7005]/PLTV/88888888/224/3221226094/index.m3u8
 http://[2409:8087:1a01:df::7005]/PLTV/88888888/224/3221226081/index.m3u8
 
 #数字
+#EXTINF:-1 tvg-id="180" tvg-name="CHC动作电影" tvg-logo="https://cdn.jsdelivr.net/gh/youngking525/TVlogo@main/img/CHC3.png" group-title="数字",CHC动作电影
+http://58.19.182.187:9901/tsfile/live/1009_1.m3u8?key=txiptv&playlive=1&authid=0
+#EXTINF:-1 tvg-id="181" tvg-name="CHC家庭影院" tvg-logo="https://cdn.jsdelivr.net/gh/youngking525/TVlogo@main/img/CHC2.png" group-title="数字",CHC家庭影院
+http://58.19.182.187:9901/tsfile/live/1010_1.m3u8?key=txiptv&playlive=1&authid=0
+#EXTINF:-1 tvg-id="182" tvg-name="CHC高清电影" tvg-logo="https://cdn.jsdelivr.net/gh/youngking525/TVlogo@main/img/CHC1.png" group-title="数字",CHC高清电影
+http://58.19.182.187:9901/tsfile/live/1011_1.m3u8?key=txiptv&playlive=1&authid=0
 #EXTINF:-1 tvg-id="149" tvg-name="求索纪录" tvg-logo="https://cdn.jsdelivr.net/gh/youngking525/TVlogo@main/img/Qiusuo1.png" group-title="数字",求索纪录
 http://[2409:8087:1a01:df::7005]/PLTV/88888888/224/3221225713/index.m3u8
 #EXTINF:-1 tvg-id="150" tvg-name="求索科学" tvg-logo="https://cdn.jsdelivr.net/gh/youngking525/TVlogo@main/img/Qiusuo2.png" group-title="数字",求索科学
