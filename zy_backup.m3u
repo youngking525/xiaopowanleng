@@ -34,7 +34,6 @@ http://[2409:8087:1a01:df::7005]/PLTV/88888888/224/3221226132/index.m3u8
 http://[2409:8087:1a01:df::7005]/PLTV/88888888/224/3221226127/index.m3u8
 #EXTINF:-1 tvg-id="17" tvg-name="CCTV16" tvg-logo="https://cdn.jsdelivr.net/gh/youngking525/TVlogo@main/img/CCTV16.png" group-title="央视",CCTV-16 奥林匹克
 http://192.168.123.1/tv/ysp4in1.php?id=16-4k
-http://[2409:8087:1a01:df::7005]/PLTV/88888888/224/3221225893/index.m3u8
 #EXTINF:-1 tvg-id="18" tvg-name="CCTV17" tvg-logo="https://cdn.jsdelivr.net/gh/youngking525/TVlogo@main/img/CCTV17.png" group-title="央视",CCTV-17 农业农村
 http://[2409:8087:1a01:df::7005]/PLTV/88888888/224/3221225708/index.m3u8
 #EXTINF:-1 tvg-id="19" tvg-name="CCTV4K" tvg-logo="https://cdn.jsdelivr.net/gh/youngking525/TVlogo@main/img/CCTV4K.png" group-title="央视",CCTV-4K 超高清
