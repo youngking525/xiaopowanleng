@@ -111,13 +111,13 @@ http://[2409:8087:1a01:df::7005]/PLTV/88888888/224/3221226005/index.m3u8
 #EXTINF:-1 tvg-id="112" tvg-name="延边卫视" tvg-logo="https://cdn.jsdelivr.net/gh/youngking525/TVlogo@main/img/Yanbian.png" group-title="卫视",延边卫视
 http://[2409:8087:1a01:df::7005]/PLTV/88888888/224/3221226040/index.m3u8
 #EXTINF:-1 tvg-id="107" tvg-name="厦门卫视" tvg-logo="https://cdn.jsdelivr.net/gh/youngking525/TVlogo@main/img/Xiamen.png" group-title="卫视",厦门卫视
-https://itv.lat/tv/live.php?&line=1&id=xmws
+http://[2409:8087:5e01:34::19]:6610/ZTE_CMS/00000001000000060000000000000193/index.m3u8?IAS
 #EXTINF:-1 tvg-id="111" tvg-name="康巴卫视" tvg-logo="https://cdn.jsdelivr.net/gh/youngking525/TVlogo@main/img/Kangba.png" group-title="卫视",康巴卫视
 http://[2409:8087:1a01:df::7005]/PLTV/88888888/224/3221225527/index.m3u8
 #EXTINF:-1 tvg-id="106" tvg-name="西藏卫视" tvg-logo="https://cdn.jsdelivr.net/gh/youngking525/TVlogo@main/img/Xizang.png" group-title="卫视",西藏卫视
 http://[2409:8087:1a01:df::7005]/PLTV/88888888/224/3221225951/index.m3u8
 #EXTINF:-1 tvg-id="289" tvg-name="三沙卫视" tvg-logo="https://cdn.jsdelivr.net/gh/youngking525/TVlogo@main/img/Sansha.png" group-title="卫视",三沙卫视
-https://itv.lat/tv/live.php?&line=1&id=ssws
+http://[2409:8087:5e01:34::20]:6610/ZTE_CMS/08984400000000060000000000000319/index.m3u8?IAS
 #EXTINF:-1 tvg-id="安多卫视" tvg-name="安多卫视" tvg-logo="https://cdn.jsdelivr.net/gh/youngking525/TVlogo@main/img/Anduo.png" group-title="卫视",安多卫视
 http://[2409:8087:1a01:df::7005]/PLTV/88888888/224/3221225531/index.m3u8
 #EXTINF:-1 tvg-id="166" tvg-name="大湾区卫视" tvg-logo="https://cdn.jsdelivr.net/gh/youngking525/TVlogo@main/img/Guangdong10.png" group-title="卫视",大湾区卫视
@@ -148,12 +148,6 @@ http://[2409:8087:1a01:df::7005]/PLTV/88888888/224/3221226094/index.m3u8
 http://[2409:8087:1a01:df::7005]/PLTV/88888888/224/3221226081/index.m3u8
 
 #数字
-#EXTINF:-1 tvg-id="180" tvg-name="CHC动作电影" tvg-logo="https://cdn.jsdelivr.net/gh/youngking525/TVlogo@main/img/CHC3.png" group-title="数字",CHC动作电影
-http://58.19.182.187:9901/tsfile/live/1009_1.m3u8?key=txiptv&playlive=1&authid=0
-#EXTINF:-1 tvg-id="181" tvg-name="CHC家庭影院" tvg-logo="https://cdn.jsdelivr.net/gh/youngking525/TVlogo@main/img/CHC2.png" group-title="数字",CHC家庭影院
-http://58.19.182.187:9901/tsfile/live/1010_1.m3u8?key=txiptv&playlive=1&authid=0
-#EXTINF:-1 tvg-id="182" tvg-name="CHC高清电影" tvg-logo="https://cdn.jsdelivr.net/gh/youngking525/TVlogo@main/img/CHC1.png" group-title="数字",CHC高清电影
-http://58.19.182.187:9901/tsfile/live/1011_1.m3u8?key=txiptv&playlive=1&authid=0
 #EXTINF:-1 tvg-id="149" tvg-name="求索纪录" tvg-logo="https://cdn.jsdelivr.net/gh/youngking525/TVlogo@main/img/Qiusuo1.png" group-title="数字",求索纪录
 http://[2409:8087:1a01:df::7005]/PLTV/88888888/224/3221225713/index.m3u8
 #EXTINF:-1 tvg-id="150" tvg-name="求索科学" tvg-logo="https://cdn.jsdelivr.net/gh/youngking525/TVlogo@main/img/Qiusuo2.png" group-title="数字",求索科学
