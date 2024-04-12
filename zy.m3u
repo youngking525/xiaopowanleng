@@ -137,7 +137,7 @@ https://iptv.hiper25.com/Pearl/video.m3u8
 #EXTINF:-1 tvg-id="25" tvg-name="CGTN-新闻" tvg-logo="https://mirror.ghproxy.com/raw.githubusercontent.com/youngking525/TVlogo/main/img/CGTN.png" group-title="海外",CGTN-新闻
 http://[2409:8087:1a01:df::7005]/PLTV/88888888/224/3221225510/index.m3u8
 #EXTINF:-1 tvg-id="29" tvg-name="CGTN-纪录" tvg-logo="https://mirror.ghproxy.com/raw.githubusercontent.com/youngking525/TVlogo/main/img/CGTNjilu.png" group-title="海外",CGTN-纪录
-http://[2409:8087:1a01:df::7005]/PLTV/88888888/224/3221225509/index.m3u8
+http://[2409:8087:5e01:34::19]:6610/ZTE_CMS/00000001000000060000000000000528/index.m3u8?IAS
 #EXTINF:-1 tvg-id="22" tvg-name="CGTN-法语" tvg-logo="https://mirror.ghproxy.com/raw.githubusercontent.com/youngking525/TVlogo/main/img/CGTNfy.png" group-title="海外",CGTN-法语
 http://[2409:8087:1a01:df::7005]/PLTV/88888888/224/3221226083/index.m3u8
 #EXTINF:-1 tvg-id="23" tvg-name="CGTN-俄语" tvg-logo="https://mirror.ghproxy.com/raw.githubusercontent.com/youngking525/TVlogo/main/img/CGTNey.png" group-title="海外",CGTN-俄语
