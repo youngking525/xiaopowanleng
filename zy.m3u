@@ -33,9 +33,13 @@ http://8.134.211.236:13556/china/cctv.php?id=cctv14
 #EXTINF:-1 tvg-id="16" tvg-name="CCTV15" tvg-logo="https://mirror.ghproxy.com/raw.githubusercontent.com/youngking525/TVlogo/main/img/CCTV15.png" group-title="央视",CCTV-15 音乐
 http://8.134.211.236:13556/china/cctv.php?id=cctv15
 #EXTINF:-1 tvg-id="17" tvg-name="CCTV16" tvg-logo="https://mirror.ghproxy.com/raw.githubusercontent.com/youngking525/TVlogo/main/img/CCTV16.png" group-title="央视",CCTV-16 奥林匹克
-http://8.134.211.236:13556/china/cctv.php?id=cctv16
+https://tv.iill.top/4k/cctv16
 #EXTINF:-1 tvg-id="18" tvg-name="CCTV17" tvg-logo="https://mirror.ghproxy.com/raw.githubusercontent.com/youngking525/TVlogo/main/img/CCTV17.png" group-title="央视",CCTV-17 农业农村
 http://8.134.211.236:13556/china/cctv.php?id=cctv17
+#EXTINF:-1 tvg-id="19" tvg-name="CCTV4K" tvg-logo="https://mirror.ghproxy.com/raw.githubusercontent.com/youngking525/TVlogo/main/img/CCTV4K.png" group-title="央视",CCTV-4K 超高清
+https://tv.iill.top/4k/cctv4k
+#EXTINF:-1 tvg-id="20" tvg-name="CCTV8K" tvg-logo="https://mirror.ghproxy.com/raw.githubusercontent.com/youngking525/TVlogo/main/img/CCTV8K.png" group-title="央视",CCTV-8K 超高清
+https://tv.iill.top/4k/cctv8k
 
 #卫视
 #EXTINF:-1 tvg-id="98" tvg-name="吉林卫视" tvg-logo="https://mirror.ghproxy.com/raw.githubusercontent.com/youngking525/TVlogo/main/img/Jilin.png" group-title="卫视",吉林卫视
