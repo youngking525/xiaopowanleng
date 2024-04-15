@@ -34,7 +34,6 @@ http://[2409:8087:5e01:34::19]:6610/ZTE_CMS/00000001000000060000000000000378/ind
 http://[2409:8087:5e01:34::19]:6610/ZTE_CMS/00000001000000060000000000000501/index.m3u8?IAS
 #EXTINF:-1 tvg-id="17" tvg-name="CCTV16" tvg-logo="https://mirror.ghproxy.com/raw.githubusercontent.com/youngking525/TVlogo/main/img/CCTV16.png" group-title="央视",CCTV-16 奥林匹克
 https://tv.cry33.com/ys4k.php?id=16-4k
-http://[2409:8087:1a01:df::7005]/PLTV/88888888/224/3221225893/index.m3u8
 #EXTINF:-1 tvg-id="18" tvg-name="CCTV17" tvg-logo="https://mirror.ghproxy.com/raw.githubusercontent.com/youngking525/TVlogo/main/img/CCTV17.png" group-title="央视",CCTV-17 农业农村
 http://[2409:8087:5e01:34::19]:6610/ZTE_CMS/00000001000000060000000000000494/index.m3u8?IAS
 #EXTINF:-1 tvg-id="19" tvg-name="CCTV4K" tvg-logo="https://mirror.ghproxy.com/raw.githubusercontent.com/youngking525/TVlogo/main/img/CCTV4K.png" group-title="央视",CCTV-4K 超高清
