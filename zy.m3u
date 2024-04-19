@@ -146,6 +146,32 @@ http://[2409:8087:1a01:df::7005]/PLTV/88888888/224/3221226094/index.m3u8
 http://[2409:8087:1a01:df::7005]/PLTV/88888888/224/3221226081/index.m3u8
 
 #数字
+#EXTINF:-1 tvg-id="143" tvg-name="兵器科技" tvg-logo="https://mirror.ghproxy.com/raw.githubusercontent.com/youngking525/TVlogo/main/img/CCTVbqkj.png",兵器科技
+http://192.168.123.2/tv/ysp.php?id=bqkj
+#EXTINF:-1 tvg-id="138" tvg-name="第一剧场" tvg-logo="https://mirror.ghproxy.com/raw.githubusercontent.com/youngking525/TVlogo/main/img/CCTVdyjc.png",第一剧场
+http://192.168.123.2/tv/ysp.php?id=dyjc
+#EXTINF:-1 tvg-id="436" tvg-name="电视指南" tvg-logo="https://mirror.ghproxy.com/raw.githubusercontent.com/youngking525/TVlogo/main/img/CCTVdszn.png",电视指南
+http://192.168.123.2/tv/ysp.php?id=dszn
+#EXTINF:-1 tvg-id="139" tvg-name="风云剧场" tvg-logo="https://mirror.ghproxy.com/raw.githubusercontent.com/youngking525/TVlogo/main/img/CCTVfyjc.png",风云剧场
+http://192.168.123.2/tv/ysp.php?id=fyjc
+#EXTINF:-1 tvg-id="142" tvg-name="风云音乐" tvg-logo="https://mirror.ghproxy.com/raw.githubusercontent.com/youngking525/TVlogo/main/img/CCTVfyyy.png",风云音乐
+http://192.168.123.2/tv/ysp.php?id=fyyy
+#EXTINF:-1 tvg-id="144" tvg-name="风云足球" tvg-logo="https://mirror.ghproxy.com/raw.githubusercontent.com/youngking525/TVlogo/main/img/CCTVfyzq.png",风云足球
+http://192.168.123.2/tv/ysp.php?id=fyzq
+#EXTINF:-1 tvg-id="145" tvg-name="高尔夫网球" tvg-logo="https://mirror.ghproxy.com/raw.githubusercontent.com/youngking525/TVlogo/main/img/CCTVgefwq.png",高尔夫网球
+http://192.168.123.2/tv/ysp.php?id=gefwq
+#EXTINF:-1 tvg-id="140" tvg-name="怀旧剧场" tvg-logo="https://mirror.ghproxy.com/raw.githubusercontent.com/youngking525/TVlogo/main/img/CCTVhjjc.png",怀旧剧场
+http://192.168.123.2/tv/ysp.php?id=hjjc
+#EXTINF:-1 tvg-id="146" tvg-name="女性时尚" tvg-logo="https://mirror.ghproxy.com/raw.githubusercontent.com/youngking525/TVlogo/main/img/CCTVnxss.png",女性时尚
+http://192.168.123.2/tv/ysp.php?id=nxss
+#EXTINF:-1 tvg-id="141" tvg-name="世界地理" tvg-logo="https://mirror.ghproxy.com/raw.githubusercontent.com/youngking525/TVlogo/main/img/CCTVsjdl.png",世界地理
+http://192.168.123.2/tv/ysp.php?id=sjdl
+#EXTINF:-1 tvg-id="148" tvg-name="央视台球" tvg-logo="https://mirror.ghproxy.com/raw.githubusercontent.com/youngking525/TVlogo/main/img/CCTVystq.png",央视台球
+http://192.168.123.2/tv/ysp.php?id=ystq
+#EXTINF:-1 tvg-id="435" tvg-name="卫生健康" tvg-logo="https://mirror.ghproxy.com/raw.githubusercontent.com/youngking525/TVlogo/main/img/CCTVwsjk.png",卫生健康
+http://192.168.123.2/tv/ysp.php?id=wsjk
+#EXTINF:-1 tvg-id="147" tvg-name="文化精品" tvg-logo="https://mirror.ghproxy.com/raw.githubusercontent.com/youngking525/TVlogo/main/img/CCTVyswhjp.png",央视文化精品
+http://192.168.123.2/tv/ysp.php?id=whjp
 #EXTINF:-1 tvg-id="149" tvg-name="求索纪录" tvg-logo="https://mirror.ghproxy.com/raw.githubusercontent.com/youngking525/TVlogo/main/img/Qiusuo1.png" group-title="数字",求索纪录
 http://[2409:8087:1a01:df::7005]/PLTV/88888888/224/3221225713/index.m3u8
 #EXTINF:-1 tvg-id="150" tvg-name="求索科学" tvg-logo="https://mirror.ghproxy.com/raw.githubusercontent.com/youngking525/TVlogo/main/img/Qiusuo2.png" group-title="数字",求索科学
