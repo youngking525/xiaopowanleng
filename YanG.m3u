@@ -561,6 +561,22 @@ http://gslbserv.itv.cmvideo.cn:80/3000000010000027691/index.m3u8?channel-id=Fifa
 #EXTINF:-1 tvg-logo="https://yang-1989.eu.org/logo/咪咕.png" group-title="•咪咕「移动」",咪咕直播 𝟛𝟛
 http://gslbserv.itv.cmvideo.cn:80/3000000010000031669/index.m3u8?channel-id=FifastbLive&Contentid=3000000010000031669&livemode=1&stbId=3
 #INSERT_HERE
+#EXTINF:-1 tvg-logo="https://yang-1989.eu.org/logo/咪咕.png" group-title="•咪咕「体育」", 「NBA」07:40 季后赛 步行者vs凯尔特人 解说
+https://yang-1989.eu.org/Migu/1
+#EXTINF:-1 tvg-logo="https://yang-1989.eu.org/logo/咪咕.png" group-title="•咪咕「体育」", 「NBA」07:40 英文原声
+https://yang-1989.eu.org/Migu/2
+#EXTINF:-1 tvg-logo="https://yang-1989.eu.org/logo/咪咕.png" group-title="•咪咕「体育」", 「WTT」04:00 门多萨常规挑战赛:资格赛男女单打第一轮 1号桌
+https://yang-1989.eu.org/Migu/3
+#EXTINF:-1 tvg-logo="https://yang-1989.eu.org/logo/咪咕.png" group-title="•咪咕「体育」", 「WTT」04:00 门多萨常规挑战赛:资格赛男女单打第一轮 2号桌
+https://yang-1989.eu.org/Migu/4
+#EXTINF:-1 tvg-logo="https://yang-1989.eu.org/logo/咪咕.png" group-title="•咪咕「体育」", 「WTT」14:00 2024重庆冠军赛-抽签仪式
+https://yang-1989.eu.org/Migu/5
+#EXTINF:-1 tvg-logo="https://yang-1989.eu.org/logo/咪咕.png" group-title="•咪咕「体育」", 「WTT」23:00 门多萨常规挑战赛：资格赛男女单打第二轮、男女双及混双第一轮 1号桌
+https://yang-1989.eu.org/Migu/6
+#EXTINF:-1 tvg-logo="https://yang-1989.eu.org/logo/咪咕.png" group-title="•咪咕「体育」", 「WTT」23:00 门多萨常规挑战赛：资格赛男女单打第二轮、男女双及混双第一轮 2号桌
+https://yang-1989.eu.org/Migu/7
+#EXTINF:-1 tvg-logo="https://yang-1989.eu.org/logo/咪咕.png" group-title="•咪咕「体育」", 「WTT」23:00 门多萨常规挑战赛：资格赛男女单打第二轮、男女双及混双第一轮 3号桌
+https://yang-1989.eu.org/Migu/8
 #EXTINF:-1 tvg-name="CCTV1" tvg-logo="https://yang-1989.eu.org/logo/CCTV1.png" group-title="•咪咕「TV」",CCTV 1 综合
 https://tv.iill.top/migu/cctv1
 #EXTINF:-1 tvg-name="CCTV2" tvg-logo="https://yang-1989.eu.org/logo/CCTV2.png" group-title="•咪咕「TV」",CCTV 2 财经
