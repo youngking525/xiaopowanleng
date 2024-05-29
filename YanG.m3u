@@ -561,22 +561,26 @@ http://gslbserv.itv.cmvideo.cn:80/3000000010000027691/index.m3u8?channel-id=Fifa
 #EXTINF:-1 tvg-logo="https://yang-1989.eu.org/logo/咪咕.png" group-title="•咪咕「移动」",咪咕直播 𝟛𝟛
 http://gslbserv.itv.cmvideo.cn:80/3000000010000031669/index.m3u8?channel-id=FifastbLive&Contentid=3000000010000031669&livemode=1&stbId=3
 #INSERT_HERE
-#EXTINF:-1 tvg-logo="https://yang-1989.eu.org/logo/咪咕.png" group-title="•咪咕「体育」", 「NBA」07:40 季后赛 步行者vs凯尔特人 解说
+#EXTINF:-1 tvg-logo="https://yang-1989.eu.org/logo/咪咕.png" group-title="•咪咕「体育」", 「NBA」07:00 西决G4 森林狼vs独行侠赛前训练 解说
 https://yang-1989.eu.org/Migu/1
-#EXTINF:-1 tvg-logo="https://yang-1989.eu.org/logo/咪咕.png" group-title="•咪咕「体育」", 「NBA」07:40 英文原声
+#EXTINF:-1 tvg-logo="https://yang-1989.eu.org/logo/咪咕.png" group-title="•咪咕「体育」", 「NBA」08:00 季后赛 独行侠vs森林狼 解说
 https://yang-1989.eu.org/Migu/2
-#EXTINF:-1 tvg-logo="https://yang-1989.eu.org/logo/咪咕.png" group-title="•咪咕「体育」", 「WTT」04:00 门多萨常规挑战赛:资格赛男女单打第一轮 1号桌
+#EXTINF:-1 tvg-logo="https://yang-1989.eu.org/logo/咪咕.png" group-title="•咪咕「体育」", 「NBA」08:00 英文原声
 https://yang-1989.eu.org/Migu/3
-#EXTINF:-1 tvg-logo="https://yang-1989.eu.org/logo/咪咕.png" group-title="•咪咕「体育」", 「WTT」04:00 门多萨常规挑战赛:资格赛男女单打第一轮 2号桌
+#EXTINF:-1 tvg-logo="https://yang-1989.eu.org/logo/咪咕.png" group-title="•咪咕「体育」", 「WTT」04:00 门多萨常规挑战赛：资格赛男女单打第一轮及第二轮 1号桌
 https://yang-1989.eu.org/Migu/4
-#EXTINF:-1 tvg-logo="https://yang-1989.eu.org/logo/咪咕.png" group-title="•咪咕「体育」", 「WTT」14:00 2024重庆冠军赛-抽签仪式
+#EXTINF:-1 tvg-logo="https://yang-1989.eu.org/logo/咪咕.png" group-title="•咪咕「体育」", 「WTT」04:00 门多萨常规挑战赛：资格赛男女单打第一轮及第二轮 2号桌
 https://yang-1989.eu.org/Migu/5
-#EXTINF:-1 tvg-logo="https://yang-1989.eu.org/logo/咪咕.png" group-title="•咪咕「体育」", 「WTT」23:00 门多萨常规挑战赛：资格赛男女单打第二轮、男女双及混双第一轮 1号桌
+#EXTINF:-1 tvg-logo="https://yang-1989.eu.org/logo/咪咕.png" group-title="•咪咕「体育」", 「WTT」04:00 门多萨常规挑战赛：资格赛男女单打第一轮及第二轮 3号桌
 https://yang-1989.eu.org/Migu/6
-#EXTINF:-1 tvg-logo="https://yang-1989.eu.org/logo/咪咕.png" group-title="•咪咕「体育」", 「WTT」23:00 门多萨常规挑战赛：资格赛男女单打第二轮、男女双及混双第一轮 2号桌
+#EXTINF:-1 tvg-logo="https://yang-1989.eu.org/logo/咪咕.png" group-title="•咪咕「体育」", 「WTT」20:30 门多萨常规挑战赛：资格赛单打第三轮及第四轮、双打第二轮 1号桌
 https://yang-1989.eu.org/Migu/7
-#EXTINF:-1 tvg-logo="https://yang-1989.eu.org/logo/咪咕.png" group-title="•咪咕「体育」", 「WTT」23:00 门多萨常规挑战赛：资格赛男女单打第二轮、男女双及混双第一轮 3号桌
+#EXTINF:-1 tvg-logo="https://yang-1989.eu.org/logo/咪咕.png" group-title="•咪咕「体育」", 「WTT」20:30 门多萨常规挑战赛：资格赛单打第三轮及第四轮、双打第二轮 2号桌
 https://yang-1989.eu.org/Migu/8
+#EXTINF:-1 tvg-logo="https://yang-1989.eu.org/logo/咪咕.png" group-title="•咪咕「体育」", 「WTT」20:30 门多萨常规挑战赛：资格赛单打第三轮及第四轮、双打第二轮 3号桌
+https://yang-1989.eu.org/Migu/9
+#EXTINF:-1 tvg-logo="https://yang-1989.eu.org/logo/咪咕.png" group-title="•咪咕「体育」", 「WTT」20:30 门多萨常规挑战赛：资格赛单打第三轮及第四轮、双打第二轮 4号桌
+https://yang-1989.eu.org/Migu/10
 #EXTINF:-1 tvg-name="CCTV1" tvg-logo="https://yang-1989.eu.org/logo/CCTV1.png" group-title="•咪咕「TV」",CCTV 1 综合
 https://tv.iill.top/migu/cctv1
 #EXTINF:-1 tvg-name="CCTV2" tvg-logo="https://yang-1989.eu.org/logo/CCTV2.png" group-title="•咪咕「TV」",CCTV 2 财经
@@ -1667,6 +1671,10 @@ https://tv.iill.top/4gtv/174
 https://tv.iill.top/4gtv/287
 #EXTINF:-1 tvg-id="東森購物" tvg-name="東森購物四台" tvg-logo="https://assets.livednow.com/logo/東森購物.png" group-title="•四季「测试」", 東森購物四台
 https://tv.iill.top/4gtv/286
+#EXTINF:-1 tvg-logo="https://yang-1989.eu.org/logo/1905.png" group-title="•特色「混搭」",1905「国内」
+http://live.iill.top/1905.php?id=1905a
+#EXTINF:-1 tvg-logo="https://yang-1989.eu.org/logo/1905.png" group-title="•特色「混搭」",1905「国外」
+http://live.iill.top/1905.php?id=1905b
 #EXTINF:-1 tvg-logo="https://yang-1989.eu.org/logo/资兴台.png" group-title="•特色「混搭」",资兴台
 http://live.iill.top/zxt.php
 #EXTINF:-1 tvg-logo="https://yang-1989.eu.org/logo/虎牙.png" group-title="•特色「混搭」",斯诺克 𝟙
