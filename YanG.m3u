@@ -2,7 +2,7 @@
 #EXTM3U x-tvg-url="https://assets.livednow.com/epg.xml"
 #EXTINF:-1 tvg-name="免费订阅,不收费." tvg-logo="https://yang-1989.eu.org/logo/温馨提示.png" group-title="•温馨提示",维护时间：2024-05-30 #佛系维护...
 https://github.com/YanG-1989
-#EXTINF:-1 tvg-name="免费订阅,不收费." tvg-logo="https://yang-1989.eu.org/logo/温馨提示.png" group-title="•温馨提示",维护内容：优化·咪咕体育与TV分组的稳定性
+#EXTINF:-1 tvg-name="免费订阅,不收费." tvg-logo="https://yang-1989.eu.org/logo/温馨提示.png" group-title="•温馨提示",维护内容：优化·咪咕体育和TV的稳定性
 https://github.com/YanG-1989
 #EXTINF:-1 tvg-name="免费订阅,不收费." tvg-logo="https://yang-1989.eu.org/logo/温馨提示.png" group-title="•温馨提示",特别公告：修复·爱尔达体育1234
 https://github.com/YanG-1989
@@ -17,11 +17,11 @@ https://fash2043.cloudycdn.services/slive/ftv_ftv_4k_hevc_73d_42080_default_466_
 #EXTINF:-1 tvg-logo="https://yang-1989.eu.org/logo/5sport.png" group-title="•4K「IPV4」",5 Sport 4K「体育」
 https://7pal.short.gy/5sport
 #EXTINF:-1 tvg-name="CCTV4K" tvg-logo="https://yang-1989.eu.org/logo/CCTV4K.png" group-title="•4K「IPV4」",CCTV 4K  超高清「UHD」
-http://live.iill.top/4k.php?id=cctv4k
+https://tv.iill.top/4k/cctv4k
 #EXTINF:-1 tvg-name="CCTV8K" tvg-logo="https://yang-1989.eu.org/logo/CCTV8K.png" group-title="•4K「IPV4」",CCTV 8K 超高清「UHD」
-http://live.iill.top/4k.php?id=cctv8k
+https://tv.iill.top/4k/cctv8k
 #EXTINF:-1 tvg-name="CCTV16" tvg-logo="https://yang-1989.eu.org/logo/CCTV16.png" group-title="•4K「IPV4」",CCTV 16 奥林匹克「UHD」
-http://live.iill.top/4k.php?id=cctv16
+https://tv.iill.top/4k/cctv16
 #EXTINF:-1 tvg-logo="https://yang-1989.eu.org/logo/江苏4K.png" group-title="•4K「IPV4」",江苏频道「UHD」
 http://liveshowbak2.kan0512.com/ksz-norecord/csztv4k_4k.m3u8
 #EXTINF:-1 tvg-id="CCTV1" tvg-name="CCTV1" tvg-logo="https://yang-1989.eu.org/logo/CCTV1.png" group-title="•4K「IPV4」",CCTV 1 综合「UHD」
@@ -440,7 +440,7 @@ http://[2409:8087:1a01:df::4016]/PLTV/88888888/224/3221225647/index.m3u8
 http://[2409:8087:1a01:df::4022]/PLTV/88888888/224/3221225648/index.m3u8
 #EXTINF:-1 tvg-logo="https://yang-1989.eu.org/logo/咪咕.png" group-title="•咪咕「IPV6」",咪咕直播 𝟙𝟙「IPV6」
 http://[2409:8087:1a01:df::4003]/PLTV/88888888/224/3221225649/index.m3u8
-#EXTINF:-1 tvg-logo="https://yang-1989.eu.org/logo/咪咕.png" group-title="•咪咕「IPV6」",咪咕直播 𝟙𝟚「𝟙𝟙」
+#EXTINF:-1 tvg-logo="https://yang-1989.eu.org/logo/咪咕.png" group-title="•咪咕「IPV6」",咪咕直播 𝟙𝟚「IPV6」
 http://[2409:8087:1a01:df::4003]/PLTV/88888888/224/3221225650/index.m3u8
 #EXTINF:-1 tvg-logo="https://yang-1989.eu.org/logo/咪咕.png" group-title="•咪咕「IPV6」",咪咕直播 𝟙𝟛「IPV6」
 http://[2409:8087:1a01:df::4014]/PLTV/88888888/224/3221225652/index.m3u8
@@ -561,24 +561,16 @@ http://gslbserv.itv.cmvideo.cn:80/3000000010000027691/index.m3u8?channel-id=Fifa
 #EXTINF:-1 tvg-logo="https://yang-1989.eu.org/logo/咪咕.png" group-title="•咪咕「移动」",咪咕直播 𝟛𝟛
 http://gslbserv.itv.cmvideo.cn:80/3000000010000031669/index.m3u8?channel-id=FifastbLive&Contentid=3000000010000031669&livemode=1&stbId=3
 #INSERT_HERE
-#EXTINF:-1 tvg-logo="https://yang-1989.eu.org/logo/咪咕.png" group-title="•咪咕「体育」", 「NBA」07:00 西决G5 独行侠vs森林狼赛前训练 解说
+#EXTINF:-1 tvg-logo="https://yang-1989.eu.org/logo/咪咕.png" group-title="•咪咕「体育」", 「WTT」10:30 重庆冠军赛：男女单打1/8决赛 1100
 https://yang-1989.eu.org/Migu/1
-#EXTINF:-1 tvg-logo="https://yang-1989.eu.org/logo/咪咕.png" group-title="•咪咕「体育」", 「NBA」08:10 季后赛 森林狼vs独行侠 解说
+#EXTINF:-1 tvg-logo="https://yang-1989.eu.org/logo/咪咕.png" group-title="•咪咕「体育」", 「WTT」10:30 重庆冠军赛：男女单打1/8决赛 原声
 https://yang-1989.eu.org/Migu/2
-#EXTINF:-1 tvg-logo="https://yang-1989.eu.org/logo/咪咕.png" group-title="•咪咕「体育」", 「NBA」08:10 季后赛 森林狼vs独行侠 独行侠直播间
+#EXTINF:-1 tvg-logo="https://yang-1989.eu.org/logo/咪咕.png" group-title="•咪咕「体育」", 「WTT」10:30 重庆冠军赛：男女单打1/8决赛 1030
 https://yang-1989.eu.org/Migu/3
-#EXTINF:-1 tvg-logo="https://yang-1989.eu.org/logo/咪咕.png" group-title="•咪咕「体育」", 「NBA」08:10 英文原声
+#EXTINF:-1 tvg-logo="https://yang-1989.eu.org/logo/咪咕.png" group-title="•咪咕「体育」", 「WTT」10:30 重庆冠军赛：男女单打1/8决赛 1100
 https://yang-1989.eu.org/Migu/4
-#EXTINF:-1 tvg-logo="https://yang-1989.eu.org/logo/咪咕.png" group-title="•咪咕「体育」", 「WTT」10:30 重庆冠军赛：男女单打1/16决赛 解说
+#EXTINF:-1 tvg-logo="https://yang-1989.eu.org/logo/咪咕.png" group-title="•咪咕「体育」", 「WTT」10:30 重庆冠军赛：男女单打1/8决赛 英文解说
 https://yang-1989.eu.org/Migu/5
-#EXTINF:-1 tvg-logo="https://yang-1989.eu.org/logo/咪咕.png" group-title="•咪咕「体育」", 「WTT」10:30 重庆冠军赛：男女单打1/16决赛 原声
-https://yang-1989.eu.org/Migu/6
-#EXTINF:-1 tvg-logo="https://yang-1989.eu.org/logo/咪咕.png" group-title="•咪咕「体育」", 「WTT」10:30 重庆冠军赛：男女单打1/16决赛 候场区1030
-https://yang-1989.eu.org/Migu/7
-#EXTINF:-1 tvg-logo="https://yang-1989.eu.org/logo/咪咕.png" group-title="•咪咕「体育」", 「WTT」10:30 重庆冠军赛：男女单打1/16决赛 混采区1100
-https://yang-1989.eu.org/Migu/8
-#EXTINF:-1 tvg-logo="https://yang-1989.eu.org/logo/咪咕.png" group-title="•咪咕「体育」", 「WTT」10:30 重庆冠军赛：男女单打1/16决赛 英文解说
-https://yang-1989.eu.org/Migu/9
 #EXTINF:-1 tvg-name="CCTV1" tvg-logo="https://yang-1989.eu.org/logo/CCTV1.png" group-title="•咪咕「TV」",CCTV 1 综合
 https://tv.iill.top/migu/cctv1
 #EXTINF:-1 tvg-name="CCTV2" tvg-logo="https://yang-1989.eu.org/logo/CCTV2.png" group-title="•咪咕「TV」",CCTV 2 财经
@@ -945,12 +937,6 @@ https://tv.iill.top/jd/fhzx
 https://tv.iill.top/jd/fhzx
 #EXTINF:-1 tvg-name="凤凰香港" tvg-logo="https://yang-1989.eu.org/logo/凤凰香港.png" group-title="•港澳台「壹」",凤凰卫视·香港「酒店」
 https://tv.iill.top/jd/fhxg
-#EXTINF:-1 tvg-name="凤凰中文" tvg-logo="https://yang-1989.eu.org/logo/凤凰中文.png" group-title="•港澳台「壹」",凤凰卫视·中文「体验」
-https://i.iill.top/tptv/HD-10000k-1080P-fhchinese5s
-#EXTINF:-1 tvg-name="凤凰资讯" tvg-logo="https://yang-1989.eu.org/logo/凤凰资讯.png" group-title="•港澳台「壹」",凤凰卫视·资讯「体验」
-https://i.iill.top/tptv/HD-10000k-1080P-fhzixun5s
-#EXTINF:-1 tvg-name="凤凰香港" tvg-logo="https://yang-1989.eu.org/logo/凤凰香港.png" group-title="•港澳台「壹」",凤凰卫视·香港「体验」
-https://i.iill.top/tptv/HD-10000k-1080P-fhhongkong5s
 #EXTINF:-1 tvg-name="星河台" tvg-logo="https://yang-1989.eu.org/logo/星河台.png" group-title="•港澳台「壹」",TVB 星河
 http://v2h.jdshipin.com/xinghe/xinghe.stream/chunklist.m3u8
 #EXTINF:-1 tvg-name="TVBPlus" tvg-logo="https://yang-1989.eu.org/logo/TVBPlus.png" group-title="•港澳台「壹」",TVB Plus
