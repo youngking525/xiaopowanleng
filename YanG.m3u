@@ -1,10 +1,10 @@
 #EXTM3U
 #EXTM3U x-tvg-url="https://assets.livednow.com/epg.xml"
-#EXTINF:-1 tvg-name="免费订阅,不收费." tvg-logo="https://yang-1989.eu.org/logo/温馨提示.png" group-title="•温馨提示",维护时间：2024-05-30 #佛系维护...
+#EXTINF:-1 tvg-name="免费订阅,不收费." tvg-logo="https://yang-1989.eu.org/logo/温馨提示.png" group-title="•温馨提示",维护时间：2024-06-01 #佛系维护...
 https://github.com/YanG-1989
-#EXTINF:-1 tvg-name="免费订阅,不收费." tvg-logo="https://yang-1989.eu.org/logo/温馨提示.png" group-title="•温馨提示",维护内容：优化·咪咕体育和TV的稳定性
+#EXTINF:-1 tvg-name="免费订阅,不收费." tvg-logo="https://yang-1989.eu.org/logo/温馨提示.png" group-title="•温馨提示",维护内容：增加·央视「境外」分组
 https://github.com/YanG-1989
-#EXTINF:-1 tvg-name="免费订阅,不收费." tvg-logo="https://yang-1989.eu.org/logo/温馨提示.png" group-title="•温馨提示",特别公告：修复·爱尔达体育1234
+#EXTINF:-1 tvg-name="免费订阅,不收费." tvg-logo="https://yang-1989.eu.org/logo/温馨提示.png" group-title="•温馨提示",特别公告：...............
 https://github.com/YanG-1989
 #EXTINF:-1 tvg-name="免费订阅,不收费." tvg-logo="https://yang-1989.eu.org/logo/温馨提示.png" group-title="•温馨提示",特殊分组：暂时取消IP限制!
 https://github.com/YanG-1989
@@ -561,16 +561,18 @@ http://gslbserv.itv.cmvideo.cn:80/3000000010000027691/index.m3u8?channel-id=Fifa
 #EXTINF:-1 tvg-logo="https://yang-1989.eu.org/logo/咪咕.png" group-title="•咪咕「移动」",咪咕直播 𝟛𝟛
 http://gslbserv.itv.cmvideo.cn:80/3000000010000031669/index.m3u8?channel-id=FifastbLive&Contentid=3000000010000031669&livemode=1&stbId=3
 #INSERT_HERE
-#EXTINF:-1 tvg-logo="https://yang-1989.eu.org/logo/咪咕.png" group-title="•咪咕「体育」", 「WTT」10:30 重庆冠军赛：男女单打1/8决赛 1100
+#EXTINF:-1 tvg-logo="https://yang-1989.eu.org/logo/咪咕.png" group-title="•咪咕「体育」", 「WTT」10:30 重庆冠军赛：男女单打1/4决赛及半决赛 1100
 https://yang-1989.eu.org/Migu/1
-#EXTINF:-1 tvg-logo="https://yang-1989.eu.org/logo/咪咕.png" group-title="•咪咕「体育」", 「WTT」10:30 重庆冠军赛：男女单打1/8决赛 原声
+#EXTINF:-1 tvg-logo="https://yang-1989.eu.org/logo/咪咕.png" group-title="•咪咕「体育」", 「WTT」10:30 重庆冠军赛：男女单打1/4决赛及半决赛 原声
 https://yang-1989.eu.org/Migu/2
-#EXTINF:-1 tvg-logo="https://yang-1989.eu.org/logo/咪咕.png" group-title="•咪咕「体育」", 「WTT」10:30 重庆冠军赛：男女单打1/8决赛 1030
+#EXTINF:-1 tvg-logo="https://yang-1989.eu.org/logo/咪咕.png" group-title="•咪咕「体育」", 「WTT」10:30 重庆冠军赛：男女单打1/4决赛及半决赛 1030
 https://yang-1989.eu.org/Migu/3
-#EXTINF:-1 tvg-logo="https://yang-1989.eu.org/logo/咪咕.png" group-title="•咪咕「体育」", 「WTT」10:30 重庆冠军赛：男女单打1/8决赛 1100
+#EXTINF:-1 tvg-logo="https://yang-1989.eu.org/logo/咪咕.png" group-title="•咪咕「体育」", 「WTT」10:30 重庆冠军赛：男女单打1/4决赛及半决赛 1100
 https://yang-1989.eu.org/Migu/4
-#EXTINF:-1 tvg-logo="https://yang-1989.eu.org/logo/咪咕.png" group-title="•咪咕「体育」", 「WTT」10:30 重庆冠军赛：男女单打1/8决赛 英文解说
+#EXTINF:-1 tvg-logo="https://yang-1989.eu.org/logo/咪咕.png" group-title="•咪咕「体育」", 「WTT」10:30 重庆冠军赛：男女单打1/4决赛及半决赛 英文解说
 https://yang-1989.eu.org/Migu/5
+#EXTINF:-1 tvg-logo="https://yang-1989.eu.org/logo/咪咕.png" group-title="•咪咕「体育」", 「意甲」23:45 联赛 亚特兰大vs佛罗伦萨 解说
+https://yang-1989.eu.org/Migu/6
 #EXTINF:-1 tvg-name="CCTV1" tvg-logo="https://yang-1989.eu.org/logo/CCTV1.png" group-title="•咪咕「TV」",CCTV 1 综合
 https://tv.iill.top/migu/cctv1
 #EXTINF:-1 tvg-name="CCTV2" tvg-logo="https://yang-1989.eu.org/logo/CCTV2.png" group-title="•咪咕「TV」",CCTV 2 财经
@@ -931,6 +933,58 @@ https://tv.iill.top/youtube/miaou-cat
 https://tv.iill.top/youtube/MohumohuPetCafe
 #EXTINF:-1 tvg-id="YanG" tvg-logo="https://yang-1989.eu.org/logo/YouTube.png" group-title="•YouTube「P」",綠聲·旅遊
 https://tv.iill.top/youtube/GreenSoundOfficial
+#EXTINF:-1 tvg-name="CCTV1" tvg-logo="https://yang-1989.eu.org/logo/CCTV1.png" group-title="•央视「境外」",CCTV 1 综合
+https://tv.iill.top/tvv/cctv1
+#EXTINF:-1 tvg-name="CCTV2" tvg-logo="https://yang-1989.eu.org/logo/CCTV2.png" group-title="•央视「境外」",CCTV 2 财经
+https://tv.iill.top/tvv/cctv2
+#EXTINF:-1 tvg-name="CCTV3" tvg-logo="https://yang-1989.eu.org/logo/CCTV3.png" group-title="•央视「境外」",CCTV 3 综艺
+https://tv.iill.top/tvv/cctv3
+#EXTINF:-1 tvg-name="CCTV4" tvg-logo="https://yang-1989.eu.org/logo/CCTV4.png" group-title="•央视「境外」",CCTV 4 中文国际
+https://tv.iill.top/tvv/cctv4
+#EXTINF:-1 tvg-name="CCTV5" tvg-logo="https://yang-1989.eu.org/logo/CCTV5.png" group-title="•央视「境外」",CCTV 5 体育
+https://tv.iill.top/tvv/cctv5
+#EXTINF:-1 tvg-name="CCTV5+" tvg-logo="https://yang-1989.eu.org/logo/CCTV5+.png" group-title="•央视「境外」",CCTV 5+ 体育赛事
+https://tv.iill.top/tvv/cctv5+
+#EXTINF:-1 tvg-name="CCTV6" tvg-logo="https://yang-1989.eu.org/logo/CCTV6.png" group-title="•央视「境外」",CCTV 6 电影
+https://tv.iill.top/tvv/cctv6
+#EXTINF:-1 tvg-name="CCTV7" tvg-logo="https://yang-1989.eu.org/logo/CCTV7.png" group-title="•央视「境外」",CCTV 7 国防军事
+https://tv.iill.top/tvv/cctv7
+#EXTINF:-1 tvg-name="CCTV8" tvg-logo="https://yang-1989.eu.org/logo/CCTV8.png" group-title="•央视「境外」",CCTV 8 电视剧
+https://tv.iill.top/tvv/cctv8
+#EXTINF:-1 tvg-name="CCTV9" tvg-logo="https://yang-1989.eu.org/logo/CCTV9.png" group-title="•央视「境外」",CCTV 9 纪录
+https://tv.iill.top/tvv/cctv9
+#EXTINF:-1 tvg-name="CCTV10" tvg-logo="https://yang-1989.eu.org/logo/CCTV10.png" group-title="•央视「境外」",CCTV 10 科教
+https://tv.iill.top/tvv/cctv10
+#EXTINF:-1 tvg-name="CCTV11" tvg-logo="https://yang-1989.eu.org/logo/CCTV11.png" group-title="•央视「境外」",CCTV 11 戏曲
+https://tv.iill.top/tvv/cctv11
+#EXTINF:-1 tvg-name="CCTV12" tvg-logo="https://yang-1989.eu.org/logo/CCTV12.png" group-title="•央视「境外」",CCTV 12 社会与法
+https://tv.iill.top/tvv/cctv12
+#EXTINF:-1 tvg-name="CCTV13" tvg-logo="https://yang-1989.eu.org/logo/CCTV13.png" group-title="•央视「境外」",CCTV 13 新闻
+https://tv.iill.top/tvv/cctv13
+#EXTINF:-1 tvg-name="CCTV14" tvg-logo="https://yang-1989.eu.org/logo/CCTV14.png" group-title="•央视「境外」",CCTV 14 少儿
+https://tv.iill.top/tvv/cctv14
+#EXTINF:-1 tvg-name="CCTV15" tvg-logo="https://yang-1989.eu.org/logo/CCTV15.png" group-title="•央视「境外」",CCTV 15 音乐
+https://tv.iill.top/tvv/cctv15
+#EXTINF:-1 tvg-name="CCTV16" tvg-logo="https://yang-1989.eu.org/logo/CCTV16.png" group-title="•央视「境外」",CCTV 16 奥林匹克
+https://tv.iill.top/tvv/cctv16
+#EXTINF:-1 tvg-name="CCTV17" tvg-logo="https://yang-1989.eu.org/logo/CCTV17.png" group-title="•央视「境外」",CCTV 17 农村农业
+https://tv.iill.top/tvv/cctv17
+#EXTINF:-1 tvg-name="广东卫视" tvg-logo="https://yang-1989.eu.org/logo/广东卫视.png" group-title="•央视「境外」",广东卫视
+https://tv.iill.top/tvv/gdws
+#EXTINF:-1 tvg-name="广东珠江" tvg-logo="https://yang-1989.eu.org/logo/广东珠江.png" group-title="•央视「境外」",广东珠江
+https://tv.iill.top/tvv/gdzj
+#EXTINF:-1 tvg-name="大湾区卫视" tvg-logo="https://yang-1989.eu.org/logo/大湾区卫视.png" group-title="•央视「境外」",大湾区卫视
+https://tv.iill.top/tvv/dwqws
+#EXTINF:-1 tvg-name="湖南卫视" tvg-logo="https://yang-1989.eu.org/logo/湖南卫视.png" group-title="•央视「境外」",湖南卫视
+https://tv.iill.top/tvv/hnws
+#EXTINF:-1 tvg-name="江苏卫视" tvg-logo="https://yang-1989.eu.org/logo/江苏卫视.png" group-title="•央视「境外」",江苏卫视
+https://tv.iill.top/tvv/jsws
+#EXTINF:-1 tvg-name="东方卫视" tvg-logo="https://yang-1989.eu.org/logo/东方卫视.png" group-title="•央视「境外」",东方卫视
+https://tv.iill.top/tvv/dfws
+#EXTINF:-1 tvg-name="北京卫视" tvg-logo="https://yang-1989.eu.org/logo/北京卫视.png" group-title="•央视「境外」",北京卫视
+https://tv.iill.top/tvv/bjws
+#EXTINF:-1 tvg-name="湖北卫视" tvg-logo="https://yang-1989.eu.org/logo/湖北卫视.png" group-title="•央视「境外」",湖北卫视
+https://tv.iill.top/tvv/hbws
 #EXTINF:-1 tvg-name="凤凰中文" tvg-logo="https://yang-1989.eu.org/logo/凤凰中文.png" group-title="•港澳台「壹」",凤凰卫视·中文「酒店」
 https://tv.iill.top/jd/fhzx
 #EXTINF:-1 tvg-name="凤凰资讯" tvg-logo="https://yang-1989.eu.org/logo/凤凰资讯.png" group-title="•港澳台「壹」",凤凰卫视·资讯「酒店」
