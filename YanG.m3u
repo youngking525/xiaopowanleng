@@ -561,18 +561,26 @@ http://gslbserv.itv.cmvideo.cn:80/3000000010000027691/index.m3u8?channel-id=Fifa
 #EXTINF:-1 tvg-logo="https://yang-1989.eu.org/logo/咪咕.png" group-title="•咪咕「移动」",咪咕直播 𝟛𝟛
 http://gslbserv.itv.cmvideo.cn:80/3000000010000031669/index.m3u8?channel-id=FifastbLive&Contentid=3000000010000031669&livemode=1&stbId=3
 #INSERT_HERE
-#EXTINF:-1 tvg-logo="https://yang-1989.eu.org/logo/咪咕.png" group-title="•咪咕「体育」", 「WTT」10:30 重庆冠军赛：男女单打1/4决赛及半决赛 1100
+#EXTINF:-1 tvg-logo="https://yang-1989.eu.org/logo/咪咕.png" group-title="•咪咕「体育」", 「WTT」15:00 萨格勒布常规挑战赛：单打资格赛第一、二轮 1号桌
 https://yang-1989.eu.org/Migu/1
-#EXTINF:-1 tvg-logo="https://yang-1989.eu.org/logo/咪咕.png" group-title="•咪咕「体育」", 「WTT」10:30 重庆冠军赛：男女单打1/4决赛及半决赛 原声
+#EXTINF:-1 tvg-logo="https://yang-1989.eu.org/logo/咪咕.png" group-title="•咪咕「体育」", 「WTT」15:00 萨格勒布常规挑战赛：单打资格赛第一、二轮 2号桌
 https://yang-1989.eu.org/Migu/2
-#EXTINF:-1 tvg-logo="https://yang-1989.eu.org/logo/咪咕.png" group-title="•咪咕「体育」", 「WTT」10:30 重庆冠军赛：男女单打1/4决赛及半决赛 1030
+#EXTINF:-1 tvg-logo="https://yang-1989.eu.org/logo/咪咕.png" group-title="•咪咕「体育」", 「WTT」15:00 萨格勒布常规挑战赛：单打资格赛第一、二轮 3号桌
 https://yang-1989.eu.org/Migu/3
-#EXTINF:-1 tvg-logo="https://yang-1989.eu.org/logo/咪咕.png" group-title="•咪咕「体育」", 「WTT」10:30 重庆冠军赛：男女单打1/4决赛及半决赛 1100
+#EXTINF:-1 tvg-logo="https://yang-1989.eu.org/logo/咪咕.png" group-title="•咪咕「体育」", 「WTT」15:00 萨格勒布常规挑战赛：单打资格赛第一、二轮 4号桌
 https://yang-1989.eu.org/Migu/4
-#EXTINF:-1 tvg-logo="https://yang-1989.eu.org/logo/咪咕.png" group-title="•咪咕「体育」", 「WTT」10:30 重庆冠军赛：男女单打1/4决赛及半决赛 英文解说
+#EXTINF:-1 tvg-logo="https://yang-1989.eu.org/logo/咪咕.png" group-title="•咪咕「体育」", 「WTT」17:00 重庆冠军赛：男女单打决赛 演播室
 https://yang-1989.eu.org/Migu/5
-#EXTINF:-1 tvg-logo="https://yang-1989.eu.org/logo/咪咕.png" group-title="•咪咕「体育」", 「意甲」23:45 联赛 亚特兰大vs佛罗伦萨 解说
+#EXTINF:-1 tvg-logo="https://yang-1989.eu.org/logo/咪咕.png" group-title="•咪咕「体育」", 「WTT」17:00 重庆冠军赛：男女单打决赛 原声
 https://yang-1989.eu.org/Migu/6
+#EXTINF:-1 tvg-logo="https://yang-1989.eu.org/logo/咪咕.png" group-title="•咪咕「体育」", 「WTT」17:00 重庆冠军赛：男女单打决赛 训练馆
+https://yang-1989.eu.org/Migu/7
+#EXTINF:-1 tvg-logo="https://yang-1989.eu.org/logo/咪咕.png" group-title="•咪咕「体育」", 「WTT」17:00 重庆冠军赛：男女单打决赛 英文解说
+https://yang-1989.eu.org/Migu/8
+#EXTINF:-1 tvg-logo="https://yang-1989.eu.org/logo/咪咕.png" group-title="•咪咕「体育」", 「WTT」17:00 重庆冠军赛：男女单打决赛 候场区
+https://yang-1989.eu.org/Migu/9
+#EXTINF:-1 tvg-logo="https://yang-1989.eu.org/logo/咪咕.png" group-title="•咪咕「体育」", 「WTT」17:00 重庆冠军赛：男女单打决赛 混采区
+https://yang-1989.eu.org/Migu/10
 #EXTINF:-1 tvg-name="CCTV1" tvg-logo="https://yang-1989.eu.org/logo/CCTV1.png" group-title="•咪咕「TV」",CCTV 1 综合
 https://tv.iill.top/migu/cctv1
 #EXTINF:-1 tvg-name="CCTV2" tvg-logo="https://yang-1989.eu.org/logo/CCTV2.png" group-title="•咪咕「TV」",CCTV 2 财经
