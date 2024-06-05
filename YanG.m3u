@@ -561,13 +561,13 @@ http://gslbserv.itv.cmvideo.cn:80/3000000010000027691/index.m3u8?channel-id=Fifa
 #EXTINF:-1 tvg-logo="https://yang-1989.eu.org/logo/咪咕.png" group-title="•咪咕「移动」",咪咕直播 𝟛𝟛
 http://gslbserv.itv.cmvideo.cn:80/3000000010000031669/index.m3u8?channel-id=FifastbLive&Contentid=3000000010000031669&livemode=1&stbId=3
 #INSERT_HERE
-#EXTINF:-1 tvg-logo="https://yang-1989.eu.org/logo/咪咕.png" group-title="•咪咕「体育」", 「WTT」16:00 萨格勒布常规挑战赛：女单资格赛第一轮、男单资格赛第二轮、双打资格赛第一轮 1号桌
+#EXTINF:-1 tvg-logo="https://yang-1989.eu.org/logo/咪咕.png" group-title="•咪咕「体育」", 「WTT」15:30 萨格勒布常规挑战赛：双打资格赛第二轮、单打资格赛第三、四轮 1号桌
 https://yang-1989.eu.org/Migu/1
-#EXTINF:-1 tvg-logo="https://yang-1989.eu.org/logo/咪咕.png" group-title="•咪咕「体育」", 「WTT」16:00 萨格勒布常规挑战赛：女单资格赛第一轮、男单资格赛第二轮、双打资格赛第一轮 2号桌
+#EXTINF:-1 tvg-logo="https://yang-1989.eu.org/logo/咪咕.png" group-title="•咪咕「体育」", 「WTT」15:30 萨格勒布常规挑战赛：双打资格赛第二轮、单打资格赛第三、四轮 2号桌
 https://yang-1989.eu.org/Migu/2
-#EXTINF:-1 tvg-logo="https://yang-1989.eu.org/logo/咪咕.png" group-title="•咪咕「体育」", 「WTT」16:00 萨格勒布常规挑战赛：女单资格赛第一轮、男单资格赛第二轮、双打资格赛第一轮 3号桌
+#EXTINF:-1 tvg-logo="https://yang-1989.eu.org/logo/咪咕.png" group-title="•咪咕「体育」", 「WTT」15:30 萨格勒布常规挑战赛：双打资格赛第二轮、单打资格赛第三、四轮 3号桌
 https://yang-1989.eu.org/Migu/3
-#EXTINF:-1 tvg-logo="https://yang-1989.eu.org/logo/咪咕.png" group-title="•咪咕「体育」", 「WTT」16:00 萨格勒布常规挑战赛：女单资格赛第一轮、男单资格赛第二轮、双打资格赛第一轮 4号桌
+#EXTINF:-1 tvg-logo="https://yang-1989.eu.org/logo/咪咕.png" group-title="•咪咕「体育」", 「WTT」15:30 萨格勒布常规挑战赛：双打资格赛第二轮、单打资格赛第三、四轮 4号桌
 https://yang-1989.eu.org/Migu/4
 #EXTINF:-1 tvg-name="CCTV1" tvg-logo="https://yang-1989.eu.org/logo/CCTV1.png" group-title="•咪咕「TV」",CCTV 1 综合
 https://tv.iill.top/migu/cctv1
