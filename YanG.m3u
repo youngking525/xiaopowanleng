@@ -561,16 +561,28 @@ http://gslbserv.itv.cmvideo.cn:80/3000000010000027691/index.m3u8?channel-id=Fifa
 #EXTINF:-1 tvg-logo="https://yang-1989.eu.org/logo/咪咕.png" group-title="•咪咕「移动」",咪咕直播 𝟛𝟛
 http://gslbserv.itv.cmvideo.cn:80/3000000010000031669/index.m3u8?channel-id=FifastbLive&Contentid=3000000010000031669&livemode=1&stbId=3
 #INSERT_HERE
-#EXTINF:-1 tvg-logo="https://yang-1989.eu.org/logo/咪咕.png" group-title="•咪咕「体育」", 「WTT」19:00 萨格勒布常规挑战赛：男女单双打1/16决赛、混双1/8决赛 解说
+#EXTINF:-1 tvg-logo="https://yang-1989.eu.org/logo/咪咕.png" group-title="•咪咕「体育」", 「NBA」07:00 总决赛G1赛前训练 解说
 https://yang-1989.eu.org/Migu/1
-#EXTINF:-1 tvg-logo="https://yang-1989.eu.org/logo/咪咕.png" group-title="•咪咕「体育」", 「WTT」19:00 萨格勒布常规挑战赛：男女单双打1/16决赛、混双1/8决赛 1号桌
+#EXTINF:-1 tvg-logo="https://yang-1989.eu.org/logo/咪咕.png" group-title="•咪咕「体育」", 「NBA」07:10 总决赛 凯尔特人vs独行侠 解说
 https://yang-1989.eu.org/Migu/2
-#EXTINF:-1 tvg-logo="https://yang-1989.eu.org/logo/咪咕.png" group-title="•咪咕「体育」", 「WTT」19:00 萨格勒布常规挑战赛：男女单双打1/16决赛、混双1/8决赛 2号桌
+#EXTINF:-1 tvg-logo="https://yang-1989.eu.org/logo/咪咕.png" group-title="•咪咕「体育」", 「NBA」07:10 《周刊》节目
 https://yang-1989.eu.org/Migu/3
-#EXTINF:-1 tvg-logo="https://yang-1989.eu.org/logo/咪咕.png" group-title="•咪咕「体育」", 「WTT」19:00 萨格勒布常规挑战赛：男女单双打1/16决赛、混双1/8决赛 3号桌
+#EXTINF:-1 tvg-logo="https://yang-1989.eu.org/logo/咪咕.png" group-title="•咪咕「体育」", 「NBA」07:10 总决赛 凯尔特人vs独行侠 呼鹏唤友PK解说
 https://yang-1989.eu.org/Migu/4
-#EXTINF:-1 tvg-logo="https://yang-1989.eu.org/logo/咪咕.png" group-title="•咪咕「体育」", 「WTT」19:00 萨格勒布常规挑战赛：男女单双打1/16决赛、混双1/8决赛 4号桌
+#EXTINF:-1 tvg-logo="https://yang-1989.eu.org/logo/咪咕.png" group-title="•咪咕「体育」", 「NBA」07:10 英文原声
 https://yang-1989.eu.org/Migu/5
+#EXTINF:-1 tvg-logo="https://yang-1989.eu.org/logo/咪咕.png" group-title="•咪咕「体育」", 「NBA」07:10 VIP前排看球
+https://yang-1989.eu.org/Migu/6
+#EXTINF:-1 tvg-logo="https://yang-1989.eu.org/logo/咪咕.png" group-title="•咪咕「体育」", 「NBA」07:10 球场十倍镜
+https://yang-1989.eu.org/Migu/7
+#EXTINF:-1 tvg-logo="https://yang-1989.eu.org/logo/咪咕.png" group-title="•咪咕「体育」", 「WTT」19:00 萨格勒布常规挑战赛：双打1/4决赛、男单1/8决赛、女单1/4决赛、混双半决赛 解说
+https://yang-1989.eu.org/Migu/8
+#EXTINF:-1 tvg-logo="https://yang-1989.eu.org/logo/咪咕.png" group-title="•咪咕「体育」", 「WTT」19:00 萨格勒布常规挑战赛：双打1/4决赛、男单1/8决赛、女单1/4决赛、混双半决赛 1号桌
+https://yang-1989.eu.org/Migu/9
+#EXTINF:-1 tvg-logo="https://yang-1989.eu.org/logo/咪咕.png" group-title="•咪咕「体育」", 「WTT」19:00 萨格勒布常规挑战赛：双打1/4决赛、男单1/8决赛、女单1/4决赛、混双半决赛 2号桌
+https://yang-1989.eu.org/Migu/10
+#EXTINF:-1 tvg-logo="https://yang-1989.eu.org/logo/咪咕.png" group-title="•咪咕「体育」", 「WTT」19:00 萨格勒布常规挑战赛：双打1/4决赛、男单1/8决赛、女单1/4决赛、混双半决赛 3号桌
+https://yang-1989.eu.org/Migu/11
 #EXTINF:-1 tvg-name="CCTV1" tvg-logo="https://yang-1989.eu.org/logo/CCTV1.png" group-title="•咪咕「TV」",CCTV 1 综合
 https://tv.iill.top/migu/cctv1
 #EXTINF:-1 tvg-name="CCTV2" tvg-logo="https://yang-1989.eu.org/logo/CCTV2.png" group-title="•咪咕「TV」",CCTV 2 财经
@@ -821,8 +833,6 @@ https://tv.iill.top/youtube/toprelaxchannel
 https://tv.iill.top/youtube/8knaturefilm1620
 #EXTINF:-1 tvg-id="YanG" tvg-logo="https://yang-1989.eu.org/logo/YouTube.png" group-title="•YouTube「P」",我們的星球⁴
 https://tv.iill.top/youtube/4KScenicRelaxationFilms
-#EXTINF:-1 tvg-id="YanG" tvg-logo="https://yang-1989.eu.org/logo/YouTube.png" group-title="•YouTube「P」",Eight FM
-https://tv.iill.top/youtube/o1ipHJUfFTM
 #EXTINF:-1 tvg-id="YanG" tvg-logo="https://yang-1989.eu.org/logo/YouTube.png" group-title="•YouTube「P」",兒歌童謠
 https://tv.iill.top/youtube/kafoomusic
 #EXTINF:-1 tvg-id="YanG" tvg-logo="https://yang-1989.eu.org/logo/YouTube.png" group-title="•YouTube「P」",粵·音樂
@@ -834,11 +844,11 @@ https://tv.iill.top/youtube/hongkongmusic8090s
 #EXTINF:-1 tvg-id="YanG" tvg-logo="https://yang-1989.eu.org/logo/YouTube.png" group-title="•YouTube「P」",粵·音樂³
 https://tv.iill.top/youtube/Hongkongclassichits
 #EXTINF:-1 tvg-id="YanG" tvg-logo="https://yang-1989.eu.org/logo/YouTube.png" group-title="•YouTube「P」",中·音樂
-https://tv.iill.top/youtube/Douyinsong2024
-#EXTINF:-1 tvg-id="YanG" tvg-logo="https://yang-1989.eu.org/logo/YouTube.png" group-title="•YouTube「P」",中·音樂¹
 https://tv.iill.top/youtube/chinesesong2023
+#EXTINF:-1 tvg-id="YanG" tvg-logo="https://yang-1989.eu.org/logo/YouTube.png" group-title="•YouTube「P」",中·音樂¹
+https://tv.iill.top/youtube/KKBOX2023
 #EXTINF:-1 tvg-id="YanG" tvg-logo="https://yang-1989.eu.org/logo/YouTube.png" group-title="•YouTube「P」",中·音樂²
-https://tv.iill.top/youtube/NewTiktok2024_playlist
+https://tv.iill.top/youtube/ChinesePopHits_KKBOX
 #EXTINF:-1 tvg-id="YanG" tvg-logo="https://yang-1989.eu.org/logo/YouTube.png" group-title="•YouTube「P」",英·音樂
 https://tv.iill.top/youtube/EnglishSongCollection
 #EXTINF:-1 tvg-id="YanG" tvg-logo="https://yang-1989.eu.org/logo/YouTube.png" group-title="•YouTube「P」",英·音樂¹
@@ -885,7 +895,7 @@ https://tv.iill.top/youtube/j-popmusicbgmchannel
 https://tv.iill.top/youtube/bgmchannelbgm
 #EXTINF:-1 tvg-id="YanG" tvg-logo="https://yang-1989.eu.org/logo/YouTube.png" group-title="•YouTube「P」",BGM²
 https://tv.iill.top/youtube/cafemusicbgmchannel
-#EXTINF:-1 tvg-id="YanG" tvg-logo="https://yang-1989.eu.org/logo/youtube.png" group-title="•YouTube「P」",BGM³
+#EXTINF:-1 tvg-id="YanG" tvg-logo="https://yang-1989.eu.org/logo/YouYube.png" group-title="•YouTube「P」",BGM³
 https://tv.iill.top/youtube/lofigeek
 #EXTINF:-1 tvg-id="YanG" tvg-logo="https://yang-1989.eu.org/logo/YouTube.png" group-title="•YouTube「P」",老古董
 https://tv.iill.top/youtube/NemosDreamscapes
@@ -899,8 +909,7 @@ https://tv.iill.top/youtube/NYFT
 https://tv.iill.top/youtube/shiftswim
 #EXTINF:-1 tvg-id="YanG" tvg-logo="https://yang-1989.eu.org/logo/YouTube.png" group-title="•YouTube「P」",時裝藝術表演³
 https://tv.iill.top/youtube/SPLASHme
-#EXTINF:-1 tvg-id="YanG" tvg-logo="https://yang-1989.eu.org/logo/YouTube.png" group-title="•YouTube「P」",熱劇輪播
-https://tv.iill.top/youtube/ChinaZoneDrama
+
 #EXTINF:-1 tvg-id="YanG" tvg-logo="https://yang-1989.eu.org/logo/YouTube.png" group-title="•YouTube「P」",THE K-POP
 https://tv.iill.top/youtube/thekpop
 #EXTINF:-1 tvg-id="YanG" tvg-logo="https://yang-1989.eu.org/logo/YouTube.png" group-title="•YouTube「P」",SBS Running Man
@@ -923,8 +932,6 @@ https://tv.iill.top/youtube/KedooToonsTV
 https://tv.iill.top/youtube/OldMacDonaldsFarm_MoonbugKids
 #EXTINF:-1 tvg-id="YanG" tvg-logo="https://yang-1989.eu.org/logo/YouTube.png" group-title="•YouTube「P」",123 GO
 https://tv.iill.top/youtube/123goseries
-#EXTINF:-1 tvg-id="YanG" tvg-logo="https://yang-1989.eu.org/logo/YouTube.png" group-title="•YouTube「P」",Ani-One中文官方動畫頻道
-https://tv.iill.top/youtube/AniOneAnime
 #EXTINF:-1 tvg-id="YanG" tvg-logo="https://yang-1989.eu.org/logo/YouTube.png" group-title="•YouTube「P」",貓·部落
 https://tv.iill.top/youtube/miaou-cat
 #EXTINF:-1 tvg-id="YanG" tvg-logo="https://yang-1989.eu.org/logo/YouTube.png" group-title="•YouTube「P」",鼠·部落
@@ -1264,7 +1271,7 @@ https://tv.iill.top/litv/litv-longturn06
 #EXTINF:-1 tvg-id="博斯魅力台" tvg-name="博斯魅力台" tvg-logo="https://assets.livednow.com/logo/博斯魅力台.png" group-title="•台湾「专辑」", 博斯魅力台
 https://tv.iill.top/litv/litv-longturn04
 #EXTINF:-1 tvg-id="時尚運動X" tvg-name="時尚運動X" tvg-logo="https://assets.livednow.com/logo/時尚運動X.png" group-title="•台湾「专辑」", 時尚運動X
-https://tv.iill.top/litv/4gtv-4gtv014
+https://tv.iill.top/4gtv/277
 #EXTINF:-1 tvg-id="智林體育台" tvg-name="智林體育台" tvg-logo="https://assets.livednow.com/logo/智林體育台.png" group-title="•台湾「专辑」", 智林體育台
 https://tv.iill.top/litv/4gtv-4gtv101
 #EXTINF:-1 tvg-id="TVBS" tvg-name="TVBS" tvg-logo="https://assets.livednow.com/logo/TVBS.png" group-title="•台湾「专辑」", TVBS
