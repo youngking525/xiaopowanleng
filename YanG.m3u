@@ -1,9 +1,9 @@
 #EXTM3U x-tvg-url="https://assets.livednow.com/epg.xml,https://epg.112114.xyz/pp.xml.gz"
-#EXTINF:-1 tvg-name="免费订阅,不收费." tvg-logo="https://yang-1989.eu.org/logo/温馨提示.png" group-title="•温馨提示",维护时间：2024-06-10 #佛系维护...
+#EXTINF:-1 tvg-name="免费订阅,不收费." tvg-logo="https://yang-1989.eu.org/logo/温馨提示.png" group-title="•温馨提示",维护时间：2024-06-13 #佛系维护...
 https://github.com/YanG-1989
-#EXTINF:-1 tvg-name="免费订阅,不收费." tvg-logo="https://yang-1989.eu.org/logo/温馨提示.png" group-title="•温馨提示",维护内容：优化·频道名称
+#EXTINF:-1 tvg-name="免费订阅,不收费." tvg-logo="https://yang-1989.eu.org/logo/温馨提示.png" group-title="•温馨提示",维护内容：删除失效·咪咕「IPV6」
 https://github.com/YanG-1989
-#EXTINF:-1 tvg-name="免费订阅,不收费." tvg-logo="https://yang-1989.eu.org/logo/温馨提示.png" group-title="•温馨提示",特别公告：优化·刷新订阅失败的问题.
+#EXTINF:-1 tvg-name="免费订阅,不收费." tvg-logo="https://yang-1989.eu.org/logo/温馨提示.png" group-title="•温馨提示",特别公告：解决·TiviMate和OTT特殊问题.
 https://github.com/YanG-1989
 #EXTINF:-1 tvg-name="免费订阅,不收费." tvg-logo="https://yang-1989.eu.org/logo/温馨提示.png" group-title="•温馨提示",特殊分组：恢复·IP限制-萌新建议固定节点.
 https://github.com/YanG-1989
@@ -13,7 +13,7 @@ https://d18dyiwu97wm6q.cloudfront.net/playlist2160p.m3u8
 https://d2dw21aq0j0l5c.cloudfront.net/playlist_3840x2160.m3u8
 #EXTINF:-1 tvg-logo="https://yang-1989.eu.org/logo/FashionTV.png" group-title="•4K「IPV4」",Fashion 4K「时尚」
 https://fash2043.cloudycdn.services/slive/ftv_ftv_4k_hevc_73d_42080_default_466_hls.smil/playlist.m3u8
-#EXTINF:-1 tvg-name="CCTV 4K" tvg-logo="https://yang-1989.eu.org/logo/CCTV4K.png" group-title="•4K「IPV4」",CCTV 4K  超高清「UHD」
+#EXTINF:-1 tvg-name="CCTV 4K" tvg-logo="https://yang-1989.eu.org/logo/CCTV4K.png" group-title="•4K「IPV4」",CCTV 4K 超高清「UHD」
 https://tv.iill.top/4k/cctv4k
 #EXTINF:-1 tvg-name="CCTV 8K" tvg-logo="https://yang-1989.eu.org/logo/CCTV8K.png" group-title="•4K「IPV4」",CCTV 8K 超高清「UHD」
 https://tv.iill.top/4k/cctv8k
@@ -397,10 +397,6 @@ http://[2409:8087:5e08:24::12]:6610/000000001000/2000000002000000028/index.m3u8?
 http://[2409:8087:5e08:24::12]:6610/000000001000/2000000002000000029/index.m3u8?stbId=3&livemode=1&HlsProfileId=&channel-id=hnbblive&Contentid=2000000002000000029&IASHttpSessionId=OTT19019320240419154124000281&yang-1989
 #EXTINF:-1 tvg-logo="https://yang-1989.eu.org/logo/百事通.png" group-title="•其他「IPV6」",BesTV 𝟟「IPV6」
 http://[2409:8087:5e08:24::12]:6610/000000001000/2000000002000000030/index.m3u8?stbId=3&livemode=1&HlsProfileId=&channel-id=hnbblive&Contentid=2000000002000000030&IASHttpSessionId=OTT19019320240419154124000281&yang-1989
-#EXTINF:-1 tvg-logo="https://yang-1989.eu.org/logo/咪咕.png" group-title="•咪咕「IPV6」",咪咕直播4K Ⅰ「IPV6」
-http://[2409:8087:1a01:df::4001]/PLTV/88888888/224/3221225655/index.m3u8
-#EXTINF:-1 tvg-logo="https://yang-1989.eu.org/logo/咪咕.png" group-title="•咪咕「IPV6」",咪咕直播4K Ⅱ「IPV6」
-http://[2409:8087:1a01:df::4005]/PLTV/88888888/224/3221225651/index.m3u8
 #EXTINF:-1 tvg-logo="https://yang-1989.eu.org/logo/咪咕.png" group-title="•咪咕「IPV6」",咪咕直播 𝟙*「IPV6」
 http://[2409:8087:1a01:df::404d]/ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221226124/index.m3u8
 #EXTINF:-1 tvg-logo="https://yang-1989.eu.org/logo/咪咕.png" group-title="•咪咕「IPV6」",咪咕直播 𝟚*「IPV6」
@@ -409,78 +405,6 @@ http://[2409:8087:1a01:df::403b]/ottrrs.hl.chinamobile.com/PLTV/88888888/224/322
 http://[2409:8087:1a01:df::4033]/ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221226398/index.m3u8
 #EXTINF:-1 tvg-logo="https://yang-1989.eu.org/logo/咪咕.png" group-title="•咪咕「IPV6」",咪咕直播 𝟜*「IPV6」
 http://[2409:8087:1a01:df::4046]/ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221226472/index.m3u8
-#EXTINF:-1 tvg-logo="https://yang-1989.eu.org/logo/咪咕.png" group-title="•咪咕「IPV6」",咪咕直播 𝟙「IPV6」
-http://[2409:8087:1a01:df::4023]/PLTV/88888888/224/3221225611/index.m3u8
-#EXTINF:-1 tvg-logo="https://yang-1989.eu.org/logo/咪咕.png" group-title="•咪咕「IPV6」",咪咕直播 𝟚「IPV6」
-http://[2409:8087:1a01:df::4005]/PLTV/88888888/224/3221225613/index.m3u8
-#EXTINF:-1 tvg-logo="https://yang-1989.eu.org/logo/咪咕.png" group-title="•咪咕「IPV6」",咪咕直播 𝟛「IPV6」
-http://[2409:8087:1a01:df::4017]/PLTV/88888888/224/3221225619/index.m3u8
-#EXTINF:-1 tvg-logo="https://yang-1989.eu.org/logo/咪咕.png" group-title="•咪咕「IPV6」",咪咕直播 𝟜「IPV6」
-http://[2409:8087:1a01:df::4058]/PLTV/88888888/224/3221225620/index.m3u8
-#EXTINF:-1 tvg-logo="https://yang-1989.eu.org/logo/咪咕.png" group-title="•咪咕「IPV6」",咪咕直播 𝟝「IPV6」
-http://[2409:8087:1a01:df::4015]/PLTV/88888888/224/3221225639/index.m3u8
-#EXTINF:-1 tvg-logo="https://yang-1989.eu.org/logo/咪咕.png" group-title="•咪咕「IPV6」",咪咕直播 𝟞「IPV6」
-http://[2409:8087:1a01:df::4015]/PLTV/88888888/224/3221225641/index.m3u8
-#EXTINF:-1 tvg-logo="https://yang-1989.eu.org/logo/咪咕.png" group-title="•咪咕「IPV6」",咪咕直播 𝟟「IPV6」
-http://[2409:8087:1a01:df::4011]/PLTV/88888888/224/3221225643/index.m3u8
-#EXTINF:-1 tvg-logo="https://yang-1989.eu.org/logo/咪咕.png" group-title="•咪咕「IPV6」",咪咕直播 𝟠「IPV6」
-http://[2409:8087:1a01:df::4002]/PLTV/88888888/224/3221225645/index.m3u8
-#EXTINF:-1 tvg-logo="https://yang-1989.eu.org/logo/咪咕.png" group-title="•咪咕「IPV6」",咪咕直播 𝟡「IPV6」
-http://[2409:8087:1a01:df::4016]/PLTV/88888888/224/3221225647/index.m3u8
-#EXTINF:-1 tvg-logo="https://yang-1989.eu.org/logo/咪咕.png" group-title="•咪咕「IPV6」",咪咕直播 𝟙𝟘「IPV6」
-http://[2409:8087:1a01:df::4022]/PLTV/88888888/224/3221225648/index.m3u8
-#EXTINF:-1 tvg-logo="https://yang-1989.eu.org/logo/咪咕.png" group-title="•咪咕「IPV6」",咪咕直播 𝟙𝟙「IPV6」
-http://[2409:8087:1a01:df::4003]/PLTV/88888888/224/3221225649/index.m3u8
-#EXTINF:-1 tvg-logo="https://yang-1989.eu.org/logo/咪咕.png" group-title="•咪咕「IPV6」",咪咕直播 𝟙𝟚「IPV6」
-http://[2409:8087:1a01:df::4003]/PLTV/88888888/224/3221225650/index.m3u8
-#EXTINF:-1 tvg-logo="https://yang-1989.eu.org/logo/咪咕.png" group-title="•咪咕「IPV6」",咪咕直播 𝟙𝟛「IPV6」
-http://[2409:8087:1a01:df::4014]/PLTV/88888888/224/3221225652/index.m3u8
-#EXTINF:-1 tvg-logo="https://yang-1989.eu.org/logo/咪咕.png" group-title="•咪咕「IPV6」",咪咕直播 𝟙𝟜「IPV6」
-http://[2409:8087:1a01:df::4013]/PLTV/88888888/224/3221225653/index.m3u8
-#EXTINF:-1 tvg-logo="https://yang-1989.eu.org/logo/咪咕.png" group-title="•咪咕「IPV6」",咪咕直播 𝟙𝟝「IPV6」
-http://[2409:8087:1a01:df::4017]/PLTV/88888888/224/3221225654/index.m3u8
-#EXTINF:-1 tvg-logo="https://yang-1989.eu.org/logo/咪咕.png" group-title="•咪咕「IPV6」",咪咕直播 𝟙𝟞「IPV6」
-http://[2409:8087:1a01:df::4019]/PLTV/88888888/224/3221225658/index.m3u8
-#EXTINF:-1 tvg-logo="https://yang-1989.eu.org/logo/咪咕.png" group-title="•咪咕「IPV6」",咪咕直播 𝟙𝟟「IPV6」
-http://[2409:8087:1a01:df::4012]/PLTV/88888888/224/3221225660/index.m3u8
-#EXTINF:-1 tvg-logo="https://yang-1989.eu.org/logo/咪咕.png" group-title="•咪咕「IPV6」",咪咕直播 𝟙𝟠「IPV6」
-http://[2409:8087:1a01:df::4023]/PLTV/88888888/224/3221225662/index.m3u8
-#EXTINF:-1 tvg-logo="https://yang-1989.eu.org/logo/咪咕.png" group-title="•咪咕「IPV6」",咪咕直播 𝟙𝟡「IPV6」
-http://[2409:8087:1a01:df::4062]/PLTV/88888888/224/3221225733/index.m3u8
-#EXTINF:-1 tvg-logo="https://yang-1989.eu.org/logo/咪咕.png" group-title="•咪咕「IPV6」",咪咕直播 𝟚𝟘「IPV6」
-http://[2409:8087:1a01:df::4025]/PLTV/88888888/224/3221225737/index.m3u8
-#EXTINF:-1 tvg-logo="https://yang-1989.eu.org/logo/咪咕.png" group-title="•咪咕「IPV6」",咪咕直播 𝟚𝟙「IPV6」
-http://[2409:8087:1a01:df::4074]/PLTV/88888888/224/3221225739/index.m3u8
-#EXTINF:-1 tvg-logo="https://yang-1989.eu.org/logo/咪咕.png" group-title="•咪咕「IPV6」",咪咕直播 𝟚2「IPV6」
-http://[2409:8087:1a01:df::4030]/PLTV/88888888/224/3221225754/index.m3u8
-#EXTINF:-1 tvg-logo="https://yang-1989.eu.org/logo/咪咕.png" group-title="•咪咕「IPV6」",咪咕直播 𝟚3「IPV6」
-http://[2409:8087:1a01:df::4025]/PLTV/88888888/224/3221225756/index.m3u8
-#EXTINF:-1 tvg-logo="https://yang-1989.eu.org/logo/咪咕.png" group-title="•咪咕「IPV6」",咪咕直播 𝟚𝟜「IPV6」
-http://[2409:8087:1a01:df::4077]/PLTV/88888888/224/3221225758/index.m3u8
-#EXTINF:-1 tvg-logo="https://yang-1989.eu.org/logo/咪咕.png" group-title="•咪咕「IPV6」",咪咕直播 𝟚𝟝「IPV6」
-http://[2409:8087:1a01:df::4025]/PLTV/88888888/224/3221225760/index.m3u8
-#EXTINF:-1 tvg-logo="https://yang-1989.eu.org/logo/咪咕.png" group-title="•咪咕「IPV6」",咪咕直播 𝟚𝟞「IPV6」
-http://[2409:8087:1a01:df::4002]/PLTV/88888888/224/3221225895/index.m3u8
-#EXTINF:-1 tvg-logo="https://yang-1989.eu.org/logo/咪咕.png" group-title="•咪咕「IPV6」",咪咕直播 𝟚𝟟「IPV6」
-http://[2409:8087:1a01:df::4028]/PLTV/88888888/224/3221225897/index.m3u8
-#EXTINF:-1 tvg-logo="https://yang-1989.eu.org/logo/咪咕.png" group-title="•咪咕「IPV6」",咪咕直播 𝟚𝟠「IPV6」
-http://[2409:8087:1a01:df::4061]/PLTV/88888888/224/3221225899/index.m3u8
-#EXTINF:-1 tvg-logo="https://yang-1989.eu.org/logo/咪咕.png" group-title="•咪咕「IPV6」",咪咕直播 𝟚𝟡「IPV6」
-http://[2409:8087:1a01:df::4009]/PLTV/88888888/224/3221225901/index.m3u8
-#EXTINF:-1 tvg-logo="https://yang-1989.eu.org/logo/咪咕.png" group-title="•咪咕「IPV6」",咪咕直播 𝟛𝟘「IPV6」
-http://[2409:8087:1a01:df::4023]/PLTV/88888888/224/3221225903/index.m3u8
-#EXTINF:-1 tvg-logo="https://yang-1989.eu.org/logo/咪咕.png" group-title="•咪咕「IPV6」",咪咕直播 𝟛𝟙「IPV6」
-http://[2409:8087:1a01:df::4051]/PLTV/88888888/224/3221225905/index.m3u8
-#EXTINF:-1 tvg-logo="https://yang-1989.eu.org/logo/咪咕.png" group-title="•咪咕「IPV6」",咪咕直播 𝟛𝟚「IPV6」
-http://[2409:8087:1a01:df::4055]/PLTV/88888888/224/3221225910/index.m3u8
-#EXTINF:-1 tvg-logo="https://yang-1989.eu.org/logo/咪咕.png" group-title="•咪咕「IPV6」",咪咕直播 𝟛𝟛「IPV6」
-http://[2409:8087:1a01:df::4076]/PLTV/88888888/224/3221225912/index.m3u8
-#EXTINF:-1 tvg-logo="https://yang-1989.eu.org/logo/咪咕.png" group-title="•咪咕「IPV6」",咪咕直播 𝟛𝟜「IPV6」
-http://[2409:8087:1a01:df::4027]/PLTV/88888888/224/3221225914/index.m3u8
-#EXTINF:-1 tvg-logo="https://yang-1989.eu.org/logo/咪咕.png" group-title="•咪咕「IPV6」",咪咕直播 𝟛𝟝「IPV6」
-http://[2409:8087:1a01:df::4068]/PLTV/88888888/224/3221226031/index.m3u8
-#EXTINF:-1 tvg-logo="https://yang-1989.eu.org/logo/咪咕.png" group-title="•咪咕「IPV6」",咪咕直播 𝟛𝟞「IPV6」
-http://[2409:8087:1a01:df::4062]/PLTV/88888888/224/3221226046/index.m3u8
 #EXTINF:-1 tvg-logo="https://yang-1989.eu.org/logo/咪咕.png" group-title="•咪咕「移动」",咪咕直播4K Ⅰ
 http://gslbserv.itv.cmvideo.cn:80/3000000010000005180/index.m3u8?channel-id=FifastbLive&Contentid=3000000010000005180&livemode=1&stbId=3
 #EXTINF:-1 tvg-logo="https://yang-1989.eu.org/logo/咪咕.png" group-title="•咪咕「移动」",咪咕直播4K Ⅱ
@@ -552,34 +476,30 @@ http://gslbserv.itv.cmvideo.cn:80/3000000010000027691/index.m3u8?channel-id=Fifa
 #EXTINF:-1 tvg-logo="https://yang-1989.eu.org/logo/咪咕.png" group-title="•咪咕「移动」",咪咕直播 𝟛𝟛
 http://gslbserv.itv.cmvideo.cn:80/3000000010000031669/index.m3u8?channel-id=FifastbLive&Contentid=3000000010000031669&livemode=1&stbId=3
 #INSERT_HERE
-#EXTINF:-1 tvg-logo="https://yang-1989.eu.org/logo/咪咕.png" group-title="•咪咕「体育」", 「NBA」07:00 总决赛G3赛前训练 凯尔特人vs独行侠 解说
+#EXTINF:-1 tvg-logo="https://yang-1989.eu.org/logo/咪咕.png" group-title="•咪咕「体育」", 「WTT」19:00 卢布尔雅那球星挑战赛：单打1/16决赛、双打1/4决赛及半决赛 解说
 https://yang-1989.eu.org/Migu/1
-#EXTINF:-1 tvg-logo="https://yang-1989.eu.org/logo/咪咕.png" group-title="•咪咕「体育」", 「NBA」07:10 总决赛 独行侠vs凯尔特人 解说
+#EXTINF:-1 tvg-logo="https://yang-1989.eu.org/logo/咪咕.png" group-title="•咪咕「体育」", 「WTT」19:00 卢布尔雅那球星挑战赛：单打1/16决赛、双打1/4决赛及半决赛 1号桌
 https://yang-1989.eu.org/Migu/2
-#EXTINF:-1 tvg-logo="https://yang-1989.eu.org/logo/咪咕.png" group-title="•咪咕「体育」", 「NBA」07:10 《周刊》
+#EXTINF:-1 tvg-logo="https://yang-1989.eu.org/logo/咪咕.png" group-title="•咪咕「体育」", 「WTT」19:00 卢布尔雅那球星挑战赛：单打1/16决赛、双打1/4决赛及半决赛 2号桌
 https://yang-1989.eu.org/Migu/3
-#EXTINF:-1 tvg-logo="https://yang-1989.eu.org/logo/咪咕.png" group-title="•咪咕「体育」", 「NBA」07:10 总决赛 独行侠vs凯尔特人 PK直播间
+#EXTINF:-1 tvg-logo="https://yang-1989.eu.org/logo/咪咕.png" group-title="•咪咕「体育」", 「WTT」19:00 卢布尔雅那球星挑战赛：单打1/16决赛、双打1/4决赛及半决赛 3号桌
 https://yang-1989.eu.org/Migu/4
-#EXTINF:-1 tvg-logo="https://yang-1989.eu.org/logo/咪咕.png" group-title="•咪咕「体育」", 「NBA」07:10 总决赛 独行侠vs凯尔特人 独行侠直播间
+#EXTINF:-1 tvg-logo="https://yang-1989.eu.org/logo/咪咕.png" group-title="•咪咕「体育」", 「WTT」19:00 卢布尔雅那球星挑战赛：单打1/16决赛、双打1/4决赛及半决赛 4号桌
 https://yang-1989.eu.org/Migu/5
-#EXTINF:-1 tvg-logo="https://yang-1989.eu.org/logo/咪咕.png" group-title="•咪咕「体育」", 「NBA」07:10 总决赛 独行侠vs凯尔特人 凯尔特人直播间
+#EXTINF:-1 tvg-logo="https://yang-1989.eu.org/logo/咪咕.png" group-title="•咪咕「体育」", 「中超」19:00 联赛 梅州客家vs山东泰山 解说
 https://yang-1989.eu.org/Migu/6
-#EXTINF:-1 tvg-logo="https://yang-1989.eu.org/logo/咪咕.png" group-title="•咪咕「体育」", 「NBA」07:10 英文原声
+#EXTINF:-1 tvg-logo="https://yang-1989.eu.org/logo/咪咕.png" group-title="•咪咕「体育」", 「中超」19:00 赛场原声
 https://yang-1989.eu.org/Migu/7
-#EXTINF:-1 tvg-logo="https://yang-1989.eu.org/logo/咪咕.png" group-title="•咪咕「体育」", 「NBA」07:10 VIP前排看球
+#EXTINF:-1 tvg-logo="https://yang-1989.eu.org/logo/咪咕.png" group-title="•咪咕「体育」", 「中超」19:00 星际广场
 https://yang-1989.eu.org/Migu/8
-#EXTINF:-1 tvg-logo="https://yang-1989.eu.org/logo/咪咕.png" group-title="•咪咕「体育」", 「NBA」07:10 球场十倍镜
+#EXTINF:-1 tvg-logo="https://yang-1989.eu.org/logo/咪咕.png" group-title="•咪咕「体育」", 「中超」19:45 联赛 天津津门虎vs上海海港 解说
 https://yang-1989.eu.org/Migu/9
-#EXTINF:-1 tvg-logo="https://yang-1989.eu.org/logo/咪咕.png" group-title="•咪咕「体育」", 「WTT」19:00 卢布尔雅那球星挑战赛：男女单打1/32决赛、男女双打1/8决赛、混双1/8决赛 解说
+#EXTINF:-1 tvg-logo="https://yang-1989.eu.org/logo/咪咕.png" group-title="•咪咕「体育」", 「中超」19:45 赛场原声
 https://yang-1989.eu.org/Migu/10
-#EXTINF:-1 tvg-logo="https://yang-1989.eu.org/logo/咪咕.png" group-title="•咪咕「体育」", 「WTT」19:00 卢布尔雅那球星挑战赛：男女单打1/32决赛、男女双打1/8决赛、混双1/8决赛 1号桌
+#EXTINF:-1 tvg-logo="https://yang-1989.eu.org/logo/咪咕.png" group-title="•咪咕「体育」", 「中超」19:45 联赛 南通支云vs深圳新鹏城 解说
 https://yang-1989.eu.org/Migu/11
-#EXTINF:-1 tvg-logo="https://yang-1989.eu.org/logo/咪咕.png" group-title="•咪咕「体育」", 「WTT」19:00 卢布尔雅那球星挑战赛：男女单打1/32决赛、男女双打1/8决赛、混双1/8决赛 2号桌
+#EXTINF:-1 tvg-logo="https://yang-1989.eu.org/logo/咪咕.png" group-title="•咪咕「体育」", 「中超」19:45 赛场原声
 https://yang-1989.eu.org/Migu/12
-#EXTINF:-1 tvg-logo="https://yang-1989.eu.org/logo/咪咕.png" group-title="•咪咕「体育」", 「WTT」19:00 卢布尔雅那球星挑战赛：男女单打1/32决赛、男女双打1/8决赛、混双1/8决赛 3号桌
-https://yang-1989.eu.org/Migu/13
-#EXTINF:-1 tvg-logo="https://yang-1989.eu.org/logo/咪咕.png" group-title="•咪咕「体育」", 「WTT」19:00 卢布尔雅那球星挑战赛：男女单打1/32决赛、男女双打1/8决赛、混双1/8决赛 4号桌
-https://yang-1989.eu.org/Migu/14
 #EXTINF:-1 tvg-name="CCTV 1" tvg-logo="https://yang-1989.eu.org/logo/CCTV1.png" group-title="•咪咕「TV」",CCTV 1 综合
 https://yang-1989.eu.org/migu/cctv1
 #EXTINF:-1 tvg-name="CCTV 2" tvg-logo="https://yang-1989.eu.org/logo/CCTV2.png" group-title="•咪咕「TV」",CCTV 2 财经
@@ -695,7 +615,7 @@ https://tv.iill.top/youtube/phoenixtvhk
 #EXTINF:-1 tvg-id="YanG" tvg-name="中天新闻" tvg-logo="https://yang-1989.eu.org/logo/YouTube.png" group-title="•YouTube「P」",中天新聞1台
 https://tv.iill.top/youtube/CtiNews
 #EXTINF:-1 tvg-id="YanG" tvg-name="中天新闻" tvg-logo="https://yang-1989.eu.org/logo/YouTube.png" group-title="•YouTube「P」",中天新聞2台
-https://tv.iill.top/youtube/CtiDeepThroat
+https://tv.iill.top/youtube/WPfPjbOLNfE
 #EXTINF:-1 tvg-id="YanG" tvg-name="公视新闻" tvg-logo="https://yang-1989.eu.org/logo/YouTube.png" group-title="•YouTube「P」",公視新聞
 https://tv.iill.top/youtube/PNNPTS
 #EXTINF:-1 tvg-id="YanG" tvg-name="民视新闻" tvg-logo="https://yang-1989.eu.org/logo/YouTube.png" group-title="•YouTube「P」",民視新聞
@@ -713,7 +633,7 @@ https://tv.iill.top/youtube/TVBSNEWS02
 #EXTINF:-1 tvg-id="YanG" tvg-name="三立新闻" tvg-logo="https://yang-1989.eu.org/logo/YouTube.png" group-title="•YouTube「P」",三立新聞
 https://tv.iill.top/youtube/setnews
 #EXTINF:-1 tvg-id="YanG" tvg-name="三立iNEWS" tvg-logo="https://yang-1989.eu.org/logo/YouTube.png" group-title="•YouTube「P」",三立 iNEWS
-https://tv.iill.top/youtube/setinews
+https://tv.iill.top/youtube/FoBfXvlOR6I
 #EXTINF:-1 tvg-id="YanG" tvg-name="东森新闻" tvg-logo="https://yang-1989.eu.org/logo/YouTube.png" group-title="•YouTube「P」",東森新聞
 https://tv.iill.top/youtube/newsebc
 #EXTINF:-1 tvg-id="YanG" tvg-name="东森财经新闻" tvg-logo="https://yang-1989.eu.org/logo/YouTube.png" group-title="•YouTube「P」",東森財經新聞
@@ -892,7 +812,7 @@ https://tv.iill.top/youtube/j-popmusicbgmchannel
 https://tv.iill.top/youtube/bgmchannelbgm
 #EXTINF:-1 tvg-id="YanG" tvg-logo="https://yang-1989.eu.org/logo/YouTube.png" group-title="•YouTube「P」",BGM²
 https://tv.iill.top/youtube/cafemusicbgmchannel
-#EXTINF:-1 tvg-id="YanG" tvg-logo="https://yang-1989.eu.org/logo/YouYube.png" group-title="•YouTube「P」",BGM³
+#EXTINF:-1 tvg-id="YanG" tvg-logo="https://yang-1989.eu.org/logo/YouTube.png" group-title="•YouTube「P」",BGM³
 https://tv.iill.top/youtube/lofigeek
 #EXTINF:-1 tvg-id="YanG" tvg-logo="https://yang-1989.eu.org/logo/YouTube.png" group-title="•YouTube「P」",老古董
 https://tv.iill.top/youtube/NemosDreamscapes
