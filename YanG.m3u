@@ -594,56 +594,52 @@ http://gslbserv.itv.cmvideo.cn:80/3000000020000011530/index.m3u8?channel-id=Fifa
 #EXTINF:-1 tvg-logo="https://yang-1989.eu.org/logo/咪咕.png" group-title="•咪咕「移动」",咪咕直播 𝟜𝟝「移动」
 http://gslbserv.itv.cmvideo.cn:80/3000000020000011531/index.m3u8?channel-id=FifastbLive&Contentid=3000000020000011531&livemode=1&stbId=3
 #INSERT_HERE
-#EXTINF:-1 tvg-logo="https://yang-1989.eu.org/logo/咪咕.png" group-title="•咪咕「体育」", 「WTT」23:00 1号桌
+#EXTINF:-1 tvg-logo="https://yang-1989.eu.org/logo/咪咕.png" group-title="•咪咕「体育」", 「WTT」22:00 1号桌
 https://yang-1989.eu.org/Migu/1
-#EXTINF:-1 tvg-logo="https://yang-1989.eu.org/logo/咪咕.png" group-title="•咪咕「体育」", 「WTT」23:00 2号桌
+#EXTINF:-1 tvg-logo="https://yang-1989.eu.org/logo/咪咕.png" group-title="•咪咕「体育」", 「WTT」22:00 2号桌
 https://yang-1989.eu.org/Migu/2
-#EXTINF:-1 tvg-logo="https://yang-1989.eu.org/logo/咪咕.png" group-title="•咪咕「体育」", 「WTT」23:00 3号桌
+#EXTINF:-1 tvg-logo="https://yang-1989.eu.org/logo/咪咕.png" group-title="•咪咕「体育」", 「WTT」22:00 3号桌
 https://yang-1989.eu.org/Migu/3
-#EXTINF:-1 tvg-logo="https://yang-1989.eu.org/logo/咪咕.png" group-title="•咪咕「体育」", 「WTT」23:00 4号桌
+#EXTINF:-1 tvg-logo="https://yang-1989.eu.org/logo/咪咕.png" group-title="•咪咕「体育」", 「WTT」22:00 4号桌
 https://yang-1989.eu.org/Migu/4
 #EXTINF:-1 tvg-logo="https://yang-1989.eu.org/logo/咪咕.png" group-title="•咪咕「体育」", 「WTT」17:00 1号桌
 https://yang-1989.eu.org/Migu/5
-#EXTINF:-1 tvg-logo="https://yang-1989.eu.org/logo/咪咕.png" group-title="•咪咕「体育」", 「WTT」17:00 2号桌
-https://yang-1989.eu.org/Migu/6
 #EXTINF:-1 tvg-logo="https://yang-1989.eu.org/logo/咪咕.png" group-title="•咪咕「体育」", 「WTT」17:00 3号桌
+https://yang-1989.eu.org/Migu/6
+#EXTINF:-1 tvg-logo="https://yang-1989.eu.org/logo/咪咕.png" group-title="•咪咕「体育」", 「WTT」17:00 2号桌
 https://yang-1989.eu.org/Migu/7
-#EXTINF:-1 tvg-logo="https://yang-1989.eu.org/logo/咪咕.png" group-title="•咪咕「体育」", 「WTT」17:00 4号桌
+#EXTINF:-1 tvg-logo="https://yang-1989.eu.org/logo/咪咕.png" group-title="•咪咕「体育」", 「WTT」17:00 拉各斯常规挑战赛：男女单打1/8决赛、双打1/4决赛及混双半决赛 解说
 https://yang-1989.eu.org/Migu/8
-#EXTINF:-1 tvg-logo="https://yang-1989.eu.org/logo/咪咕.png" group-title="•咪咕「体育」", 「WTT」17:00 拉各斯常规挑战赛：男女单打1/16决赛、双打1/8决赛 解说
+#EXTINF:-1 tvg-logo="https://yang-1989.eu.org/logo/咪咕.png" group-title="•咪咕「体育」", 「WTT」17:00 拉各斯常规挑战赛：男女单打1/8决赛、双打1/4决赛及混双半决赛 解说
 https://yang-1989.eu.org/Migu/9
-#EXTINF:-1 tvg-logo="https://yang-1989.eu.org/logo/咪咕.png" group-title="•咪咕「体育」", 「WTT」17:00 拉各斯常规挑战赛：男女单打1/16决赛、双打1/8决赛 解说
+#EXTINF:-1 tvg-logo="https://yang-1989.eu.org/logo/咪咕.png" group-title="•咪咕「体育」", 「欧洲杯」20:00 小组赛 斯洛文尼亚vs塞尔维亚 解说
 https://yang-1989.eu.org/Migu/10
-#EXTINF:-1 tvg-logo="https://yang-1989.eu.org/logo/咪咕.png" group-title="•咪咕「体育」", 「欧洲杯」20:00 小组赛 克罗地亚vs阿尔巴尼亚 解说
-https://yang-1989.eu.org/Migu/11
-#EXTINF:-1 tvg-logo="https://yang-1989.eu.org/logo/咪咕.png" group-title="•咪咕「体育」", 「欧洲杯」20:00 小组赛 克罗地亚vs阿尔巴尼亚 AVS3
-https://yang-1989.eu.org/Migu/12
-#EXTINF:-1 tvg-logo="https://yang-1989.eu.org/logo/咪咕.png" group-title="•咪咕「体育」", 「欧洲杯」23:30 小组赛 德国vs匈牙利 解说
-https://yang-1989.eu.org/Migu/13
-#EXTINF:-1 tvg-logo="https://yang-1989.eu.org/logo/咪咕.png" group-title="•咪咕「体育」", 「欧洲杯」23:30 小组赛 德国vs匈牙利 AVS3
-https://yang-1989.eu.org/Migu/14
-#EXTINF:-1 tvg-logo="https://yang-1989.eu.org/logo/咪咕.png" group-title="•咪咕「体育」", 「欧洲杯」02:30 小组赛 苏格兰vs瑞士 解说
-https://yang-1989.eu.org/Migu/15
-#EXTINF:-1 tvg-logo="https://yang-1989.eu.org/logo/咪咕.png" group-title="•咪咕「体育」", 「欧洲杯」02:30 小组赛 苏格兰vs瑞士 AVS3
-https://yang-1989.eu.org/Migu/16
-#EXTINF:-1 tvg-logo="https://yang-1989.eu.org/logo/咪咕.png" group-title="•咪咕「体育」", 「欧洲杯」20:00 小组赛 斯洛文尼亚vs塞尔维亚 解说
-https://yang-1989.eu.org/Migu/17
-#EXTINF:-1 tvg-logo="https://yang-1989.eu.org/logo/咪咕.png" group-title="•咪咕「体育」", 「欧洲杯」20:00 小组赛 斯洛文尼亚vs塞尔维亚 解说
-https://yang-1989.eu.org/Migu/18
-#EXTINF:-1 tvg-logo="https://yang-1989.eu.org/logo/咪咕.png" group-title="•咪咕「体育」", 「欧洲杯」20:00 小组赛 斯洛文尼亚vs塞尔维亚 赛场原声
-https://yang-1989.eu.org/Migu/19
 #EXTINF:-1 tvg-logo="https://yang-1989.eu.org/logo/咪咕.png" group-title="•咪咕「体育」", 「欧洲杯」20:00 小组赛 斯洛文尼亚vs塞尔维亚 AVS3
-https://yang-1989.eu.org/Migu/20
+https://yang-1989.eu.org/Migu/11
 #EXTINF:-1 tvg-logo="https://yang-1989.eu.org/logo/咪咕.png" group-title="•咪咕「体育」", 「欧洲杯」23:30 小组赛 丹麦vs英格兰 解说
-https://yang-1989.eu.org/Migu/21
-#EXTINF:-1 tvg-logo="https://yang-1989.eu.org/logo/咪咕.png" group-title="•咪咕「体育」", 「欧洲杯」23:30 小组赛 丹麦vs英格兰 解说
-https://yang-1989.eu.org/Migu/22
-#EXTINF:-1 tvg-logo="https://yang-1989.eu.org/logo/咪咕.png" group-title="•咪咕「体育」", 「欧洲杯」23:30 小组赛 丹麦vs英格兰 赛场原声
-https://yang-1989.eu.org/Migu/23
-#EXTINF:-1 tvg-logo="https://yang-1989.eu.org/logo/咪咕.png" group-title="•咪咕「体育」", 「欧洲杯」23:30 小组赛 丹麦vs英格兰 粤语解说智能解说
-https://yang-1989.eu.org/Migu/24
+https://yang-1989.eu.org/Migu/12
+#EXTINF:-1 tvg-logo="https://yang-1989.eu.org/logo/咪咕.png" group-title="•咪咕「体育」", 「欧洲杯」23:30 小组赛 丹麦vs英格兰 CCTV5
+https://yang-1989.eu.org/Migu/13
 #EXTINF:-1 tvg-logo="https://yang-1989.eu.org/logo/咪咕.png" group-title="•咪咕「体育」", 「欧洲杯」23:30 小组赛 丹麦vs英格兰 AVS3
-https://yang-1989.eu.org/Migu/25
+https://yang-1989.eu.org/Migu/14
+#EXTINF:-1 tvg-logo="https://yang-1989.eu.org/logo/咪咕.png" group-title="•咪咕「体育」", 「欧洲杯」02:30 小组赛 西班牙vs意大利 解说
+https://yang-1989.eu.org/Migu/15
+#EXTINF:-1 tvg-logo="https://yang-1989.eu.org/logo/咪咕.png" group-title="•咪咕「体育」", 「欧洲杯」02:30 小组赛 西班牙vs意大利 AVS3
+https://yang-1989.eu.org/Migu/16
+#EXTINF:-1 tvg-logo="https://yang-1989.eu.org/logo/咪咕.png" group-title="•咪咕「体育」", 「欧洲杯」12:00 《你懂球吗》刘建宏徐阳谈夺冠热门 解说
+https://yang-1989.eu.org/Migu/17
+#EXTINF:-1 tvg-logo="https://yang-1989.eu.org/logo/咪咕.png" group-title="•咪咕「体育」", 「欧洲杯」20:30 小组赛 斯洛伐克vs乌克兰 解说
+https://yang-1989.eu.org/Migu/18
+#EXTINF:-1 tvg-logo="https://yang-1989.eu.org/logo/咪咕.png" group-title="•咪咕「体育」", 「欧洲杯」20:30 小组赛 斯洛伐克vs乌克兰 赛场原声
+https://yang-1989.eu.org/Migu/19
+#EXTINF:-1 tvg-logo="https://yang-1989.eu.org/logo/咪咕.png" group-title="•咪咕「体育」", 「欧洲杯」20:30 小组赛 斯洛伐克vs乌克兰 AVS3
+https://yang-1989.eu.org/Migu/20
+#EXTINF:-1 tvg-logo="https://yang-1989.eu.org/logo/咪咕.png" group-title="•咪咕「体育」", 「欧洲杯」23:30 小组赛 波兰vs奥地利 解说
+https://yang-1989.eu.org/Migu/21
+#EXTINF:-1 tvg-logo="https://yang-1989.eu.org/logo/咪咕.png" group-title="•咪咕「体育」", 「欧洲杯」23:30 小组赛 波兰vs奥地利 赛场原声
+https://yang-1989.eu.org/Migu/22
+#EXTINF:-1 tvg-logo="https://yang-1989.eu.org/logo/咪咕.png" group-title="•咪咕「体育」", 「欧洲杯」23:30 小组赛 波兰vs奥地利 AVS3
+https://yang-1989.eu.org/Migu/23
 #EXTINF:-1 tvg-name="CCTV 1" tvg-logo="https://yang-1989.eu.org/logo/CCTV1.png" group-title="•咪咕「TV」",CCTV 1 综合
 https://yang-1989.eu.org/migu/cctv1
 #EXTINF:-1 tvg-name="CCTV 2" tvg-logo="https://yang-1989.eu.org/logo/CCTV2.png" group-title="•咪咕「TV」",CCTV 2 财经
@@ -5120,9 +5116,9 @@ http://live.worktv.or.kr:1935/live/wowtvlive1.sdp/playlist.m3u8
 #EXTINF:-1 group-title="•韩国",Arirang 阿里郎
 http://amdlive-ch01.ctnd.com.edgesuite.net:80/arirang_1ch/smil:arirang_1ch.smil/chunklist_b2256000_sleng.m3u8
 #EXTINF:-1 group-title="•韩国",KBS 1
-yang-1989/kbs/11&p=0
+https://yang-1989.eu.org/kbs/11&p=0
 #EXTINF:-1 group-title="•韩国",KBS 2
-yang-1989/kbs/12&p=0
+https://yang-1989.eu.org/kbs/12&p=0
 #EXTINF:-1 group-title="•韩国",BBS 불교 방송
 http://bbstv.clouducs.com:1935/bbstv-live/livestream/chunklist.m3u8
 #EXTINF:-1 group-title="•韩国",CJ OnStyle
