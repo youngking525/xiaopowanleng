@@ -594,52 +594,24 @@ http://gslbserv.itv.cmvideo.cn:80/3000000020000011530/index.m3u8?channel-id=Fifa
 #EXTINF:-1 tvg-logo="https://yang-1989.eu.org/logo/咪咕.png" group-title="•咪咕「移动」",咪咕直播 𝟜𝟝「移动」
 http://gslbserv.itv.cmvideo.cn:80/3000000020000011531/index.m3u8?channel-id=FifastbLive&Contentid=3000000020000011531&livemode=1&stbId=3
 #INSERT_HERE
-#EXTINF:-1 tvg-logo="https://yang-1989.eu.org/logo/咪咕.png" group-title="•咪咕「体育」", 「NBA」23:00 凯尔特人总冠军巡游 解说
-https://yang-1989.eu.org/Migu/1
 #EXTINF:-1 tvg-logo="https://yang-1989.eu.org/logo/咪咕.png" group-title="•咪咕「体育」", 「WTT」22:00 1号桌
+https://yang-1989.eu.org/Migu/1
+#EXTINF:-1 tvg-logo="https://yang-1989.eu.org/logo/咪咕.png" group-title="•咪咕「体育」", 「WTT」21:00 1号桌
 https://yang-1989.eu.org/Migu/2
-#EXTINF:-1 tvg-logo="https://yang-1989.eu.org/logo/咪咕.png" group-title="•咪咕「体育」", 「WTT」22:00 2号桌
+#EXTINF:-1 tvg-logo="https://yang-1989.eu.org/logo/咪咕.png" group-title="•咪咕「体育」", 「WTT」21:00 拉各斯常规挑战赛：男女单双打决赛 解说
 https://yang-1989.eu.org/Migu/3
-#EXTINF:-1 tvg-logo="https://yang-1989.eu.org/logo/咪咕.png" group-title="•咪咕「体育」", 「WTT」17:00 1号桌
-https://yang-1989.eu.org/Migu/4
-#EXTINF:-1 tvg-logo="https://yang-1989.eu.org/logo/咪咕.png" group-title="•咪咕「体育」", 「WTT」17:00 2号桌
-https://yang-1989.eu.org/Migu/5
-#EXTINF:-1 tvg-logo="https://yang-1989.eu.org/logo/咪咕.png" group-title="•咪咕「体育」", 「WTT」17:00 拉各斯常规挑战赛：男女单打1/4决赛、男女单双打半决赛、混双决赛 解说
-https://yang-1989.eu.org/Migu/6
-#EXTINF:-1 tvg-logo="https://yang-1989.eu.org/logo/咪咕.png" group-title="•咪咕「体育」", 「WTT」17:00 拉各斯常规挑战赛：男女单打1/4决赛、男女单双打半决赛、混双决赛 解说
-https://yang-1989.eu.org/Migu/7
-#EXTINF:-1 tvg-logo="https://yang-1989.eu.org/logo/咪咕.png" group-title="•咪咕「体育」", 「欧洲杯」20:30 小组赛 斯洛伐克vs乌克兰 解说
-https://yang-1989.eu.org/Migu/8
-#EXTINF:-1 tvg-logo="https://yang-1989.eu.org/logo/咪咕.png" group-title="•咪咕「体育」", 「欧洲杯」20:30 小组赛 斯洛伐克vs乌克兰 CCTV5体育
-https://yang-1989.eu.org/Migu/9
-#EXTINF:-1 tvg-logo="https://yang-1989.eu.org/logo/咪咕.png" group-title="•咪咕「体育」", 「欧洲杯」20:30 小组赛 斯洛伐克vs乌克兰 赛场原声
-https://yang-1989.eu.org/Migu/10
-#EXTINF:-1 tvg-logo="https://yang-1989.eu.org/logo/咪咕.png" group-title="•咪咕「体育」", 「欧洲杯」20:30 小组赛 斯洛伐克vs乌克兰 AVS3
-https://yang-1989.eu.org/Migu/11
-#EXTINF:-1 tvg-logo="https://yang-1989.eu.org/logo/咪咕.png" group-title="•咪咕「体育」", 「欧洲杯」23:30 小组赛 波兰vs奥地利 解说
-https://yang-1989.eu.org/Migu/12
-#EXTINF:-1 tvg-logo="https://yang-1989.eu.org/logo/咪咕.png" group-title="•咪咕「体育」", 「欧洲杯」23:30 小组赛 波兰vs奥地利 AVS3
-https://yang-1989.eu.org/Migu/13
-#EXTINF:-1 tvg-logo="https://yang-1989.eu.org/logo/咪咕.png" group-title="•咪咕「体育」", 「欧洲杯」02:15 小组赛 荷兰vs法国 解说
-https://yang-1989.eu.org/Migu/14
-#EXTINF:-1 tvg-logo="https://yang-1989.eu.org/logo/咪咕.png" group-title="•咪咕「体育」", 「欧洲杯」02:15 小组赛 荷兰vs法国 AVS3
-https://yang-1989.eu.org/Migu/15
 #EXTINF:-1 tvg-logo="https://yang-1989.eu.org/logo/咪咕.png" group-title="•咪咕「体育」", 「欧洲杯」20:00 小组赛 格鲁吉亚vs捷克 解说
-https://yang-1989.eu.org/Migu/16
-#EXTINF:-1 tvg-logo="https://yang-1989.eu.org/logo/咪咕.png" group-title="•咪咕「体育」", 「欧洲杯」20:00 小组赛 格鲁吉亚vs捷克 赛场原声
-https://yang-1989.eu.org/Migu/17
+https://yang-1989.eu.org/Migu/4
 #EXTINF:-1 tvg-logo="https://yang-1989.eu.org/logo/咪咕.png" group-title="•咪咕「体育」", 「欧洲杯」20:00 小组赛 格鲁吉亚vs捷克 AVS3
-https://yang-1989.eu.org/Migu/18
-#EXTINF:-1 tvg-logo="https://yang-1989.eu.org/logo/咪咕.png" group-title="•咪咕「体育」", 「欧洲杯」23:00 小组赛 土耳其vs葡萄牙 詹俊
-https://yang-1989.eu.org/Migu/19
+https://yang-1989.eu.org/Migu/5
 #EXTINF:-1 tvg-logo="https://yang-1989.eu.org/logo/咪咕.png" group-title="•咪咕「体育」", 「欧洲杯」23:00 小组赛 土耳其vs葡萄牙 解说
-https://yang-1989.eu.org/Migu/20
-#EXTINF:-1 tvg-logo="https://yang-1989.eu.org/logo/咪咕.png" group-title="•咪咕「体育」", 「欧洲杯」23:00 小组赛 土耳其vs葡萄牙 赛场原声
-https://yang-1989.eu.org/Migu/21
-#EXTINF:-1 tvg-logo="https://yang-1989.eu.org/logo/咪咕.png" group-title="•咪咕「体育」", 「欧洲杯」23:00 小组赛 土耳其vs葡萄牙 粤语智能解说
-https://yang-1989.eu.org/Migu/22
+https://yang-1989.eu.org/Migu/6
 #EXTINF:-1 tvg-logo="https://yang-1989.eu.org/logo/咪咕.png" group-title="•咪咕「体育」", 「欧洲杯」23:00 小组赛 土耳其vs葡萄牙 AVS3
-https://yang-1989.eu.org/Migu/23
+https://yang-1989.eu.org/Migu/7
+#EXTINF:-1 tvg-logo="https://yang-1989.eu.org/logo/咪咕.png" group-title="•咪咕「体育」", 「欧洲杯」02:30 小组赛 比利时vs罗马尼亚 解说
+https://yang-1989.eu.org/Migu/8
+#EXTINF:-1 tvg-logo="https://yang-1989.eu.org/logo/咪咕.png" group-title="•咪咕「体育」", 「欧洲杯」02:30 小组赛 比利时vs罗马尼亚 AVS3
+https://yang-1989.eu.org/Migu/9
 #EXTINF:-1 tvg-name="CCTV 1" tvg-logo="https://yang-1989.eu.org/logo/CCTV1.png" group-title="•咪咕「TV」",CCTV 1 综合
 https://yang-1989.eu.org/migu/cctv1
 #EXTINF:-1 tvg-name="CCTV 2" tvg-logo="https://yang-1989.eu.org/logo/CCTV2.png" group-title="•咪咕「TV」",CCTV 2 财经
@@ -678,6 +650,8 @@ https://yang-1989.eu.org/migu/cctv14
 https://yang-1989.eu.org/migu/cctv15
 #EXTINF:-1 tvg-name="CCTV 17" tvg-logo="https://yang-1989.eu.org/logo/CCTV17.png" group-title="•咪咕「TV」",CCTV 17 农村农业
 https://yang-1989.eu.org/migu/cctv17
+#EXTINF:-1 tvg-name="浙江卫视" tvg-logo="https://yang-1989.eu.org/logo/浙江卫视.png" group-title="•咪咕「TV」",浙江卫视
+http://ali-m-l.cztv.com/channels/lantian/channel001/1080p.m3u8
 #EXTINF:-1 tvg-name="湖南卫视" tvg-logo="https://yang-1989.eu.org/logo/湖南卫视.png" group-title="•咪咕「TV」",湖南卫视
 https://yang-1989.eu.org/migu/hunws
 #EXTINF:-1 tvg-name="江苏卫视" tvg-logo="https://yang-1989.eu.org/logo/江苏卫视.png" group-title="•咪咕「TV」",江苏卫视
@@ -1046,6 +1020,8 @@ https://yang-1989.eu.org/tv/dfws
 https://yang-1989.eu.org/tv/bjws
 #EXTINF:-1 tvg-name="湖北卫视" tvg-logo="https://yang-1989.eu.org/logo/湖北卫视.png" group-title="•央视「境外」",湖北卫视
 https://yang-1989.eu.org/tv/hbws
+#EXTINF:-1 tvg-name="翡翠台" tvg-logo="https://yang-1989.eu.org/logo/翡翠台.png" group-title="•港澳台「壹」",翡翠台
+http://php.jdshipin.com:8880/ub.php?id=fct
 #EXTINF:-1 tvg-name="星河台" tvg-logo="https://yang-1989.eu.org/logo/星河台.png" group-title="•港澳台「壹」",星河台
 http://v2h.jdshipin.com/xinghe/xinghe.stream/chunklist.m3u8
 #EXTINF:-1 tvg-name="TVB Plus" tvg-logo="https://yang-1989.eu.org/logo/TVBPlus.png" group-title="•港澳台「壹」",TVB Plus
@@ -1140,6 +1116,10 @@ https://yang-1989.eu.org/tv/xty
 https://yang-1989.eu.org/tv/qj
 #EXTINF:-1 tvg-name="AOD" tvg-logo="https://yang-1989.eu.org/logo/AOD.png" group-title="•港台马「壹」",Astro AOD
 https://yang-1989.eu.org/tv/aod
+#EXTINF:-1 tvg-name="天映經典" tvg-logo="https://yang-1989.eu.org/logo/天映经典.png" group-title="•港台马「壹」",天映經典
+https://yang-1989.eu.org/tv/ccm
+#EXTINF:-1 tvg-name="天映頻道" tvg-logo="https://yang-1989.eu.org/logo/天映频道.png" group-title="•港台马「壹」",天映頻道
+https://yang-1989.eu.org/tv/typd
 #EXTINF:-1 tvg-name="靖天國際台" tvg-logo="https://yang-1989.eu.org/logo/靖天国际.png" group-title="•港台马「壹」",靖天國際
 https://yang-1989.eu.org/tv/jtgj
 #EXTINF:-1 tvg-name="靖天卡通台" tvg-logo="https://yang-1989.eu.org/logo/靖天卡通.png" group-title="•港台马「壹」",靖天卡通
@@ -1251,7 +1231,7 @@ https://yang-1989.eu.org/tv/dsdy
 #EXTINF:-1 tvg-name="東森戲劇" tvg-logo="https://yang-1989.eu.org/logo/东森戏剧.png" group-title="•港台马「壹」",東森戏剧
 https://yang-1989.eu.org/tv/dsxj
 #EXTINF:-1 tvg-name="東森洋片" tvg-logo="https://yang-1989.eu.org/logo/东森洋片.png" group-title="•港台马「壹」",東森洋片
-https://yang-1989.eu.org/tv/ettvwestern
+https://yang-1989.eu.org/tv/dsyp
 #EXTINF:-1 tvg-name="東森超視" tvg-logo="https://yang-1989.eu.org/logo/东森超视.png" group-title="•港台马「壹」",東森超視
 https://yang-1989.eu.org/tv/dscs
 #EXTINF:-1 tvg-name="東森財經新聞" tvg-logo="https://yang-1989.eu.org/logo/东森财经.png" group-title="•港台马「壹」",東森財經
