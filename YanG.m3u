@@ -594,56 +594,42 @@ http://gslbserv.itv.cmvideo.cn:80/3000000020000011530/index.m3u8?channel-id=Fifa
 #EXTINF:-1 tvg-logo="https://yang-1989.eu.org/logo/咪咕.png" group-title="•咪咕「移动」",咪咕直播 𝟜𝟝「移动」
 http://gslbserv.itv.cmvideo.cn:80/3000000020000011531/index.m3u8?channel-id=FifastbLive&Contentid=3000000020000011531&livemode=1&stbId=3
 #INSERT_HERE
-#EXTINF:-1 tvg-logo="https://yang-1989.eu.org/logo/咪咕.png" group-title="•咪咕「体育」", 「中超」19:20 联赛 成都蓉城vs沧州雄狮 解说
+#EXTINF:-1 tvg-logo="https://yang-1989.eu.org/logo/咪咕.png" group-title="•咪咕「体育」", 「WTT」11:00 1号桌
 https://yang-1989.eu.org/Migu/1
-#EXTINF:-1 tvg-logo="https://yang-1989.eu.org/logo/咪咕.png" group-title="•咪咕「体育」", 「中超」19:20 赛场原声
+#EXTINF:-1 tvg-logo="https://yang-1989.eu.org/logo/咪咕.png" group-title="•咪咕「体育」", 「WTT」11:00 2号桌
 https://yang-1989.eu.org/Migu/2
-#EXTINF:-1 tvg-logo="https://yang-1989.eu.org/logo/咪咕.png" group-title="•咪咕「体育」", 「中超」19:20 联赛 成都蓉城vs沧州雄狮 竖屏解说
+#EXTINF:-1 tvg-logo="https://yang-1989.eu.org/logo/咪咕.png" group-title="•咪咕「体育」", 「欧洲杯」23:20 1/8决赛 法国vs比利时 解说
 https://yang-1989.eu.org/Migu/3
-#EXTINF:-1 tvg-logo="https://yang-1989.eu.org/logo/咪咕.png" group-title="•咪咕「体育」", 「中超」19:20 联赛 梅州客家vs河南俱乐部酒祖杜康 解说
+#EXTINF:-1 tvg-logo="https://yang-1989.eu.org/logo/咪咕.png" group-title="•咪咕「体育」", 「欧洲杯」23:20 1/8决赛 法国vs比利时 解说
 https://yang-1989.eu.org/Migu/4
-#EXTINF:-1 tvg-logo="https://yang-1989.eu.org/logo/咪咕.png" group-title="•咪咕「体育」", 「中超」19:20 赛场原声
+#EXTINF:-1 tvg-logo="https://yang-1989.eu.org/logo/咪咕.png" group-title="•咪咕「体育」", 「欧洲杯」23:20 1/8决赛 法国vs比利时 CCTV5体育
 https://yang-1989.eu.org/Migu/5
-#EXTINF:-1 tvg-logo="https://yang-1989.eu.org/logo/咪咕.png" group-title="•咪咕「体育」", 「中超」19:20 联赛 长春亚泰vs青岛海牛 解说
+#EXTINF:-1 tvg-logo="https://yang-1989.eu.org/logo/咪咕.png" group-title="•咪咕「体育」", 「欧洲杯」23:20 清流播出1
 https://yang-1989.eu.org/Migu/6
-#EXTINF:-1 tvg-logo="https://yang-1989.eu.org/logo/咪咕.png" group-title="•咪咕「体育」", 「中超」19:20 赛场原声
-https://yang-1989.eu.org/Migu/7
-#EXTINF:-1 tvg-logo="https://yang-1989.eu.org/logo/咪咕.png" group-title="•咪咕「体育」", 「中超」19:30 联赛 北京国安vs山东泰山 解说
-https://yang-1989.eu.org/Migu/8
-#EXTINF:-1 tvg-logo="https://yang-1989.eu.org/logo/咪咕.png" group-title="•咪咕「体育」", 「中超」19:30 赛场原声
-https://yang-1989.eu.org/Migu/9
-#EXTINF:-1 tvg-logo="https://yang-1989.eu.org/logo/咪咕.png" group-title="•咪咕「体育」", 「欧洲杯」23:20 1/8决赛 英格兰vs斯洛伐克 解说
-https://yang-1989.eu.org/Migu/10
-#EXTINF:-1 tvg-logo="https://yang-1989.eu.org/logo/咪咕.png" group-title="•咪咕「体育」", 「欧洲杯」23:20 1/8决赛 英格兰vs斯洛伐克 解说
-https://yang-1989.eu.org/Migu/11
-#EXTINF:-1 tvg-logo="https://yang-1989.eu.org/logo/咪咕.png" group-title="•咪咕「体育」", 「欧洲杯」23:20 清流播出1
-https://yang-1989.eu.org/Migu/12
-#EXTINF:-1 tvg-logo="https://yang-1989.eu.org/logo/咪咕.png" group-title="•咪咕「体育」", 「欧洲杯」23:20 1/8决赛 英格兰vs斯洛伐克 AVS3
-https://yang-1989.eu.org/Migu/13
-#EXTINF:-1 tvg-logo="https://yang-1989.eu.org/logo/咪咕.png" group-title="•咪咕「体育」", 「欧洲杯」23:20 狂欢Yeah
-https://yang-1989.eu.org/Migu/14
-#EXTINF:-1 tvg-logo="https://yang-1989.eu.org/logo/咪咕.png" group-title="•咪咕「体育」", 「欧洲杯」02:20 1/8决赛 西班牙vs格鲁吉亚 解说
-https://yang-1989.eu.org/Migu/15
-#EXTINF:-1 tvg-logo="https://yang-1989.eu.org/logo/咪咕.png" group-title="•咪咕「体育」", 「欧洲杯」02:20 1/8决赛 西班牙vs格鲁吉亚 解说
-https://yang-1989.eu.org/Migu/16
-#EXTINF:-1 tvg-logo="https://yang-1989.eu.org/logo/咪咕.png" group-title="•咪咕「体育」", 「欧洲杯」02:20 清流播出2
-https://yang-1989.eu.org/Migu/17
-#EXTINF:-1 tvg-logo="https://yang-1989.eu.org/logo/咪咕.png" group-title="•咪咕「体育」", 「欧洲杯」02:20 1/8决赛 西班牙vs格鲁吉亚 粤语解说
-https://yang-1989.eu.org/Migu/18
-#EXTINF:-1 tvg-logo="https://yang-1989.eu.org/logo/咪咕.png" group-title="•咪咕「体育」", 「欧洲杯」02:20 1/8决赛 西班牙vs格鲁吉亚 AVS3
-https://yang-1989.eu.org/Migu/19
-#EXTINF:-1 tvg-logo="https://yang-1989.eu.org/logo/咪咕.png" group-title="•咪咕「体育」", 「欧洲杯」12:00 《你懂球吗》董路李欣畅谈16强局势 解说
-https://yang-1989.eu.org/Migu/20
-#EXTINF:-1 tvg-logo="https://yang-1989.eu.org/logo/咪咕.png" group-title="•咪咕「体育」", 「欧洲杯」23:20 1/8决赛 法国vs比利时 解说
-https://yang-1989.eu.org/Migu/21
-#EXTINF:-1 tvg-logo="https://yang-1989.eu.org/logo/咪咕.png" group-title="•咪咕「体育」", 「欧洲杯」23:20 1/8决赛 法国vs比利时 解说
-https://yang-1989.eu.org/Migu/22
-#EXTINF:-1 tvg-logo="https://yang-1989.eu.org/logo/咪咕.png" group-title="•咪咕「体育」", 「欧洲杯」23:20 清流播出1
-https://yang-1989.eu.org/Migu/23
 #EXTINF:-1 tvg-logo="https://yang-1989.eu.org/logo/咪咕.png" group-title="•咪咕「体育」", 「欧洲杯」23:20 1/8决赛 法国vs比利时 AVS3
-https://yang-1989.eu.org/Migu/24
+https://yang-1989.eu.org/Migu/7
 #EXTINF:-1 tvg-logo="https://yang-1989.eu.org/logo/咪咕.png" group-title="•咪咕「体育」", 「欧洲杯」23:20 狂欢Yeah
-https://yang-1989.eu.org/Migu/25
+https://yang-1989.eu.org/Migu/8
+#EXTINF:-1 tvg-logo="https://yang-1989.eu.org/logo/咪咕.png" group-title="•咪咕「体育」", 「欧洲杯」02:20 1/8决赛 葡萄牙vs斯洛文尼亚 解说
+https://yang-1989.eu.org/Migu/9
+#EXTINF:-1 tvg-logo="https://yang-1989.eu.org/logo/咪咕.png" group-title="•咪咕「体育」", 「欧洲杯」02:20 1/8决赛 葡萄牙vs斯洛文尼亚 解说
+https://yang-1989.eu.org/Migu/10
+#EXTINF:-1 tvg-logo="https://yang-1989.eu.org/logo/咪咕.png" group-title="•咪咕「体育」", 「欧洲杯」02:20 清流播出2
+https://yang-1989.eu.org/Migu/11
+#EXTINF:-1 tvg-logo="https://yang-1989.eu.org/logo/咪咕.png" group-title="•咪咕「体育」", 「欧洲杯」02:20 1/8决赛 葡萄牙vs斯洛文尼亚 粤语解说
+https://yang-1989.eu.org/Migu/12
+#EXTINF:-1 tvg-logo="https://yang-1989.eu.org/logo/咪咕.png" group-title="•咪咕「体育」", 「欧洲杯」02:20 1/8决赛 葡萄牙vs斯洛文尼亚 AVS3
+https://yang-1989.eu.org/Migu/13
+#EXTINF:-1 tvg-logo="https://yang-1989.eu.org/logo/咪咕.png" group-title="•咪咕「体育」", 「欧洲杯」23:30 1/8决赛 罗马尼亚vs荷兰 解说
+https://yang-1989.eu.org/Migu/14
+#EXTINF:-1 tvg-logo="https://yang-1989.eu.org/logo/咪咕.png" group-title="•咪咕「体育」", 「欧洲杯」23:30 1/8决赛 罗马尼亚vs荷兰 解说
+https://yang-1989.eu.org/Migu/15
+#EXTINF:-1 tvg-logo="https://yang-1989.eu.org/logo/咪咕.png" group-title="•咪咕「体育」", 「欧洲杯」23:30 1/8决赛 罗马尼亚vs荷兰 解说
+https://yang-1989.eu.org/Migu/16
+#EXTINF:-1 tvg-logo="https://yang-1989.eu.org/logo/咪咕.png" group-title="•咪咕「体育」", 「欧洲杯」23:30 清流播出1
+https://yang-1989.eu.org/Migu/17
+#EXTINF:-1 tvg-logo="https://yang-1989.eu.org/logo/咪咕.png" group-title="•咪咕「体育」", 「欧洲杯」23:30 1/8决赛 罗马尼亚vs荷兰 AVS3
+https://yang-1989.eu.org/Migu/18
 #EXTINF:-1 tvg-name="CCTV 1" tvg-logo="https://yang-1989.eu.org/logo/CCTV1.png" group-title="•咪咕「TV」",CCTV 1 综合
 https://yang-1989.eu.org/migu/cctv1
 #EXTINF:-1 tvg-name="CCTV 2" tvg-logo="https://yang-1989.eu.org/logo/CCTV2.png" group-title="•咪咕「TV」",CCTV 2 财经
