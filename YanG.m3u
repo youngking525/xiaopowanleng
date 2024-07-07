@@ -594,70 +594,46 @@ http://gslbserv.itv.cmvideo.cn:80/3000000020000011530/index.m3u8?channel-id=Fifa
 #EXTINF:-1 tvg-logo="https://yang-1989.eu.org/logo/咪咕.png" group-title="•咪咕「移动」",咪咕直播 𝟜𝟝「移动」
 http://gslbserv.itv.cmvideo.cn:80/3000000020000011531/index.m3u8?channel-id=FifastbLive&Contentid=3000000020000011531&livemode=1&stbId=3
 #INSERT_HERE
-#EXTINF:-1 tvg-logo="https://yang-1989.eu.org/logo/咪咕.png" group-title="•咪咕「体育」", 「WTT」14:00 1号桌
+#EXTINF:-1 tvg-logo="https://yang-1989.eu.org/logo/咪咕.png" group-title="•咪咕「体育」", 「欧洲杯」23:30 1/4决赛 英格兰vs瑞士 娄一晨、刘越、金佳悦
 https://yang-1989.eu.org/Migu/1
-#EXTINF:-1 tvg-logo="https://yang-1989.eu.org/logo/咪咕.png" group-title="•咪咕「体育」", 「WTT」14:00 2号桌
+#EXTINF:-1 tvg-logo="https://yang-1989.eu.org/logo/咪咕.png" group-title="•咪咕「体育」", 「欧洲杯」23:30 1/4决赛 英格兰vs瑞士 黄健翔、徐阳
 https://yang-1989.eu.org/Migu/2
-#EXTINF:-1 tvg-logo="https://yang-1989.eu.org/logo/咪咕.png" group-title="•咪咕「体育」", 「WTT」14:00 3号桌
-https://yang-1989.eu.org/Migu/3
-#EXTINF:-1 tvg-logo="https://yang-1989.eu.org/logo/咪咕.png" group-title="•咪咕「体育」", 「WTT」14:00 4号桌
-https://yang-1989.eu.org/Migu/4
-#EXTINF:-1 tvg-logo="https://yang-1989.eu.org/logo/咪咕.png" group-title="•咪咕「体育」", 「WTT」14:00 曼谷球星挑战赛：单打1/8决赛及1/4决赛、男女双打决赛 午间场1号桌解说
-https://yang-1989.eu.org/Migu/5
-#EXTINF:-1 tvg-logo="https://yang-1989.eu.org/logo/咪咕.png" group-title="•咪咕「体育」", 「WTT」14:00 曼谷球星挑战赛：单打1/8决赛及1/4决赛、男女双打决赛 晚间场1号桌解说
-https://yang-1989.eu.org/Migu/6
-#EXTINF:-1 tvg-logo="https://yang-1989.eu.org/logo/咪咕.png" group-title="•咪咕「体育」", 「中超」19:00 联赛 河南俱乐部酒祖杜康vs上海海港 解说
-https://yang-1989.eu.org/Migu/7
-#EXTINF:-1 tvg-logo="https://yang-1989.eu.org/logo/咪咕.png" group-title="•咪咕「体育」", 「中超」19:00 赛场原声
-https://yang-1989.eu.org/Migu/8
-#EXTINF:-1 tvg-logo="https://yang-1989.eu.org/logo/咪咕.png" group-title="•咪咕「体育」", 「中超」18:45 联赛 天津津门虎vs长春亚泰 解说
-https://yang-1989.eu.org/Migu/9
-#EXTINF:-1 tvg-logo="https://yang-1989.eu.org/logo/咪咕.png" group-title="•咪咕「体育」", 「中超」18:45 赛场原声
-https://yang-1989.eu.org/Migu/10
-#EXTINF:-1 tvg-logo="https://yang-1989.eu.org/logo/咪咕.png" group-title="•咪咕「体育」", 「中超」19:00 联赛 上海申花vs山东泰山 解说
-https://yang-1989.eu.org/Migu/11
-#EXTINF:-1 tvg-logo="https://yang-1989.eu.org/logo/咪咕.png" group-title="•咪咕「体育」", 「中超」19:00 联赛 上海申花vs山东泰山 4K
-https://yang-1989.eu.org/Migu/12
-#EXTINF:-1 tvg-logo="https://yang-1989.eu.org/logo/咪咕.png" group-title="•咪咕「体育」", 「中超」19:00 联赛 上海申花vs山东泰山 沪语解说
-https://yang-1989.eu.org/Migu/13
-#EXTINF:-1 tvg-logo="https://yang-1989.eu.org/logo/咪咕.png" group-title="•咪咕「体育」", 「中超」19:00 4K赛场原声
-https://yang-1989.eu.org/Migu/14
-#EXTINF:-1 tvg-logo="https://yang-1989.eu.org/logo/咪咕.png" group-title="•咪咕「体育」", 「中超」19:45 联赛 沧州雄狮vs深圳新鹏城 解说
-https://yang-1989.eu.org/Migu/15
-#EXTINF:-1 tvg-logo="https://yang-1989.eu.org/logo/咪咕.png" group-title="•咪咕「体育」", 「中超」19:45 赛场原声
-https://yang-1989.eu.org/Migu/16
-#EXTINF:-1 tvg-logo="https://yang-1989.eu.org/logo/咪咕.png" group-title="•咪咕「体育」", 「欧洲杯」23:20 1/4决赛 西班牙vs德国 解说
-https://yang-1989.eu.org/Migu/17
-#EXTINF:-1 tvg-logo="https://yang-1989.eu.org/logo/咪咕.png" group-title="•咪咕「体育」", 「欧洲杯」23:20 1/4决赛 西班牙vs德国 解说
-https://yang-1989.eu.org/Migu/18
-#EXTINF:-1 tvg-logo="https://yang-1989.eu.org/logo/咪咕.png" group-title="•咪咕「体育」", 「欧洲杯」23:20 赛场原声
-https://yang-1989.eu.org/Migu/19
-#EXTINF:-1 tvg-logo="https://yang-1989.eu.org/logo/咪咕.png" group-title="•咪咕「体育」", 「欧洲杯」23:20 1/4决赛 西班牙vs德国 解说
-https://yang-1989.eu.org/Migu/20
-#EXTINF:-1 tvg-logo="https://yang-1989.eu.org/logo/咪咕.png" group-title="•咪咕「体育」", 「欧洲杯」23:20 1/4决赛 西班牙vs德国 解说
-https://yang-1989.eu.org/Migu/21
-#EXTINF:-1 tvg-logo="https://yang-1989.eu.org/logo/咪咕.png" group-title="•咪咕「体育」", 「欧洲杯」23:20 1/4决赛 西班牙vs德国 AVS3
-https://yang-1989.eu.org/Migu/22
-#EXTINF:-1 tvg-logo="https://yang-1989.eu.org/logo/咪咕.png" group-title="•咪咕「体育」", 「欧洲杯」02:20 1/4决赛 葡萄牙vs法国 解说
-https://yang-1989.eu.org/Migu/23
-#EXTINF:-1 tvg-logo="https://yang-1989.eu.org/logo/咪咕.png" group-title="•咪咕「体育」", 「欧洲杯」02:20 1/4决赛 葡萄牙vs法国 解说
-https://yang-1989.eu.org/Migu/24
-#EXTINF:-1 tvg-logo="https://yang-1989.eu.org/logo/咪咕.png" group-title="•咪咕「体育」", 「欧洲杯」02:20 清流播出
-https://yang-1989.eu.org/Migu/25
-#EXTINF:-1 tvg-logo="https://yang-1989.eu.org/logo/咪咕.png" group-title="•咪咕「体育」", 「欧洲杯」02:20 1/4决赛 葡萄牙vs法国 解说
-https://yang-1989.eu.org/Migu/26
-#EXTINF:-1 tvg-logo="https://yang-1989.eu.org/logo/咪咕.png" group-title="•咪咕「体育」", 「欧洲杯」02:20 1/4决赛 葡萄牙vs法国 AVS3
-https://yang-1989.eu.org/Migu/27
-#EXTINF:-1 tvg-logo="https://yang-1989.eu.org/logo/咪咕.png" group-title="•咪咕「体育」", 「欧洲杯」02:20 狂欢Yeah
-https://yang-1989.eu.org/Migu/28
-#EXTINF:-1 tvg-logo="https://yang-1989.eu.org/logo/咪咕.png" group-title="•咪咕「体育」", 「欧洲杯」23:30 1/4决赛 英格兰vs瑞士 娄一晨
-https://yang-1989.eu.org/Migu/29
-#EXTINF:-1 tvg-logo="https://yang-1989.eu.org/logo/咪咕.png" group-title="•咪咕「体育」", 「欧洲杯」23:30 1/4决赛 英格兰vs瑞士 黄健翔
-https://yang-1989.eu.org/Migu/30
 #EXTINF:-1 tvg-logo="https://yang-1989.eu.org/logo/咪咕.png" group-title="•咪咕「体育」", 「欧洲杯」23:30 赛场原声
-https://yang-1989.eu.org/Migu/31
+https://yang-1989.eu.org/Migu/3
 #EXTINF:-1 tvg-logo="https://yang-1989.eu.org/logo/咪咕.png" group-title="•咪咕「体育」", 「欧洲杯」23:30 1/4决赛 英格兰vs瑞士 AVS3
-https://yang-1989.eu.org/Migu/32
+https://yang-1989.eu.org/Migu/4
+#EXTINF:-1 tvg-logo="https://yang-1989.eu.org/logo/咪咕.png" group-title="•咪咕「体育」", 「欧洲杯」02:20 1/4决赛 荷兰vs土耳其 刘腾、贺宇、李子琪
+https://yang-1989.eu.org/Migu/5
+#EXTINF:-1 tvg-logo="https://yang-1989.eu.org/logo/咪咕.png" group-title="•咪咕「体育」", 「欧洲杯」02:20 1/4决赛 荷兰vs土耳其 梁祥宇、管泽元
+https://yang-1989.eu.org/Migu/6
+#EXTINF:-1 tvg-logo="https://yang-1989.eu.org/logo/咪咕.png" group-title="•咪咕「体育」", 「欧洲杯」02:20 1/4决赛 荷兰vs土耳其 赛场原声
+https://yang-1989.eu.org/Migu/7
+#EXTINF:-1 tvg-logo="https://yang-1989.eu.org/logo/咪咕.png" group-title="•咪咕「体育」", 「欧洲杯」02:20 1/4决赛 荷兰vs土耳其 粤语解说
+https://yang-1989.eu.org/Migu/8
+#EXTINF:-1 tvg-logo="https://yang-1989.eu.org/logo/咪咕.png" group-title="•咪咕「体育」", 「欧洲杯」02:20 1/4决赛 荷兰vs土耳其 AVS3
+https://yang-1989.eu.org/Migu/9
+#EXTINF:-1 tvg-logo="https://yang-1989.eu.org/logo/咪咕.png" group-title="•咪咕「体育」", 「WTT」14:00 1号桌
+https://yang-1989.eu.org/Migu/10
+#EXTINF:-1 tvg-logo="https://yang-1989.eu.org/logo/咪咕.png" group-title="•咪咕「体育」", 「WTT」14:00 曼谷球星挑战赛：混双决赛、单打半决赛及决赛 午间场1号桌解说
+https://yang-1989.eu.org/Migu/11
+#EXTINF:-1 tvg-logo="https://yang-1989.eu.org/logo/咪咕.png" group-title="•咪咕「体育」", 「WTT」14:00 曼谷球星挑战赛：混双决赛、单打半决赛及决赛 晚间场1号桌解说
+https://yang-1989.eu.org/Migu/12
+#EXTINF:-1 tvg-logo="https://yang-1989.eu.org/logo/咪咕.png" group-title="•咪咕「体育」", 「中超」18:30 联赛 南通支云vs成都蓉城 解说
+https://yang-1989.eu.org/Migu/13
+#EXTINF:-1 tvg-logo="https://yang-1989.eu.org/logo/咪咕.png" group-title="•咪咕「体育」", 「中超」18:30 赛场原声
+https://yang-1989.eu.org/Migu/14
+#EXTINF:-1 tvg-logo="https://yang-1989.eu.org/logo/咪咕.png" group-title="•咪咕「体育」", 「中超」19:20 联赛 青岛海牛vs青岛西海岸 解说
+https://yang-1989.eu.org/Migu/15
+#EXTINF:-1 tvg-logo="https://yang-1989.eu.org/logo/咪咕.png" group-title="•咪咕「体育」", 「中超」19:20 赛场原声
+https://yang-1989.eu.org/Migu/16
+#EXTINF:-1 tvg-logo="https://yang-1989.eu.org/logo/咪咕.png" group-title="•咪咕「体育」", 「中超」19:20 联赛 北京国安vs武汉三镇 解说
+https://yang-1989.eu.org/Migu/17
+#EXTINF:-1 tvg-logo="https://yang-1989.eu.org/logo/咪咕.png" group-title="•咪咕「体育」", 「中超」19:20 赛场原声
+https://yang-1989.eu.org/Migu/18
+#EXTINF:-1 tvg-logo="https://yang-1989.eu.org/logo/咪咕.png" group-title="•咪咕「体育」", 「中超」19:45 联赛 浙江俱乐部vs梅州客家 解说
+https://yang-1989.eu.org/Migu/19
+#EXTINF:-1 tvg-logo="https://yang-1989.eu.org/logo/咪咕.png" group-title="•咪咕「体育」", 「中超」19:45 赛场原声
+https://yang-1989.eu.org/Migu/20
 #EXTINF:-1 tvg-name="CCTV 1" tvg-logo="https://yang-1989.eu.org/logo/CCTV1.png" group-title="•咪咕「TV」",CCTV 1 综合
 https://yang-1989.eu.org/migu/cctv1
 #EXTINF:-1 tvg-name="CCTV 2" tvg-logo="https://yang-1989.eu.org/logo/CCTV2.png" group-title="•咪咕「TV」",CCTV 2 财经
