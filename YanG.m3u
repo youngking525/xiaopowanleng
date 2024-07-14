@@ -594,22 +594,6 @@ http://gslbserv.itv.cmvideo.cn:80/3000000020000011530/index.m3u8?channel-id=Fifa
 #EXTINF:-1 tvg-logo="https://yang-1989.eu.org/logo/咪咕.png" group-title="•咪咕「移动」",咪咕直播 𝟜𝟝「移动」
 http://gslbserv.itv.cmvideo.cn:80/3000000020000011531/index.m3u8?channel-id=FifastbLive&Contentid=3000000020000011531&livemode=1&stbId=3
 #INSERT_HERE
-#EXTINF:-1 tvg-logo="https://yang-1989.eu.org/logo/咪咕.png" group-title="•咪咕「体育」", 「中超」19:20 联赛 梅州客家vs南通支云 解说
-https://yang-1989.eu.org/Migu/1
-#EXTINF:-1 tvg-logo="https://yang-1989.eu.org/logo/咪咕.png" group-title="•咪咕「体育」", 「中超」19:20 联赛 梅州客家vs南通支云 赛场原声
-https://yang-1989.eu.org/Migu/2
-#EXTINF:-1 tvg-logo="https://yang-1989.eu.org/logo/咪咕.png" group-title="•咪咕「体育」", 「中超」19:20 联赛 山东泰山vs青岛海牛 解说
-https://yang-1989.eu.org/Migu/3
-#EXTINF:-1 tvg-logo="https://yang-1989.eu.org/logo/咪咕.png" group-title="•咪咕「体育」", 「中超」19:20 联赛 山东泰山vs青岛海牛 赛场原声
-https://yang-1989.eu.org/Migu/4
-#EXTINF:-1 tvg-logo="https://yang-1989.eu.org/logo/咪咕.png" group-title="•咪咕「体育」", 「中超」19:45 联赛 深圳新鹏城vs河南俱乐部酒祖杜康 解说
-https://yang-1989.eu.org/Migu/5
-#EXTINF:-1 tvg-logo="https://yang-1989.eu.org/logo/咪咕.png" group-title="•咪咕「体育」", 「中超」19:45 联赛 深圳新鹏城vs河南俱乐部酒祖杜康 赛场原声
-https://yang-1989.eu.org/Migu/6
-#EXTINF:-1 tvg-logo="https://yang-1989.eu.org/logo/咪咕.png" group-title="•咪咕「体育」", 「中超」19:45 联赛 上海申花vs长春亚泰 解说
-https://yang-1989.eu.org/Migu/7
-#EXTINF:-1 tvg-logo="https://yang-1989.eu.org/logo/咪咕.png" group-title="•咪咕「体育」", 「中超」19:45 联赛 上海申花vs长春亚泰 赛场原声
-https://yang-1989.eu.org/Migu/8
 #EXTINF:-1 tvg-name="CCTV 1" tvg-logo="https://yang-1989.eu.org/logo/CCTV1.png" group-title="•咪咕「TV」",CCTV 1 综合
 https://yang-1989.eu.org/migu/cctv1
 #EXTINF:-1 tvg-name="CCTV 2" tvg-logo="https://yang-1989.eu.org/logo/CCTV2.png" group-title="•咪咕「TV」",CCTV 2 财经
@@ -1024,7 +1008,7 @@ http://v2h.jdshipin.com/xinghe/xinghe.stream/chunklist.m3u8
 https://ha.jmied.com/aa/aa.flv?auth_key=1661958232-0-0-3d9174957759709f8b53448167c0b6f6
 #EXTINF:-1 tvg-name="功夫台" tvg-logo="https://yang-1989.eu.org/logo/功夫台.png" group-title="•港澳台「壹」",功夫台
 https://v2h.jdshipin.com/asia_action/asia_action.stream/chunklist.m3u8
-#EXTINF:-1 tvg-id="HOY-國際財經台" tvg-logo=" tvg-name="hoy76" tvg-logo="https://yang-1989.eu.org/logo/HOY.png" group-title="•港澳台「壹」",HOY 國際財經台
+#EXTINF:-1 tvg-id="HOY-國際財經台" tvg-name="hoy76" tvg-logo="https://yang-1989.eu.org/logo/HOY.png" group-title="•港澳台「壹」",HOY 國際財經台
 https://hoytv-live-stream.hoy.tv/ch76/index-fhd.m3u8
 #EXTINF:-1 tvg-id="HOYTV" tvg-name="hoy77" tvg-logo="https://yang-1989.eu.org/logo/HOY.png" group-title="•港澳台「壹」",HOY TV
 https://hoytv-live-stream.hoy.tv/ch77/index-fhd.m3u8
