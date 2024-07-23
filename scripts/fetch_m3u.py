@@ -1,7 +1,7 @@
 import requests
 
 # 目标m3u文件URL
-url = 'https://yang-1989.eu.org/m3u/Gather'
+url = 'https://tv.iill.top/m3u/Gather'
 # 定义user-agent
 headers = {
     'User-Agent': 'Televizo'
