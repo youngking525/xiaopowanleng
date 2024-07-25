@@ -588,30 +588,60 @@ http://gslbserv.itv.cmvideo.cn:80/3000000020000011530/index.m3u8?channel-id=Fifa
 #EXTINF:-1 tvg-logo="https://epg.iill.top/logo/咪咕.png" group-title="•咪咕「移动」",咪咕直播 𝟜𝟝「移动」
 http://gslbserv.itv.cmvideo.cn:80/3000000020000011531/index.m3u8?channel-id=FifastbLive&Contentid=3000000020000011531&livemode=1&stbId=3
 #INSERT_HERE
-#EXTINF:-1 tvg-logo="https://epg.iill.top/logo/OG2024.png" group-title="•咪咕「奥运」", 「足球」20:50 男子B组：阿根廷 VS 摩洛哥 张昊泽
+#EXTINF:-1 tvg-logo="https://epg.iill.top/logo/OG2024.png" group-title="•咪咕「奥运」", 「足球」00:50 男子B组：伊拉克 VS 乌克兰 涂远
 https://tv.iill.top/OG/1
-#EXTINF:-1 tvg-logo="https://epg.iill.top/logo/OG2024.png" group-title="•咪咕「奥运」", 「足球」20:50 男子B组：阿根廷 VS 摩洛哥 赛场原声
+#EXTINF:-1 tvg-logo="https://epg.iill.top/logo/OG2024.png" group-title="•咪咕「奥运」", 「足球」00:50 男子B组：伊拉克 VS 乌克兰 赛场原声
 https://tv.iill.top/OG/2
-#EXTINF:-1 tvg-logo="https://epg.iill.top/logo/OG2024.png" group-title="•咪咕「奥运」", 「足球」20:50 男子C组：乌兹别克斯坦 VS 西班牙 梁祥宇
+#EXTINF:-1 tvg-logo="https://epg.iill.top/logo/OG2024.png" group-title="•咪咕「奥运」", 「足球」00:50 男子D组：日本 VS 巴拉圭 鹿中原
 https://tv.iill.top/OG/3
-#EXTINF:-1 tvg-logo="https://epg.iill.top/logo/OG2024.png" group-title="•咪咕「奥运」", 「足球」20:50 男子C组：乌兹别克斯坦 VS 西班牙 赛场原声
+#EXTINF:-1 tvg-logo="https://epg.iill.top/logo/OG2024.png" group-title="•咪咕「奥运」", 「足球」00:50 男子D组：日本 VS 巴拉圭 赛场原声
 https://tv.iill.top/OG/4
-#EXTINF:-1 tvg-logo="https://epg.iill.top/logo/OG2024.png" group-title="•咪咕「奥运」", 「足球」20:50 男子C组：乌兹别克斯坦 VS 西班牙 梁祥宇 AVS3
+#EXTINF:-1 tvg-logo="https://epg.iill.top/logo/OG2024.png" group-title="•咪咕「奥运」", 「足球」00:50 男子D组：日本 VS 巴拉圭 CCTV5
 https://tv.iill.top/OG/5
-#EXTINF:-1 tvg-logo="https://epg.iill.top/logo/OG2024.png" group-title="•咪咕「奥运」", 「七人制橄榄球」21:20 男子第1比赛日 李书峰 邢天宇
+#EXTINF:-1 tvg-logo="https://epg.iill.top/logo/OG2024.png" group-title="•咪咕「奥运」", 「足球」02:50 男子A组：法国 VS 美国 王多多
 https://tv.iill.top/OG/6
-#EXTINF:-1 tvg-logo="https://epg.iill.top/logo/OG2024.png" group-title="•咪咕「奥运」", 「七人制橄榄球」21:20 男子第1比赛日 CCTV16
+#EXTINF:-1 tvg-logo="https://epg.iill.top/logo/OG2024.png" group-title="•咪咕「奥运」", 「足球」02:50 男子A组：法国 VS 美国 王多多 AVS3
 https://tv.iill.top/OG/7
-#EXTINF:-1 tvg-logo="https://epg.iill.top/logo/OG2024.png" group-title="•咪咕「奥运」", 「七人制橄榄球」21:20 男子第1比赛日 清流DX42
+#EXTINF:-1 tvg-logo="https://epg.iill.top/logo/OG2024.png" group-title="•咪咕「奥运」", 「足球」02:50 男子A组：法国 VS 美国 赛场原声
 https://tv.iill.top/OG/8
-#EXTINF:-1 tvg-logo="https://epg.iill.top/logo/OG2024.png" group-title="•咪咕「奥运」", 「足球」22:50 男子A组：几内亚 VS 新西兰 徐邦琼
+#EXTINF:-1 tvg-logo="https://epg.iill.top/logo/OG2024.png" group-title="•咪咕「奥运」", 「足球」02:50 男子A组：法国 VS 美国 CCTV5
 https://tv.iill.top/OG/9
-#EXTINF:-1 tvg-logo="https://epg.iill.top/logo/OG2024.png" group-title="•咪咕「奥运」", 「足球」22:50 男子A组：几内亚 VS 新西兰 赛场原声
+#EXTINF:-1 tvg-logo="https://epg.iill.top/logo/OG2024.png" group-title="•咪咕「奥运」", 「足球」02:50 男子D组：马里 VS 以色列 张学洋
 https://tv.iill.top/OG/10
-#EXTINF:-1 tvg-logo="https://epg.iill.top/logo/OG2024.png" group-title="•咪咕「奥运」", 「足球」22:50 巴黎奥运会男子C组：埃及 VS 多米尼加 程门立雪
+#EXTINF:-1 tvg-logo="https://epg.iill.top/logo/OG2024.png" group-title="•咪咕「奥运」", 「足球」02:50 男子D组：马里 VS 以色列 赛场原声
 https://tv.iill.top/OG/11
-#EXTINF:-1 tvg-logo="https://epg.iill.top/logo/OG2024.png" group-title="•咪咕「奥运」", 「足球」22:50 巴黎奥运会男子C组：埃及 VS 多米尼加 赛场原声
+#EXTINF:-1 tvg-logo="https://epg.iill.top/logo/OG2024.png" group-title="•咪咕「奥运」", 「手球」14:50 女子预赛A组：斯洛文尼亚 VS 丹麦
 https://tv.iill.top/OG/12
+#EXTINF:-1 tvg-logo="https://epg.iill.top/logo/OG2024.png" group-title="•咪咕「奥运」", 「手球」14:50 女子预赛A组：斯洛文尼亚 VS 丹麦 清流DX39
+https://tv.iill.top/OG/13
+#EXTINF:-1 tvg-logo="https://epg.iill.top/logo/OG2024.png" group-title="•咪咕「奥运」", 「手球」16:55 女子预赛B组：荷兰 VS 安哥拉
+https://tv.iill.top/OG/14
+#EXTINF:-1 tvg-logo="https://epg.iill.top/logo/OG2024.png" group-title="•咪咕「奥运」", 「手球」16:55 女子预赛B组：荷兰 VS 安哥拉 清流DX39
+https://tv.iill.top/OG/15
+#EXTINF:-1 tvg-logo="https://epg.iill.top/logo/OG2024.png" group-title="•咪咕「奥运」", 「手球」19:50 女子预赛B组：西班牙 VS 巴西
+https://tv.iill.top/OG/16
+#EXTINF:-1 tvg-logo="https://epg.iill.top/logo/OG2024.png" group-title="•咪咕「奥运」", 「手球」19:50 女子预赛B组：西班牙 VS 巴西 赛场原声
+https://tv.iill.top/OG/17
+#EXTINF:-1 tvg-logo="https://epg.iill.top/logo/OG2024.png" group-title="•咪咕「奥运」", 「七人制橄榄球」19:50 男子第2比赛日 李书峰
+https://tv.iill.top/OG/18
+#EXTINF:-1 tvg-logo="https://epg.iill.top/logo/OG2024.png" group-title="•咪咕「奥运」", 「七人制橄榄球」19:50 男子第2比赛日 CCTV5+
+https://tv.iill.top/OG/19
+#EXTINF:-1 tvg-logo="https://epg.iill.top/logo/OG2024.png" group-title="•咪咕「奥运」", 「七人制橄榄球」19:50 男子第2比赛日 清流DX42
+https://tv.iill.top/OG/20
+#EXTINF:-1 tvg-logo="https://epg.iill.top/logo/OG2024.png" group-title="•咪咕「奥运」", 「手球」21:55 女子预赛A组：德国 VS 韩国
+https://tv.iill.top/OG/21
+#EXTINF:-1 tvg-logo="https://epg.iill.top/logo/OG2024.png" group-title="•咪咕「奥运」", 「手球」21:55 女子预赛A组：德国 VS 韩国 赛场原声
+https://tv.iill.top/OG/22
+#EXTINF:-1 tvg-logo="https://epg.iill.top/logo/OG2024.png" group-title="•咪咕「奥运」", 「足球」22:50 女子A组：加拿大 VS 新西兰 孙宁智
+https://tv.iill.top/OG/23
+#EXTINF:-1 tvg-logo="https://epg.iill.top/logo/OG2024.png" group-title="•咪咕「奥运」", 「足球」22:50 女子A组：加拿大 VS 新西兰 赛场原声
+https://tv.iill.top/OG/24
+#EXTINF:-1 tvg-logo="https://epg.iill.top/logo/OG2024.png" group-title="•咪咕「奥运」", 「足球」22:50 女子C组：西班牙 VS 日本 张学洋
+https://tv.iill.top/OG/25
+#EXTINF:-1 tvg-logo="https://epg.iill.top/logo/OG2024.png" group-title="•咪咕「奥运」", 「足球」22:50 女子C组：西班牙 VS 日本 张学洋 AVS3
+https://tv.iill.top/OG/26
+#EXTINF:-1 tvg-logo="https://epg.iill.top/logo/OG2024.png" group-title="•咪咕「奥运」", 「足球」22:50 女子C组：西班牙 VS 日本 赛场原声
+https://tv.iill.top/OG/27
 #EXTINF:-1 tvg-name="CCTV 1" tvg-logo="https://epg.iill.top/logo/CCTV1.png" group-title="•咪咕「TV」",CCTV 1 综合
 https://tv.iill.top/migu/cctv1
 #EXTINF:-1 tvg-name="CCTV 2" tvg-logo="https://epg.iill.top/logo/CCTV2.png" group-title="•咪咕「TV」",CCTV 2 财经
