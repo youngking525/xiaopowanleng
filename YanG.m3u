@@ -588,292 +588,422 @@ http://gslbserv.itv.cmvideo.cn:80/3000000020000011530/index.m3u8?channel-id=Fifa
 #EXTINF:-1 tvg-logo="https://epg.iill.top/logo/咪咕.png" group-title="•咪咕「移动」",咪咕直播 𝟜𝟝「移动」
 http://gslbserv.itv.cmvideo.cn:80/3000000020000011531/index.m3u8?channel-id=FifastbLive&Contentid=3000000020000011531&livemode=1&stbId=3
 #INSERT_HERE
-#EXTINF:-1 tvg-logo="https://epg.iill.top/logo/OG2024.png" group-title="•咪咕「奥运」", 「羽毛球」14:25 🇨🇳小组赛 石宇奇、“凡尘”组合冲首胜 鸿昆
+#EXTINF:-1 tvg-logo="https://epg.iill.top/logo/OG2024.png" group-title="•咪咕「奥运」", 「水球」00:20 女子预赛B组：西班牙 VS 法国 叶蕾
 https://tv.iill.top/OG/1
-#EXTINF:-1 tvg-logo="https://epg.iill.top/logo/OG2024.png" group-title="•咪咕「奥运」", 「羽毛球」14:25 🇨🇳小组赛 石宇奇、“凡尘”组合冲首胜 杨弋非
+#EXTINF:-1 tvg-logo="https://epg.iill.top/logo/OG2024.png" group-title="•咪咕「奥运」", 「水球」00:20 女子预赛B组：西班牙 VS 法国 赛场原声
 https://tv.iill.top/OG/2
-#EXTINF:-1 tvg-logo="https://epg.iill.top/logo/OG2024.png" group-title="•咪咕「奥运」", 「羽毛球」14:25 🇨🇳小组赛 石宇奇、“凡尘”组合冲首胜 周顺
+#EXTINF:-1 tvg-logo="https://epg.iill.top/logo/OG2024.png" group-title="•咪咕「奥运」", 「击剑」00:30 🏅女子个人重剑决赛、男子个人佩剑决赛 清流DX20
 https://tv.iill.top/OG/3
-#EXTINF:-1 tvg-logo="https://epg.iill.top/logo/OG2024.png" group-title="•咪咕「奥运」", 「羽毛球」14:25 🇨🇳小组赛 石宇奇、“凡尘”组合冲首胜 AVS
+#EXTINF:-1 tvg-logo="https://epg.iill.top/logo/OG2024.png" group-title="•咪咕「奥运」", 「击剑」00:30 🏅女子个人重剑决赛、男子个人佩剑决赛 解说
 https://tv.iill.top/OG/4
-#EXTINF:-1 tvg-logo="https://epg.iill.top/logo/OG2024.png" group-title="•咪咕「奥运」", 「羽毛球」14:25 🇨🇳小组赛 石宇奇、“凡尘”组合冲首胜 1号场地原声 赛场原声
+#EXTINF:-1 tvg-logo="https://epg.iill.top/logo/OG2024.png" group-title="•咪咕「奥运」", 「击剑」00:30 🏅女子个人重剑决赛、男子个人佩剑决赛 CCTV5+
 https://tv.iill.top/OG/5
-#EXTINF:-1 tvg-logo="https://epg.iill.top/logo/OG2024.png" group-title="•咪咕「奥运」", 「羽毛球」14:25 🇨🇳小组赛 石宇奇、“凡尘”组合冲首胜 2号场地原声 赛场原声
+#EXTINF:-1 tvg-logo="https://epg.iill.top/logo/OG2024.png" group-title="•咪咕「奥运」", 「手球」00:50 男子预赛A组：德国30-27瑞典 刘仲钰
 https://tv.iill.top/OG/6
-#EXTINF:-1 tvg-logo="https://epg.iill.top/logo/OG2024.png" group-title="•咪咕「奥运」", 「羽毛球」14:25 🇨🇳小组赛 石宇奇、“凡尘”组合冲首胜 3号场原声 赛场原声
+#EXTINF:-1 tvg-logo="https://epg.iill.top/logo/OG2024.png" group-title="•咪咕「奥运」", 「手球」00:50 男子预赛A组：德国30-27瑞典 清流DX39
 https://tv.iill.top/OG/7
-#EXTINF:-1 tvg-logo="https://epg.iill.top/logo/OG2024.png" group-title="•咪咕「奥运」", 「手球」14:50 男子预赛A组：西班牙 VS 斯洛文尼亚 黄泽宇
+#EXTINF:-1 tvg-logo="https://epg.iill.top/logo/OG2024.png" group-title="•咪咕「奥运」", 「足球」00:50 男子A组：新西兰 VS 美国 徐邦琼
 https://tv.iill.top/OG/8
-#EXTINF:-1 tvg-logo="https://epg.iill.top/logo/OG2024.png" group-title="•咪咕「奥运」", 「手球」14:50 男子预赛A组：西班牙 VS 斯洛文尼亚 赛场原声
+#EXTINF:-1 tvg-logo="https://epg.iill.top/logo/OG2024.png" group-title="•咪咕「奥运」", 「足球」00:50 男子A组：新西兰 VS 美国 清流DX37
 https://tv.iill.top/OG/9
-#EXTINF:-1 tvg-logo="https://epg.iill.top/logo/OG2024.png" group-title="•咪咕「奥运」", 「排球」14:50 男子预赛C组：日本 VS 德国
+#EXTINF:-1 tvg-logo="https://epg.iill.top/logo/OG2024.png" group-title="•咪咕「奥运」", 「足球」00:50 男子D组：以色列 VS 巴拉圭 张学洋
 https://tv.iill.top/OG/10
-#EXTINF:-1 tvg-logo="https://epg.iill.top/logo/OG2024.png" group-title="•咪咕「奥运」", 「排球」14:50 男子预赛C组：日本 VS 德国 清流DX43
+#EXTINF:-1 tvg-logo="https://epg.iill.top/logo/OG2024.png" group-title="•咪咕「奥运」", 「足球」00:50 男子D组：以色列 VS 巴拉圭 清流DX02
 https://tv.iill.top/OG/11
-#EXTINF:-1 tvg-logo="https://epg.iill.top/logo/OG2024.png" group-title="•咪咕「奥运」", 「赛艇」14:55 🇨🇳男子&女子双人双桨、四人双桨分组预赛
+#EXTINF:-1 tvg-logo="https://epg.iill.top/logo/OG2024.png" group-title="•咪咕「奥运」", 「网球」00:50 第1比赛日夜场 插播间
 https://tv.iill.top/OG/12
-#EXTINF:-1 tvg-logo="https://epg.iill.top/logo/OG2024.png" group-title="•咪咕「奥运」", 「赛艇」14:55 🇨🇳男子&女子双人双桨、四人双桨分组预赛 清流DX16
+#EXTINF:-1 tvg-logo="https://epg.iill.top/logo/OG2024.png" group-title="•咪咕「奥运」", 「网球」00:50 第1比赛日夜场 演播室 解说
 https://tv.iill.top/OG/13
-#EXTINF:-1 tvg-logo="https://epg.iill.top/logo/OG2024.png" group-title="•咪咕「奥运」", 「马术」15:25 🇨🇳三项赛个人、团体盛装舞步 尹少坤 怀佩炘
+#EXTINF:-1 tvg-logo="https://epg.iill.top/logo/OG2024.png" group-title="•咪咕「奥运」", 「网球」00:50 第1比赛日夜场 清流DX25
 https://tv.iill.top/OG/14
-#EXTINF:-1 tvg-logo="https://epg.iill.top/logo/OG2024.png" group-title="•咪咕「奥运」", 「马术」15:25 🇨🇳三项赛个人、团体盛装舞步 清流DX18
+#EXTINF:-1 tvg-logo="https://epg.iill.top/logo/OG2024.png" group-title="•咪咕「奥运」", 「冲浪」00:55 🇨🇳男子&女子小组赛第1轮 闫子奇
 https://tv.iill.top/OG/15
-#EXTINF:-1 tvg-logo="https://epg.iill.top/logo/OG2024.png" group-title="•咪咕「奥运」", 「曲棍球」15:50 男子分组循环赛A组：英国 VS 西班牙 奉俊良
+#EXTINF:-1 tvg-logo="https://epg.iill.top/logo/OG2024.png" group-title="•咪咕「奥运」", 「冲浪」00:55 🇨🇳男子&女子小组赛第1轮 清流DX16
 https://tv.iill.top/OG/16
-#EXTINF:-1 tvg-logo="https://epg.iill.top/logo/OG2024.png" group-title="•咪咕「奥运」", 「曲棍球」15:50 男子分组循环赛A组：英国 VS 西班牙 清流DX40
+#EXTINF:-1 tvg-logo="https://epg.iill.top/logo/OG2024.png" group-title="•咪咕「奥运」", 「羽毛球」01:25 小组赛 安赛龙2-0达哈尔 汤骁宇
 https://tv.iill.top/OG/17
-#EXTINF:-1 tvg-logo="https://epg.iill.top/logo/OG2024.png" group-title="•咪咕「奥运」", 「柔道」15:55 🇨🇳女子48公斤级、男子60公斤级淘汰赛 张凌宇
+#EXTINF:-1 tvg-logo="https://epg.iill.top/logo/OG2024.png" group-title="•咪咕「奥运」", 「羽毛球」01:25 小组赛 安赛龙2-0达哈尔 1号场原声 赛场原声
 https://tv.iill.top/OG/18
-#EXTINF:-1 tvg-logo="https://epg.iill.top/logo/OG2024.png" group-title="•咪咕「奥运」", 「柔道」15:55 🇨🇳女子48公斤级、男子60公斤级淘汰赛 陈瑞阳
+#EXTINF:-1 tvg-logo="https://epg.iill.top/logo/OG2024.png" group-title="•咪咕「奥运」", 「曲棍球」01:40 女子分组循环赛B组：阿根廷 VS 美国 王译仟
 https://tv.iill.top/OG/19
-#EXTINF:-1 tvg-logo="https://epg.iill.top/logo/OG2024.png" group-title="•咪咕「奥运」", 「柔道」15:55 🇨🇳女子48公斤级、男子60公斤级淘汰赛 清流DX33
+#EXTINF:-1 tvg-logo="https://epg.iill.top/logo/OG2024.png" group-title="•咪咕「奥运」", 「曲棍球」01:40 女子分组循环赛B组：阿根廷 VS 美国 清流DX40
 https://tv.iill.top/OG/20
-#EXTINF:-1 tvg-logo="https://epg.iill.top/logo/OG2024.png" group-title="•咪咕「奥运」", 「柔道」15:55 🇨🇳女子48公斤级、男子60公斤级淘汰赛 清流DX34
+#EXTINF:-1 tvg-logo="https://epg.iill.top/logo/OG2024.png" group-title="•咪咕「奥运」", 「乒乓球」01:55 男女单打1/32决赛 李静月
 https://tv.iill.top/OG/21
-#EXTINF:-1 tvg-logo="https://epg.iill.top/logo/OG2024.png" group-title="•咪咕「奥运」", 「击剑」15:55 🇨🇳第1比赛日 64强至8强赛 绿垫刘凡绫 解说
+#EXTINF:-1 tvg-logo="https://epg.iill.top/logo/OG2024.png" group-title="•咪咕「奥运」", 「乒乓球」01:55 男女单打1/32决赛 2号桌
 https://tv.iill.top/OG/22
-#EXTINF:-1 tvg-logo="https://epg.iill.top/logo/OG2024.png" group-title="•咪咕「奥运」", 「击剑」15:55 🇨🇳第1比赛日 64强至8强赛 蓝垫底逸凡 解说
+#EXTINF:-1 tvg-logo="https://epg.iill.top/logo/OG2024.png" group-title="•咪咕「奥运」", 「乒乓球」01:55 男女单打1/32决赛 4号桌
 https://tv.iill.top/OG/23
-#EXTINF:-1 tvg-logo="https://epg.iill.top/logo/OG2024.png" group-title="•咪咕「奥运」", 「击剑」15:55 🇨🇳第1比赛日 64强至8强赛 红垫姜帆 解说
+#EXTINF:-1 tvg-logo="https://epg.iill.top/logo/OG2024.png" group-title="•咪咕「奥运」", 「乒乓球」01:55 男女单打1/32决赛 3号桌
 https://tv.iill.top/OG/24
-#EXTINF:-1 tvg-logo="https://epg.iill.top/logo/OG2024.png" group-title="•咪咕「奥运」", 「击剑」15:55 🇨🇳第1比赛日 64强至8强赛 黄垫韩健 解说
+#EXTINF:-1 tvg-logo="https://epg.iill.top/logo/OG2024.png" group-title="•咪咕「奥运」", 「乒乓球」01:55 男女单打1/32决赛 1号桌
 https://tv.iill.top/OG/25
-#EXTINF:-1 tvg-logo="https://epg.iill.top/logo/OG2024.png" group-title="•咪咕「奥运」", 「射击」16:00 🏅🇨🇳混合团体10米气步枪决赛 解说
+#EXTINF:-1 tvg-logo="https://epg.iill.top/logo/OG2024.png" group-title="•咪咕「奥运」", 「乒乓球」01:55 男女单打1/32决赛
 https://tv.iill.top/OG/26
-#EXTINF:-1 tvg-logo="https://epg.iill.top/logo/OG2024.png" group-title="•咪咕「奥运」", 「射击」16:00 🏅🇨🇳混合团体10米气步枪决赛 清流DX15
+#EXTINF:-1 tvg-logo="https://epg.iill.top/logo/OG2024.png" group-title="•咪咕「奥运」", 「乒乓球」01:55 男女单打1/32决赛 肖扬
 https://tv.iill.top/OG/27
-#EXTINF:-1 tvg-logo="https://epg.iill.top/logo/OG2024.png" group-title="•咪咕「奥运」", 「曲棍球」16:20 男子分组循环赛B组：比利时 VS 爱尔兰 格日勒图
+#EXTINF:-1 tvg-logo="https://epg.iill.top/logo/OG2024.png" group-title="•咪咕「奥运」", 「乒乓球」01:55 男女单打1/32决赛 傅悦修
 https://tv.iill.top/OG/28
-#EXTINF:-1 tvg-logo="https://epg.iill.top/logo/OG2024.png" group-title="•咪咕「奥运」", 「曲棍球」16:20 男子分组循环赛B组：比利时 VS 爱尔兰 清流DX41
+#EXTINF:-1 tvg-logo="https://epg.iill.top/logo/OG2024.png" group-title="•咪咕「奥运」", 「乒乓球」01:55 男女单打1/32决赛 CCTV16
 https://tv.iill.top/OG/29
-#EXTINF:-1 tvg-logo="https://epg.iill.top/logo/OG2024.png" group-title="•咪咕「奥运」", 「跳水」16:30 🏅🇨🇳女子双人3米板决赛 钟宇峰 解说
+#EXTINF:-1 tvg-logo="https://epg.iill.top/logo/OG2024.png" group-title="•咪咕「奥运」", 「拳击」01:55 女子54公斤级等多项预赛-32强赛 张凌宇
 https://tv.iill.top/OG/30
-#EXTINF:-1 tvg-logo="https://epg.iill.top/logo/OG2024.png" group-title="•咪咕「奥运」", 「跳水」16:30 🏅🇨🇳女子双人3米板决赛 赛场原声
+#EXTINF:-1 tvg-logo="https://epg.iill.top/logo/OG2024.png" group-title="•咪咕「奥运」", 「拳击」01:55 女子54公斤级等多项预赛-32强赛 清流DX35
 https://tv.iill.top/OG/31
-#EXTINF:-1 tvg-logo="https://epg.iill.top/logo/OG2024.png" group-title="•咪咕「奥运」", 「游泳」16:30 🇨🇳第1比赛日各项预赛 管泽元 吴鹏 解说
+#EXTINF:-1 tvg-logo="https://epg.iill.top/logo/OG2024.png" group-title="•咪咕「奥运」", 「竞技体操」02:00 🇨🇳第1比赛日 钟宇峰 解说
 https://tv.iill.top/OG/32
-#EXTINF:-1 tvg-logo="https://epg.iill.top/logo/OG2024.png" group-title="•咪咕「奥运」", 「游泳」16:30 🇨🇳第1比赛日各项预赛 赛场原声
+#EXTINF:-1 tvg-logo="https://epg.iill.top/logo/OG2024.png" group-title="•咪咕「奥运」", 「竞技体操」02:00 🇨🇳第1比赛日 赛场原声
 https://tv.iill.top/OG/33
-#EXTINF:-1 tvg-logo="https://epg.iill.top/logo/OG2024.png" group-title="•咪咕「奥运」", 「篮球」16:50 男子小组赛A组：澳大利亚 VS 西班牙 周赫
+#EXTINF:-1 tvg-logo="https://epg.iill.top/logo/OG2024.png" group-title="•咪咕「奥运」", 「竞技体操」02:00 🇨🇳第1比赛日 自由体操
 https://tv.iill.top/OG/34
-#EXTINF:-1 tvg-logo="https://epg.iill.top/logo/OG2024.png" group-title="•咪咕「奥运」", 「篮球」16:50 男子小组赛A组：澳大利亚 VS 西班牙 清流DX36
+#EXTINF:-1 tvg-logo="https://epg.iill.top/logo/OG2024.png" group-title="•咪咕「奥运」", 「竞技体操」02:00 🇨🇳第1比赛日 鞍马
 https://tv.iill.top/OG/35
-#EXTINF:-1 tvg-logo="https://epg.iill.top/logo/OG2024.png" group-title="•咪咕「奥运」", 「手球」16:50 男子预赛B组：匈牙利 VS 埃及 黄泽宇
+#EXTINF:-1 tvg-logo="https://epg.iill.top/logo/OG2024.png" group-title="•咪咕「奥运」", 「竞技体操」02:00 🇨🇳第1比赛日 吊环
 https://tv.iill.top/OG/36
-#EXTINF:-1 tvg-logo="https://epg.iill.top/logo/OG2024.png" group-title="•咪咕「奥运」", 「手球」16:50 男子预赛B组：匈牙利 VS 埃及 赛场原声
+#EXTINF:-1 tvg-logo="https://epg.iill.top/logo/OG2024.png" group-title="•咪咕「奥运」", 「竞技体操」02:00 🇨🇳第1比赛日 跳马
 https://tv.iill.top/OG/37
-#EXTINF:-1 tvg-logo="https://epg.iill.top/logo/OG2024.png" group-title="•咪咕「奥运」", 「竞技体操」16:55 第1比赛日 张潇
+#EXTINF:-1 tvg-logo="https://epg.iill.top/logo/OG2024.png" group-title="•咪咕「奥运」", 「竞技体操」02:00 🇨🇳第1比赛日 双杠
 https://tv.iill.top/OG/38
-#EXTINF:-1 tvg-logo="https://epg.iill.top/logo/OG2024.png" group-title="•咪咕「奥运」", 「竞技体操」16:55 第1比赛日 钟宇峰 解说
+#EXTINF:-1 tvg-logo="https://epg.iill.top/logo/OG2024.png" group-title="•咪咕「奥运」", 「竞技体操」02:00 🇨🇳第1比赛日 单杠
 https://tv.iill.top/OG/39
-#EXTINF:-1 tvg-logo="https://epg.iill.top/logo/OG2024.png" group-title="•咪咕「奥运」", 「竞技体操」16:55 第1比赛日 清流DX06
+#EXTINF:-1 tvg-logo="https://epg.iill.top/logo/OG2024.png" group-title="•咪咕「奥运」", 「水球」02:00 🇨🇳女子预赛A组 澳大利亚 VS 中国 叶蕾
 https://tv.iill.top/OG/40
-#EXTINF:-1 tvg-logo="https://epg.iill.top/logo/OG2024.png" group-title="•咪咕「奥运」", 「竞技体操」16:55 第1比赛日 清流DX07
+#EXTINF:-1 tvg-logo="https://epg.iill.top/logo/OG2024.png" group-title="•咪咕「奥运」", 「水球」02:00 🇨🇳女子预赛A组 澳大利亚 VS 中国 叶蕾 AVS3
 https://tv.iill.top/OG/41
-#EXTINF:-1 tvg-logo="https://epg.iill.top/logo/OG2024.png" group-title="•咪咕「奥运」", 「竞技体操」16:55 第1比赛日 清流DX08
+#EXTINF:-1 tvg-logo="https://epg.iill.top/logo/OG2024.png" group-title="•咪咕「奥运」", 「水球」02:00 🇨🇳女子预赛A组 澳大利亚 VS 中国 赛场原声
 https://tv.iill.top/OG/42
-#EXTINF:-1 tvg-logo="https://epg.iill.top/logo/OG2024.png" group-title="•咪咕「奥运」", 「竞技体操」16:55 第1比赛日 清流DX09
+#EXTINF:-1 tvg-logo="https://epg.iill.top/logo/OG2024.png" group-title="•咪咕「奥运」", 「游泳」02:00 🏅🇨🇳第1比赛日各项决赛 柳亚鹏 解说
 https://tv.iill.top/OG/43
-#EXTINF:-1 tvg-logo="https://epg.iill.top/logo/OG2024.png" group-title="•咪咕「奥运」", 「竞技体操」16:55 第1比赛日 清流DX10
+#EXTINF:-1 tvg-logo="https://epg.iill.top/logo/OG2024.png" group-title="•咪咕「奥运」", 「游泳」02:00 🏅🇨🇳第1比赛日各项决赛 赛场原声
 https://tv.iill.top/OG/44
-#EXTINF:-1 tvg-logo="https://epg.iill.top/logo/OG2024.png" group-title="•咪咕「奥运」", 「竞技体操」16:55 第1比赛日 清流DX11
+#EXTINF:-1 tvg-logo="https://epg.iill.top/logo/OG2024.png" group-title="•咪咕「奥运」", 「曲棍球」02:05 女子分组循环赛A组：荷兰 VS 法国 丁一
 https://tv.iill.top/OG/45
-#EXTINF:-1 tvg-logo="https://epg.iill.top/logo/OG2024.png" group-title="•咪咕「奥运」", 「竞技体操」16:55 第1比赛日 清流DX12
+#EXTINF:-1 tvg-logo="https://epg.iill.top/logo/OG2024.png" group-title="•咪咕「奥运」", 「曲棍球」02:05 女子分组循环赛A组：荷兰 VS 法国 清流DX41
 https://tv.iill.top/OG/46
-#EXTINF:-1 tvg-logo="https://epg.iill.top/logo/OG2024.png" group-title="•咪咕「奥运」", 「网球」17:55 🇨🇳第1比赛日上半场 房朕
+#EXTINF:-1 tvg-logo="https://epg.iill.top/logo/OG2024.png" group-title="•咪咕「奥运」", 「篮球」02:50 男子小组赛A组：希腊 VS 加拿大 蔡凯臣 季孟年
 https://tv.iill.top/OG/47
-#EXTINF:-1 tvg-logo="https://epg.iill.top/logo/OG2024.png" group-title="•咪咕「奥运」", 「网球」17:55 🇨🇳第1比赛日上半场 詹俊 解说
+#EXTINF:-1 tvg-logo="https://epg.iill.top/logo/OG2024.png" group-title="•咪咕「奥运」", 「篮球」02:50 男子小组赛A组：希腊 VS 加拿大 赛场原声
 https://tv.iill.top/OG/48
-#EXTINF:-1 tvg-logo="https://epg.iill.top/logo/OG2024.png" group-title="•咪咕「奥运」", 「网球」17:55 🇨🇳第1比赛日上半场
+#EXTINF:-1 tvg-logo="https://epg.iill.top/logo/OG2024.png" group-title="•咪咕「奥运」", 「排球」02:50 男子预赛C组：美国3-0阿根廷 范贵懿
 https://tv.iill.top/OG/49
-#EXTINF:-1 tvg-logo="https://epg.iill.top/logo/OG2024.png" group-title="•咪咕「奥运」", 「网球」17:55 🇨🇳第1比赛日上半场
+#EXTINF:-1 tvg-logo="https://epg.iill.top/logo/OG2024.png" group-title="•咪咕「奥运」", 「排球」02:50 男子预赛C组：美国3-0阿根廷 清流DX43
 https://tv.iill.top/OG/50
-#EXTINF:-1 tvg-logo="https://epg.iill.top/logo/OG2024.png" group-title="•咪咕「奥运」", 「网球」17:55 🇨🇳第1比赛日上半场 乔迁 张诗愉/远程高校
+#EXTINF:-1 tvg-logo="https://epg.iill.top/logo/OG2024.png" group-title="•咪咕「奥运」", 「足球」02:50 男子A组：法国 VS 几内亚 王多多
 https://tv.iill.top/OG/51
-#EXTINF:-1 tvg-logo="https://epg.iill.top/logo/OG2024.png" group-title="•咪咕「奥运」", 「网球」17:55 🇨🇳第1比赛日上半场/远程高校
+#EXTINF:-1 tvg-logo="https://epg.iill.top/logo/OG2024.png" group-title="•咪咕「奥运」", 「足球」02:50 男子A组：法国 VS 几内亚 清流DX34
 https://tv.iill.top/OG/52
-#EXTINF:-1 tvg-logo="https://epg.iill.top/logo/OG2024.png" group-title="•咪咕「奥运」", 「网球」17:55 🇨🇳第1比赛日上半场 单文强
+#EXTINF:-1 tvg-logo="https://epg.iill.top/logo/OG2024.png" group-title="•咪咕「奥运」", 「足球」02:50 男子D组：日本 VS 马里 鹿中原
 https://tv.iill.top/OG/53
-#EXTINF:-1 tvg-logo="https://epg.iill.top/logo/OG2024.png" group-title="•咪咕「奥运」", 「网球」17:55 🇨🇳第1比赛日上半场 文勇杰 杨思琪/远程高校
+#EXTINF:-1 tvg-logo="https://epg.iill.top/logo/OG2024.png" group-title="•咪咕「奥运」", 「足球」02:50 男子D组：日本 VS 马里 清流DX15
 https://tv.iill.top/OG/54
-#EXTINF:-1 tvg-logo="https://epg.iill.top/logo/OG2024.png" group-title="•咪咕「奥运」", 「网球」17:55 🇨🇳第1比赛日上半场
+#EXTINF:-1 tvg-logo="https://epg.iill.top/logo/OG2024.png" group-title="•咪咕「奥运」", 「手球」02:55 男子预赛B组：丹麦37-29法国 刘仲钰
 https://tv.iill.top/OG/55
-#EXTINF:-1 tvg-logo="https://epg.iill.top/logo/OG2024.png" group-title="•咪咕「奥运」", 「网球」17:55 🇨🇳第1比赛日上半场 贾媛媛 张钰琪/远程高校
+#EXTINF:-1 tvg-logo="https://epg.iill.top/logo/OG2024.png" group-title="•咪咕「奥运」", 「手球」02:55 男子预赛B组：丹麦37-29法国 清流DX39
 https://tv.iill.top/OG/56
-#EXTINF:-1 tvg-logo="https://epg.iill.top/logo/OG2024.png" group-title="•咪咕「奥运」", 「网球」17:55 🇨🇳第1比赛日上半场 范嘉琛 马振楷/远程高校
+#EXTINF:-1 tvg-logo="https://epg.iill.top/logo/OG2024.png" group-title="•咪咕「奥运」", 「沙滩排球」03:50 小组赛第1比赛日晚场 陈博媛
 https://tv.iill.top/OG/57
-#EXTINF:-1 tvg-logo="https://epg.iill.top/logo/OG2024.png" group-title="•咪咕「奥运」", 「网球」17:55 🇨🇳第1比赛日上半场 岳亮 杨昊宸/远程高校
+#EXTINF:-1 tvg-logo="https://epg.iill.top/logo/OG2024.png" group-title="•咪咕「奥运」", 「沙滩排球」03:50 小组赛第1比赛日晚场 清流
 https://tv.iill.top/OG/58
-#EXTINF:-1 tvg-logo="https://epg.iill.top/logo/OG2024.png" group-title="•咪咕「奥运」", 「网球」17:55 🇨🇳第1比赛日上半场/远程高校
+#EXTINF:-1 tvg-logo="https://epg.iill.top/logo/OG2024.png" group-title="•咪咕「奥运」", 「羽毛球」14:25 🇨🇳小组赛 “凡尘”组合领衔出战 2号场-鸿昆
 https://tv.iill.top/OG/59
-#EXTINF:-1 tvg-logo="https://epg.iill.top/logo/OG2024.png" group-title="•咪咕「奥运」", 「网球」17:55 🇨🇳第1比赛日上半场 清流DX25
+#EXTINF:-1 tvg-logo="https://epg.iill.top/logo/OG2024.png" group-title="•咪咕「奥运」", 「羽毛球」14:25 🇨🇳小组赛 “凡尘”组合领衔出战 1号场-甘轲晗
 https://tv.iill.top/OG/60
-#EXTINF:-1 tvg-logo="https://epg.iill.top/logo/OG2024.png" group-title="•咪咕「奥运」", 「网球」17:55 🇨🇳第1比赛日上半场 清流DX26
+#EXTINF:-1 tvg-logo="https://epg.iill.top/logo/OG2024.png" group-title="•咪咕「奥运」", 「羽毛球」14:25 🇨🇳小组赛 “凡尘”组合领衔出战 3号场-汤骁宇
 https://tv.iill.top/OG/61
-#EXTINF:-1 tvg-logo="https://epg.iill.top/logo/OG2024.png" group-title="•咪咕「奥运」", 「网球」17:55 🇨🇳第1比赛日上半场 清流DX27
+#EXTINF:-1 tvg-logo="https://epg.iill.top/logo/OG2024.png" group-title="•咪咕「奥运」", 「羽毛球」14:25 🇨🇳小组赛 “凡尘”组合领衔出战 睛彩视界
 https://tv.iill.top/OG/62
-#EXTINF:-1 tvg-logo="https://epg.iill.top/logo/OG2024.png" group-title="•咪咕「奥运」", 「网球」17:55 🇨🇳第1比赛日上半场 清流DX29
+#EXTINF:-1 tvg-logo="https://epg.iill.top/logo/OG2024.png" group-title="•咪咕「奥运」", 「羽毛球」14:25 🇨🇳小组赛 “凡尘”组合领衔出战 1号场-赛场原声
 https://tv.iill.top/OG/63
-#EXTINF:-1 tvg-logo="https://epg.iill.top/logo/OG2024.png" group-title="•咪咕「奥运」", 「网球」17:55 🇨🇳第1比赛日上半场 清流DX28
+#EXTINF:-1 tvg-logo="https://epg.iill.top/logo/OG2024.png" group-title="•咪咕「奥运」", 「羽毛球」14:25 🇨🇳小组赛 “凡尘”组合领衔出战 2号场-赛场原声
 https://tv.iill.top/OG/64
-#EXTINF:-1 tvg-logo="https://epg.iill.top/logo/OG2024.png" group-title="•咪咕「奥运」", 「网球」17:55 🇨🇳第1比赛日上半场 单文强
+#EXTINF:-1 tvg-logo="https://epg.iill.top/logo/OG2024.png" group-title="•咪咕「奥运」", 「羽毛球」14:25 🇨🇳小组赛 “凡尘”组合领衔出战 3号场-赛场原声
 https://tv.iill.top/OG/65
-#EXTINF:-1 tvg-logo="https://epg.iill.top/logo/OG2024.png" group-title="•咪咕「奥运」", 「滑板」17:55 男子街式预赛 卫冕冠军堀米雄斗出战 预赛解说
+#EXTINF:-1 tvg-logo="https://epg.iill.top/logo/OG2024.png" group-title="•咪咕「奥运」", 「手球」14:50 女子预赛B组：巴西 VS 匈牙利 石伟
 https://tv.iill.top/OG/66
-#EXTINF:-1 tvg-logo="https://epg.iill.top/logo/OG2024.png" group-title="•咪咕「奥运」", 「滑板」17:55 男子街式预赛 卫冕冠军堀米雄斗出战 预赛原声
+#EXTINF:-1 tvg-logo="https://epg.iill.top/logo/OG2024.png" group-title="•咪咕「奥运」", 「手球」14:50 女子预赛B组：巴西 VS 匈牙利 清流DX39
 https://tv.iill.top/OG/67
-#EXTINF:-1 tvg-logo="https://epg.iill.top/logo/OG2024.png" group-title="•咪咕「奥运」", 「曲棍球」18:35 男子分组循环赛A组：荷兰 VS 南非 王译仟
+#EXTINF:-1 tvg-logo="https://epg.iill.top/logo/OG2024.png" group-title="•咪咕「奥运」", 「排球」14:50 女子预赛C组：意大利 VS 多米尼加 张歌
 https://tv.iill.top/OG/68
-#EXTINF:-1 tvg-logo="https://epg.iill.top/logo/OG2024.png" group-title="•咪咕「奥运」", 「曲棍球」18:35 男子分组循环赛A组：荷兰 VS 南非 清流DX40
+#EXTINF:-1 tvg-logo="https://epg.iill.top/logo/OG2024.png" group-title="•咪咕「奥运」", 「排球」14:50 女子预赛C组：意大利 VS 多米尼加 赛场原声
 https://tv.iill.top/OG/69
-#EXTINF:-1 tvg-logo="https://epg.iill.top/logo/OG2024.png" group-title="•咪咕「奥运」", 「排球」18:50 男子预赛B组：意大利 VS 巴西
+#EXTINF:-1 tvg-logo="https://epg.iill.top/logo/OG2024.png" group-title="•咪咕「奥运」", 「沙滩排球」14:50 小组赛第2比赛日早场 樊宇良
 https://tv.iill.top/OG/70
-#EXTINF:-1 tvg-logo="https://epg.iill.top/logo/OG2024.png" group-title="•咪咕「奥运」", 「排球」18:50 男子预赛B组：意大利 VS 巴西 清流DX43
+#EXTINF:-1 tvg-logo="https://epg.iill.top/logo/OG2024.png" group-title="•咪咕「奥运」", 「沙滩排球」14:50 小组赛第2比赛日早场 赛场原声
 https://tv.iill.top/OG/71
-#EXTINF:-1 tvg-logo="https://epg.iill.top/logo/OG2024.png" group-title="•咪咕「奥运」", 「曲棍球」19:05 男子分组循环赛B组：澳大利亚 VS 阿根廷 奉俊良
+#EXTINF:-1 tvg-logo="https://epg.iill.top/logo/OG2024.png" group-title="•咪咕「奥运」", 「赛艇」14:55 🇨🇳男子&女子多项预赛、复活赛 邢天宇
 https://tv.iill.top/OG/72
-#EXTINF:-1 tvg-logo="https://epg.iill.top/logo/OG2024.png" group-title="•咪咕「奥运」", 「曲棍球」19:05 男子分组循环赛B组：澳大利亚 VS 阿根廷 清流DX41
+#EXTINF:-1 tvg-logo="https://epg.iill.top/logo/OG2024.png" group-title="•咪咕「奥运」", 「赛艇」14:55 🇨🇳男子&女子多项预赛、复活赛 清流DX16
 https://tv.iill.top/OG/73
-#EXTINF:-1 tvg-logo="https://epg.iill.top/logo/OG2024.png" group-title="•咪咕「奥运」", 「篮球」19:25 男子小组赛B组：德国 VS 日本 2024奥运会：男子小组赛B组德国vs日本（远程解说）（王冠证、李根） 解说
+#EXTINF:-1 tvg-logo="https://epg.iill.top/logo/OG2024.png" group-title="•咪咕「奥运」", 「射击」15:15 🏅🇨🇳男子10米气手枪决赛 解说
 https://tv.iill.top/OG/74
-#EXTINF:-1 tvg-logo="https://epg.iill.top/logo/OG2024.png" group-title="•咪咕「奥运」", 「篮球」19:25 男子小组赛B组：德国 VS 日本 2024奥运会：男子小组赛B组德国vs日本（远程闽南语）（洪荒） 闽南语解说（洪荒）
+#EXTINF:-1 tvg-logo="https://epg.iill.top/logo/OG2024.png" group-title="•咪咕「奥运」", 「射击」15:15 🏅🇨🇳男子10米气手枪决赛 清流DX15
 https://tv.iill.top/OG/75
-#EXTINF:-1 tvg-logo="https://epg.iill.top/logo/OG2024.png" group-title="•咪咕「奥运」", 「篮球」19:25 男子小组赛B组：德国 VS 日本 2024奥运会：男子小组赛B组德国vs日本 赛场原声
+#EXTINF:-1 tvg-logo="https://epg.iill.top/logo/OG2024.png" group-title="•咪咕「奥运」", 「射箭」15:25 女子团体1/8淘汰赛 解说
 https://tv.iill.top/OG/76
-#EXTINF:-1 tvg-logo="https://epg.iill.top/logo/OG2024.png" group-title="•咪咕「奥运」", 「羽毛球」19:30 🇨🇳小组赛 雅思组合亮相 鸿昆李雪芮
+#EXTINF:-1 tvg-logo="https://epg.iill.top/logo/OG2024.png" group-title="•咪咕「奥运」", 「射箭」15:25 女子团体1/8淘汰赛 清流DX01
 https://tv.iill.top/OG/77
-#EXTINF:-1 tvg-logo="https://epg.iill.top/logo/OG2024.png" group-title="•咪咕「奥运」", 「羽毛球」19:30 🇨🇳小组赛 雅思组合亮相 张赫元
+#EXTINF:-1 tvg-logo="https://epg.iill.top/logo/OG2024.png" group-title="•咪咕「奥运」", 「竞技体操」15:25 第2比赛日 钟宇峰
 https://tv.iill.top/OG/78
-#EXTINF:-1 tvg-logo="https://epg.iill.top/logo/OG2024.png" group-title="•咪咕「奥运」", 「羽毛球」19:30 🇨🇳小组赛 雅思组合亮相 李嘉滢
+#EXTINF:-1 tvg-logo="https://epg.iill.top/logo/OG2024.png" group-title="•咪咕「奥运」", 「竞技体操」15:25 第2比赛日 赛场原声
 https://tv.iill.top/OG/79
-#EXTINF:-1 tvg-logo="https://epg.iill.top/logo/OG2024.png" group-title="•咪咕「奥运」", 「羽毛球」19:30 🇨🇳小组赛 雅思组合亮相 AVS
+#EXTINF:-1 tvg-logo="https://epg.iill.top/logo/OG2024.png" group-title="•咪咕「奥运」", 「竞技体操」15:25 第2比赛日 自由体操
 https://tv.iill.top/OG/80
-#EXTINF:-1 tvg-logo="https://epg.iill.top/logo/OG2024.png" group-title="•咪咕「奥运」", 「羽毛球」19:30 🇨🇳小组赛 雅思组合亮相 1号场原声
+#EXTINF:-1 tvg-logo="https://epg.iill.top/logo/OG2024.png" group-title="•咪咕「奥运」", 「竞技体操」15:25 第2比赛日 平衡木
 https://tv.iill.top/OG/81
-#EXTINF:-1 tvg-logo="https://epg.iill.top/logo/OG2024.png" group-title="•咪咕「奥运」", 「羽毛球」19:30 🇨🇳小组赛 雅思组合亮相 2号场原声
+#EXTINF:-1 tvg-logo="https://epg.iill.top/logo/OG2024.png" group-title="•咪咕「奥运」", 「竞技体操」15:25 第2比赛日 跳马
 https://tv.iill.top/OG/82
-#EXTINF:-1 tvg-logo="https://epg.iill.top/logo/OG2024.png" group-title="•咪咕「奥运」", 「羽毛球」19:30 🇨🇳小组赛 雅思组合亮相 3号场原声
+#EXTINF:-1 tvg-logo="https://epg.iill.top/logo/OG2024.png" group-title="•咪咕「奥运」", 「竞技体操」15:25 第2比赛日 高低杠
 https://tv.iill.top/OG/83
-#EXTINF:-1 tvg-logo="https://epg.iill.top/logo/OG2024.png" group-title="•咪咕「奥运」", 「手球」19:50 男子预赛A组：克罗地亚 VS 日本 杨淏淞
+#EXTINF:-1 tvg-logo="https://epg.iill.top/logo/OG2024.png" group-title="•咪咕「奥运」", 「击剑」15:25 🇨🇳第2比赛日 64强至8强赛 红垫刘子健 解说
 https://tv.iill.top/OG/84
-#EXTINF:-1 tvg-logo="https://epg.iill.top/logo/OG2024.png" group-title="•咪咕「奥运」", 「手球」19:50 男子预赛A组：克罗地亚 VS 日本 赛场原声
+#EXTINF:-1 tvg-logo="https://epg.iill.top/logo/OG2024.png" group-title="•咪咕「奥运」", 「击剑」15:25 🇨🇳第2比赛日 64强至8强赛 黄垫韩健 解说
 https://tv.iill.top/OG/85
-#EXTINF:-1 tvg-logo="https://epg.iill.top/logo/OG2024.png" group-title="•咪咕「奥运」", 「水球」19:50 女子预赛A组：荷兰 VS 匈牙利 郑好
+#EXTINF:-1 tvg-logo="https://epg.iill.top/logo/OG2024.png" group-title="•咪咕「奥运」", 「击剑」15:25 🇨🇳第2比赛日 64强至8强赛 蓝垫底逸凡 解说
 https://tv.iill.top/OG/86
-#EXTINF:-1 tvg-logo="https://epg.iill.top/logo/OG2024.png" group-title="•咪咕「奥运」", 「水球」19:50 女子预赛A组：荷兰 VS 匈牙利 赛场原声
+#EXTINF:-1 tvg-logo="https://epg.iill.top/logo/OG2024.png" group-title="•咪咕「奥运」", 「击剑」15:25 🇨🇳第2比赛日 64强至8强赛 绿垫刘凡绫 解说
 https://tv.iill.top/OG/87
-#EXTINF:-1 tvg-logo="https://epg.iill.top/logo/OG2024.png" group-title="•咪咕「奥运」", 「沙滩排球」19:55 小组赛第1比赛日早场 朱弈卫
+#EXTINF:-1 tvg-logo="https://epg.iill.top/logo/OG2024.png" group-title="•咪咕「奥运」", 「击剑」15:25 🇨🇳第2比赛日 64强至8强赛 红色剑道
 https://tv.iill.top/OG/88
-#EXTINF:-1 tvg-logo="https://epg.iill.top/logo/OG2024.png" group-title="•咪咕「奥运」", 「沙滩排球」19:55 小组赛第1比赛日早场 清流DX38
+#EXTINF:-1 tvg-logo="https://epg.iill.top/logo/OG2024.png" group-title="•咪咕「奥运」", 「击剑」15:25 🇨🇳第2比赛日 64强至8强赛 黄色剑道
 https://tv.iill.top/OG/89
-#EXTINF:-1 tvg-logo="https://epg.iill.top/logo/OG2024.png" group-title="•咪咕「奥运」", 「七人制橄榄球」20:20 🏅男子排名赛、半决赛和决赛 李书峰
+#EXTINF:-1 tvg-logo="https://epg.iill.top/logo/OG2024.png" group-title="•咪咕「奥运」", 「击剑」15:25 🇨🇳第2比赛日 64强至8强赛 蓝色剑道
 https://tv.iill.top/OG/90
-#EXTINF:-1 tvg-logo="https://epg.iill.top/logo/OG2024.png" group-title="•咪咕「奥运」", 「七人制橄榄球」20:20 🏅男子排名赛、半决赛和决赛 清流DX42
+#EXTINF:-1 tvg-logo="https://epg.iill.top/logo/OG2024.png" group-title="•咪咕「奥运」", 「击剑」15:25 🇨🇳第2比赛日 64强至8强赛 绿色剑道
 https://tv.iill.top/OG/91
-#EXTINF:-1 tvg-logo="https://epg.iill.top/logo/OG2024.png" group-title="•咪咕「奥运」", 「公路自行车」20:25 🏅🇨🇳女子个人计时赛
+#EXTINF:-1 tvg-logo="https://epg.iill.top/logo/OG2024.png" group-title="•咪咕「奥运」", 「曲棍球」15:50 🇨🇳女子分组循环赛A组：比利时 VS 中国
 https://tv.iill.top/OG/92
-#EXTINF:-1 tvg-logo="https://epg.iill.top/logo/OG2024.png" group-title="•咪咕「奥运」", 「公路自行车」20:25 🏅🇨🇳女子个人计时赛 清流DX13
+#EXTINF:-1 tvg-logo="https://epg.iill.top/logo/OG2024.png" group-title="•咪咕「奥运」", 「曲棍球」15:50 🇨🇳女子分组循环赛A组：比利时 VS 中国 清流DX40
 https://tv.iill.top/OG/93
-#EXTINF:-1 tvg-logo="https://epg.iill.top/logo/OG2024.png" group-title="•咪咕「奥运」", 「足球」20:50 男子B组：阿根廷 VS 伊拉克 张昊泽
+#EXTINF:-1 tvg-logo="https://epg.iill.top/logo/OG2024.png" group-title="•咪咕「奥运」", 「柔道」15:55 🇨🇳男子66公斤级、女子52公斤级预赛 王腾霄
 https://tv.iill.top/OG/94
-#EXTINF:-1 tvg-logo="https://epg.iill.top/logo/OG2024.png" group-title="•咪咕「奥运」", 「足球」20:50 男子B组：阿根廷 VS 伊拉克 清流DX01
+#EXTINF:-1 tvg-logo="https://epg.iill.top/logo/OG2024.png" group-title="•咪咕「奥运」", 「柔道」15:55 🇨🇳男子66公斤级、女子52公斤级预赛 张凌宇
 https://tv.iill.top/OG/95
-#EXTINF:-1 tvg-logo="https://epg.iill.top/logo/OG2024.png" group-title="•咪咕「奥运」", 「足球」20:50 男子C组：多米尼加 VS 西班牙 梁祥宇
+#EXTINF:-1 tvg-logo="https://epg.iill.top/logo/OG2024.png" group-title="•咪咕「奥运」", 「柔道」15:55 🇨🇳男子66公斤级、女子52公斤级预赛 1号垫
 https://tv.iill.top/OG/96
-#EXTINF:-1 tvg-logo="https://epg.iill.top/logo/OG2024.png" group-title="•咪咕「奥运」", 「足球」20:50 男子C组：多米尼加 VS 西班牙 清流DX15
+#EXTINF:-1 tvg-logo="https://epg.iill.top/logo/OG2024.png" group-title="•咪咕「奥运」", 「柔道」15:55 🇨🇳男子66公斤级、女子52公斤级预赛 2号垫
 https://tv.iill.top/OG/97
-#EXTINF:-1 tvg-logo="https://epg.iill.top/logo/OG2024.png" group-title="•咪咕「奥运」", 「皮划艇激流回旋」20:55 🇨🇳第1比赛日 曲可乐
+#EXTINF:-1 tvg-logo="https://epg.iill.top/logo/OG2024.png" group-title="•咪咕「奥运」", 「乒乓球」15:55 🇨🇳男女单打1/32决赛 马行飞
 https://tv.iill.top/OG/98
-#EXTINF:-1 tvg-logo="https://epg.iill.top/logo/OG2024.png" group-title="•咪咕「奥运」", 「皮划艇激流回旋」20:55 🇨🇳第1比赛日 清流DX19
+#EXTINF:-1 tvg-logo="https://epg.iill.top/logo/OG2024.png" group-title="•咪咕「奥运」", 「乒乓球」15:55 🇨🇳男女单打1/32决赛 周冠达
 https://tv.iill.top/OG/99
-#EXTINF:-1 tvg-logo="https://epg.iill.top/logo/OG2024.png" group-title="•咪咕「奥运」", 「乒乓球」20:55 男女单打预赛 周冠达
+#EXTINF:-1 tvg-logo="https://epg.iill.top/logo/OG2024.png" group-title="•咪咕「奥运」", 「乒乓球」15:55 🇨🇳男女单打1/32决赛 宋大为
 https://tv.iill.top/OG/100
-#EXTINF:-1 tvg-logo="https://epg.iill.top/logo/OG2024.png" group-title="•咪咕「奥运」", 「乒乓球」20:55 男女单打预赛 周轩逸
+#EXTINF:-1 tvg-logo="https://epg.iill.top/logo/OG2024.png" group-title="•咪咕「奥运」", 「乒乓球」15:55 🇨🇳男女单打1/32决赛 庞优优
 https://tv.iill.top/OG/101
-#EXTINF:-1 tvg-logo="https://epg.iill.top/logo/OG2024.png" group-title="•咪咕「奥运」", 「乒乓球」20:55 男女单打预赛
+#EXTINF:-1 tvg-logo="https://epg.iill.top/logo/OG2024.png" group-title="•咪咕「奥运」", 「乒乓球」15:55 🇨🇳男女单打1/32决赛 1号桌
 https://tv.iill.top/OG/102
-#EXTINF:-1 tvg-logo="https://epg.iill.top/logo/OG2024.png" group-title="•咪咕「奥运」", 「乒乓球」20:55 男女单打预赛 1号桌
+#EXTINF:-1 tvg-logo="https://epg.iill.top/logo/OG2024.png" group-title="•咪咕「奥运」", 「乒乓球」15:55 🇨🇳男女单打1/32决赛 2号桌
 https://tv.iill.top/OG/103
-#EXTINF:-1 tvg-logo="https://epg.iill.top/logo/OG2024.png" group-title="•咪咕「奥运」", 「乒乓球」20:55 男女单打预赛 2号桌
+#EXTINF:-1 tvg-logo="https://epg.iill.top/logo/OG2024.png" group-title="•咪咕「奥运」", 「乒乓球」15:55 🇨🇳男女单打1/32决赛 3号桌
 https://tv.iill.top/OG/104
-#EXTINF:-1 tvg-logo="https://epg.iill.top/logo/OG2024.png" group-title="•咪咕「奥运」", 「乒乓球」20:55 男女单打预赛 3号桌
+#EXTINF:-1 tvg-logo="https://epg.iill.top/logo/OG2024.png" group-title="•咪咕「奥运」", 「乒乓球」15:55 🇨🇳男女单打1/32决赛 4号桌
 https://tv.iill.top/OG/105
-#EXTINF:-1 tvg-logo="https://epg.iill.top/logo/OG2024.png" group-title="•咪咕「奥运」", 「乒乓球」20:55 男女单打预赛 4号桌
+#EXTINF:-1 tvg-logo="https://epg.iill.top/logo/OG2024.png" group-title="•咪咕「奥运」", 「曲棍球」16:20 女子分组循环赛A组：德国 VS 日本 奉俊良
 https://tv.iill.top/OG/106
-#EXTINF:-1 tvg-logo="https://epg.iill.top/logo/OG2024.png" group-title="•咪咕「奥运」", 「拳击」21:25 女子60公斤级等多项预赛、1/16决赛 张凌宇
+#EXTINF:-1 tvg-logo="https://epg.iill.top/logo/OG2024.png" group-title="•咪咕「奥运」", 「曲棍球」16:20 女子分组循环赛A组：德国 VS 日本 清流DX41
 https://tv.iill.top/OG/107
-#EXTINF:-1 tvg-logo="https://epg.iill.top/logo/OG2024.png" group-title="•咪咕「奥运」", 「拳击」21:25 女子60公斤级等多项预赛、1/16决赛 清流DX35
+#EXTINF:-1 tvg-logo="https://epg.iill.top/logo/OG2024.png" group-title="•咪咕「奥运」", 「水球」16:20 男子预赛B组：澳大利亚 VS 西班牙 汪粤
 https://tv.iill.top/OG/108
-#EXTINF:-1 tvg-logo="https://epg.iill.top/logo/OG2024.png" group-title="•咪咕「奥运」", 「水球」21:30 女子预赛B组：希腊 VS 美国 郑好
+#EXTINF:-1 tvg-logo="https://epg.iill.top/logo/OG2024.png" group-title="•咪咕「奥运」", 「水球」16:20 男子预赛B组：澳大利亚 VS 西班牙 清流DX44
 https://tv.iill.top/OG/109
-#EXTINF:-1 tvg-logo="https://epg.iill.top/logo/OG2024.png" group-title="•咪咕「奥运」", 「水球」21:30 女子预赛B组：希腊 VS 美国 赛场原声
+#EXTINF:-1 tvg-logo="https://epg.iill.top/logo/OG2024.png" group-title="•咪咕「奥运」", 「马术」16:20 🇨🇳三项赛个人、团体越野赛 尹少坤 阮杰
 https://tv.iill.top/OG/110
-#EXTINF:-1 tvg-logo="https://epg.iill.top/logo/OG2024.png" group-title="•咪咕「奥运」", 「乒乓球」21:30 🇨🇳混双1/8决赛：莎头首战埃及组合 《AI乒中国》第一期（邓亚萍、丁宁） 邓亚萍丁宁
+#EXTINF:-1 tvg-logo="https://epg.iill.top/logo/OG2024.png" group-title="•咪咕「奥运」", 「马术」16:20 🇨🇳三项赛个人、团体越野赛 赛场原声
 https://tv.iill.top/OG/111
-#EXTINF:-1 tvg-logo="https://epg.iill.top/logo/OG2024.png" group-title="•咪咕「奥运」", 「乒乓球」21:30 🇨🇳混双1/8决赛：莎头首战埃及组合 周冠达
+#EXTINF:-1 tvg-logo="https://epg.iill.top/logo/OG2024.png" group-title="•咪咕「奥运」", 「游泳」16:30 🇨🇳第2比赛日各项预赛 解说
 https://tv.iill.top/OG/112
-#EXTINF:-1 tvg-logo="https://epg.iill.top/logo/OG2024.png" group-title="•咪咕「奥运」", 「乒乓球」21:30 🇨🇳混双1/8决赛：莎头首战埃及组合 周轩逸
+#EXTINF:-1 tvg-logo="https://epg.iill.top/logo/OG2024.png" group-title="•咪咕「奥运」", 「游泳」16:30 🇨🇳第2比赛日各项预赛 清流DX05
 https://tv.iill.top/OG/113
-#EXTINF:-1 tvg-logo="https://epg.iill.top/logo/OG2024.png" group-title="•咪咕「奥运」", 「乒乓球」21:30 🇨🇳混双1/8决赛：莎头首战埃及组合 傅悦修
+#EXTINF:-1 tvg-logo="https://epg.iill.top/logo/OG2024.png" group-title="•咪咕「奥运」", 「篮球」16:50 男子小组赛C组：南苏丹 VS 波多黎各 刘圳展 季孟年
 https://tv.iill.top/OG/114
-#EXTINF:-1 tvg-logo="https://epg.iill.top/logo/OG2024.png" group-title="•咪咕「奥运」", 「乒乓球」21:30 🇨🇳混双1/8决赛：莎头首战埃及组合
+#EXTINF:-1 tvg-logo="https://epg.iill.top/logo/OG2024.png" group-title="•咪咕「奥运」", 「篮球」16:50 男子小组赛C组：南苏丹 VS 波多黎各 清流DX36
 https://tv.iill.top/OG/115
-#EXTINF:-1 tvg-logo="https://epg.iill.top/logo/OG2024.png" group-title="•咪咕「奥运」", 「乒乓球」21:30 🇨🇳混双1/8决赛：莎头首战埃及组合 1号桌
+#EXTINF:-1 tvg-logo="https://epg.iill.top/logo/OG2024.png" group-title="•咪咕「奥运」", 「手球」16:50 女子预赛A组：韩国 VS 斯洛文尼亚 石伟
 https://tv.iill.top/OG/116
-#EXTINF:-1 tvg-logo="https://epg.iill.top/logo/OG2024.png" group-title="•咪咕「奥运」", 「乒乓球」21:30 🇨🇳混双1/8决赛：莎头首战埃及组合 2号桌
+#EXTINF:-1 tvg-logo="https://epg.iill.top/logo/OG2024.png" group-title="•咪咕「奥运」", 「手球」16:50 女子预赛A组：韩国 VS 斯洛文尼亚 清流DX39
 https://tv.iill.top/OG/117
-#EXTINF:-1 tvg-logo="https://epg.iill.top/logo/OG2024.png" group-title="•咪咕「奥运」", 「乒乓球」21:30 🇨🇳混双1/8决赛：莎头首战埃及组合 3号桌
+#EXTINF:-1 tvg-logo="https://epg.iill.top/logo/OG2024.png" group-title="•咪咕「奥运」", 「拳击」16:55 女子92公斤级等多项预赛 姚翔
 https://tv.iill.top/OG/118
-#EXTINF:-1 tvg-logo="https://epg.iill.top/logo/OG2024.png" group-title="•咪咕「奥运」", 「乒乓球」21:30 🇨🇳混双1/8决赛：莎头首战埃及组合 4号桌
+#EXTINF:-1 tvg-logo="https://epg.iill.top/logo/OG2024.png" group-title="•咪咕「奥运」", 「拳击」16:55 女子92公斤级等多项预赛 赛场原声
 https://tv.iill.top/OG/119
-#EXTINF:-1 tvg-logo="https://epg.iill.top/logo/OG2024.png" group-title="•咪咕「奥运」", 「手球」21:55 男子预赛B组：挪威 VS 阿根廷 杨淏淞
+#EXTINF:-1 tvg-logo="https://epg.iill.top/logo/OG2024.png" group-title="•咪咕「奥运」", 「射击」17:45 🏅🇨🇳女子10米气手枪决赛 解说
 https://tv.iill.top/OG/120
-#EXTINF:-1 tvg-logo="https://epg.iill.top/logo/OG2024.png" group-title="•咪咕「奥运」", 「手球」21:55 男子预赛B组：挪威 VS 阿根廷 赛场原声
+#EXTINF:-1 tvg-logo="https://epg.iill.top/logo/OG2024.png" group-title="•咪咕「奥运」", 「射击」17:45 🏅🇨🇳女子10米气手枪决赛 原声
 https://tv.iill.top/OG/121
-#EXTINF:-1 tvg-logo="https://epg.iill.top/logo/OG2024.png" group-title="•咪咕「奥运」", 「柔道」21:55 🏅女子48公斤级、男子60公斤级决赛 王腾霄
+#EXTINF:-1 tvg-logo="https://epg.iill.top/logo/OG2024.png" group-title="•咪咕「奥运」", 「网球」17:55 第2比赛日日场
 https://tv.iill.top/OG/122
-#EXTINF:-1 tvg-logo="https://epg.iill.top/logo/OG2024.png" group-title="•咪咕「奥运」", 「柔道」21:55 🏅女子48公斤级、男子60公斤级决赛 清流DX33
+#EXTINF:-1 tvg-logo="https://epg.iill.top/logo/OG2024.png" group-title="•咪咕「奥运」", 「网球」17:55 第2比赛日日场
 https://tv.iill.top/OG/123
-#EXTINF:-1 tvg-logo="https://epg.iill.top/logo/OG2024.png" group-title="•咪咕「奥运」", 「公路自行车」22:27 🏅男子个人计时赛
+#EXTINF:-1 tvg-logo="https://epg.iill.top/logo/OG2024.png" group-title="•咪咕「奥运」", 「网球」17:55 第2比赛日日场 清流DX25
 https://tv.iill.top/OG/124
-#EXTINF:-1 tvg-logo="https://epg.iill.top/logo/OG2024.png" group-title="•咪咕「奥运」", 「公路自行车」22:27 🏅男子个人计时赛 清流DX13
+#EXTINF:-1 tvg-logo="https://epg.iill.top/logo/OG2024.png" group-title="•咪咕「奥运」", 「网球」17:55 第2比赛日日场 清流DX26
 https://tv.iill.top/OG/125
-#EXTINF:-1 tvg-logo="https://epg.iill.top/logo/OG2024.png" group-title="•咪咕「奥运」", 「排球」22:50 男子预赛B组：波兰 VS 埃及 崔佳
+#EXTINF:-1 tvg-logo="https://epg.iill.top/logo/OG2024.png" group-title="•咪咕「奥运」", 「网球」17:55 第2比赛日日场 清流DX27
 https://tv.iill.top/OG/126
-#EXTINF:-1 tvg-logo="https://epg.iill.top/logo/OG2024.png" group-title="•咪咕「奥运」", 「排球」22:50 男子预赛B组：波兰 VS 埃及 清流DX43
+#EXTINF:-1 tvg-logo="https://epg.iill.top/logo/OG2024.png" group-title="•咪咕「奥运」", 「网球」17:55 第2比赛日日场 乔迁 张诗愉/远程高校
 https://tv.iill.top/OG/127
-#EXTINF:-1 tvg-logo="https://epg.iill.top/logo/OG2024.png" group-title="•咪咕「奥运」", 「曲棍球」22:50 男子分组循环赛A组：德国 VS 法国 赛洋
+#EXTINF:-1 tvg-logo="https://epg.iill.top/logo/OG2024.png" group-title="•咪咕「奥运」", 「网球」17:55 第2比赛日日场 清流DX28
 https://tv.iill.top/OG/128
-#EXTINF:-1 tvg-logo="https://epg.iill.top/logo/OG2024.png" group-title="•咪咕「奥运」", 「曲棍球」22:50 男子分组循环赛A组：德国 VS 法国 清流DX40
+#EXTINF:-1 tvg-logo="https://epg.iill.top/logo/OG2024.png" group-title="•咪咕「奥运」", 「网球」17:55 第2比赛日日场 文勇杰
 https://tv.iill.top/OG/129
-#EXTINF:-1 tvg-logo="https://epg.iill.top/logo/OG2024.png" group-title="•咪咕「奥运」", 「足球」22:50 男子B组：乌克兰 VS 摩洛哥 刘腾
+#EXTINF:-1 tvg-logo="https://epg.iill.top/logo/OG2024.png" group-title="•咪咕「奥运」", 「网球」17:55 第2比赛日日场 清流DX29
 https://tv.iill.top/OG/130
-#EXTINF:-1 tvg-logo="https://epg.iill.top/logo/OG2024.png" group-title="•咪咕「奥运」", 「足球」22:50 男子B组：乌克兰 VS 摩洛哥 清流DX17
+#EXTINF:-1 tvg-logo="https://epg.iill.top/logo/OG2024.png" group-title="•咪咕「奥运」", 「网球」17:55 第2比赛日日场 房朕 李静雯/远程高校
 https://tv.iill.top/OG/131
-#EXTINF:-1 tvg-logo="https://epg.iill.top/logo/OG2024.png" group-title="•咪咕「奥运」", 「足球」22:50 男子C组：乌兹别克斯坦 VS 埃及 涂远
+#EXTINF:-1 tvg-logo="https://epg.iill.top/logo/OG2024.png" group-title="•咪咕「奥运」", 「网球」17:55 第2比赛日日场/远程解说
 https://tv.iill.top/OG/132
-#EXTINF:-1 tvg-logo="https://epg.iill.top/logo/OG2024.png" group-title="•咪咕「奥运」", 「足球」22:50 男子C组：乌兹别克斯坦 VS 埃及 清流DX34
+#EXTINF:-1 tvg-logo="https://epg.iill.top/logo/OG2024.png" group-title="•咪咕「奥运」", 「网球」17:55 第2比赛日日场 蔡凯臣 佟艺/远程高校
 https://tv.iill.top/OG/133
-#EXTINF:-1 tvg-logo="https://epg.iill.top/logo/OG2024.png" group-title="•咪咕「奥运」", 「滑板」22:55 🏅男子街式赛决赛 解说
+#EXTINF:-1 tvg-logo="https://epg.iill.top/logo/OG2024.png" group-title="•咪咕「奥运」", 「网球」17:55 第2比赛日日场 单文强 张钰琪/远程高校
 https://tv.iill.top/OG/134
-#EXTINF:-1 tvg-logo="https://epg.iill.top/logo/OG2024.png" group-title="•咪咕「奥运」", 「滑板」22:55 🏅男子街式赛决赛 原声
+#EXTINF:-1 tvg-logo="https://epg.iill.top/logo/OG2024.png" group-title="•咪咕「奥运」", 「网球」17:55 第2比赛日日场/远程解说
 https://tv.iill.top/OG/135
-#EXTINF:-1 tvg-logo="https://epg.iill.top/logo/OG2024.png" group-title="•咪咕「奥运」", 「篮球」23:00 男子小组赛B组：法国 VS 巴西 解说
+#EXTINF:-1 tvg-logo="https://epg.iill.top/logo/OG2024.png" group-title="•咪咕「奥运」", 「网球」17:55 第2比赛日日场 范嘉琛 马振楷/远程高校
 https://tv.iill.top/OG/136
-#EXTINF:-1 tvg-logo="https://epg.iill.top/logo/OG2024.png" group-title="•咪咕「奥运」", 「篮球」23:00 男子小组赛B组：法国 VS 巴西 赛场原声
+#EXTINF:-1 tvg-logo="https://epg.iill.top/logo/OG2024.png" group-title="•咪咕「奥运」", 「网球」17:55 第2比赛日日场 岳亮 杨昊宸/远程高校
 https://tv.iill.top/OG/137
-#EXTINF:-1 tvg-logo="https://epg.iill.top/logo/OG2024.png" group-title="•咪咕「奥运」", 「曲棍球」23:20 男子分组循环赛B组：印度 VS 新西兰 张嘉仪
+#EXTINF:-1 tvg-logo="https://epg.iill.top/logo/OG2024.png" group-title="•咪咕「奥运」", 「网球」17:55 第2比赛日日场 宁浴光 贾媛媛/远程高校
 https://tv.iill.top/OG/138
-#EXTINF:-1 tvg-logo="https://epg.iill.top/logo/OG2024.png" group-title="•咪咕「奥运」", 「曲棍球」23:20 男子分组循环赛B组：印度 VS 新西兰 清流DX41
+#EXTINF:-1 tvg-logo="https://epg.iill.top/logo/OG2024.png" group-title="•咪咕「奥运」", 「滑板」17:55 🇨🇳女子街式预赛 崔宸曦领衔出战 解说
 https://tv.iill.top/OG/139
-#EXTINF:-1 tvg-logo="https://epg.iill.top/logo/咪咕.png" group-title="•咪咕「体育」", 「中超」18:45 联赛 长春亚泰vs沧州雄狮 解说
+#EXTINF:-1 tvg-logo="https://epg.iill.top/logo/OG2024.png" group-title="•咪咕「奥运」", 「滑板」17:55 🇨🇳女子街式预赛 崔宸曦领衔出战 原声
+https://tv.iill.top/OG/140
+#EXTINF:-1 tvg-logo="https://epg.iill.top/logo/OG2024.png" group-title="•咪咕「奥运」", 「水球」17:55 男子预赛B组：塞尔维亚 VS 日本 汪粤
+https://tv.iill.top/OG/141
+#EXTINF:-1 tvg-logo="https://epg.iill.top/logo/OG2024.png" group-title="•咪咕「奥运」", 「水球」17:55 男子预赛B组：塞尔维亚 VS 日本 清流DX44
+https://tv.iill.top/OG/142
+#EXTINF:-1 tvg-logo="https://epg.iill.top/logo/OG2024.png" group-title="•咪咕「奥运」", 「帆船」18:00 🇨🇳第1比赛日 中国军团出战
+https://tv.iill.top/OG/143
+#EXTINF:-1 tvg-logo="https://epg.iill.top/logo/OG2024.png" group-title="•咪咕「奥运」", 「帆船」18:00 🇨🇳第1比赛日 中国军团出战 原声
+https://tv.iill.top/OG/144
+#EXTINF:-1 tvg-logo="https://epg.iill.top/logo/OG2024.png" group-title="•咪咕「奥运」", 「曲棍球」18:35 女子分组循环赛B组：澳大利亚 VS 南非 丁一
+https://tv.iill.top/OG/145
+#EXTINF:-1 tvg-logo="https://epg.iill.top/logo/OG2024.png" group-title="•咪咕「奥运」", 「曲棍球」18:35 女子分组循环赛B组：澳大利亚 VS 南非 清流DX40
+https://tv.iill.top/OG/146
+#EXTINF:-1 tvg-logo="https://epg.iill.top/logo/OG2024.png" group-title="•咪咕「奥运」", 「排球」18:50 女子预赛B组：波兰 VS 日本 朱弈卫
+https://tv.iill.top/OG/147
+#EXTINF:-1 tvg-logo="https://epg.iill.top/logo/OG2024.png" group-title="•咪咕「奥运」", 「排球」18:50 女子预赛B组：波兰 VS 日本 赛场原声
+https://tv.iill.top/OG/148
+#EXTINF:-1 tvg-logo="https://epg.iill.top/logo/OG2024.png" group-title="•咪咕「奥运」", 「篮球」19:00 🇨🇳女子小组赛A组：西班牙 VS 中国 解说
+https://tv.iill.top/OG/149
+#EXTINF:-1 tvg-logo="https://epg.iill.top/logo/OG2024.png" group-title="•咪咕「奥运」", 「篮球」19:00 🇨🇳女子小组赛A组：西班牙 VS 中国 闽南语
+https://tv.iill.top/OG/150
+#EXTINF:-1 tvg-logo="https://epg.iill.top/logo/OG2024.png" group-title="•咪咕「奥运」", 「篮球」19:00 🇨🇳女子小组赛A组：西班牙 VS 中国 AVS3
+https://tv.iill.top/OG/151
+#EXTINF:-1 tvg-logo="https://epg.iill.top/logo/OG2024.png" group-title="•咪咕「奥运」", 「篮球」19:00 🇨🇳女子小组赛A组：西班牙 VS 中国 清流DX36
+https://tv.iill.top/OG/152
+#EXTINF:-1 tvg-logo="https://epg.iill.top/logo/OG2024.png" group-title="•咪咕「奥运」", 「曲棍球」19:05 女子分组循环赛B组：英国 VS 西班牙 格日勒图
+https://tv.iill.top/OG/153
+#EXTINF:-1 tvg-logo="https://epg.iill.top/logo/OG2024.png" group-title="•咪咕「奥运」", 「曲棍球」19:05 女子分组循环赛B组：英国 VS 西班牙 清流DX41
+https://tv.iill.top/OG/154
+#EXTINF:-1 tvg-logo="https://epg.iill.top/logo/OG2024.png" group-title="•咪咕「奥运」", 「手球」19:50 女子预赛A组：瑞典 VS 德国 黄泽宇
+https://tv.iill.top/OG/155
+#EXTINF:-1 tvg-logo="https://epg.iill.top/logo/OG2024.png" group-title="•咪咕「奥运」", 「手球」19:50 女子预赛A组：瑞典 VS 德国 清流DX39
+https://tv.iill.top/OG/156
+#EXTINF:-1 tvg-logo="https://epg.iill.top/logo/OG2024.png" group-title="•咪咕「奥运」", 「羽毛球」19:55 🇨🇳小组赛 卫冕冠军陈雨菲亮相2 杨弋非
+https://tv.iill.top/OG/157
+#EXTINF:-1 tvg-logo="https://epg.iill.top/logo/OG2024.png" group-title="•咪咕「奥运」", 「羽毛球」19:55 🇨🇳小组赛 卫冕冠军陈雨菲亮相1 汤骁宇
+https://tv.iill.top/OG/158
+#EXTINF:-1 tvg-logo="https://epg.iill.top/logo/OG2024.png" group-title="•咪咕「奥运」", 「羽毛球」19:55 🇨🇳小组赛 卫冕冠军陈雨菲亮相3 孙宁智
+https://tv.iill.top/OG/159
+#EXTINF:-1 tvg-logo="https://epg.iill.top/logo/OG2024.png" group-title="•咪咕「奥运」", 「羽毛球」19:55 🇨🇳小组赛 卫冕冠军陈雨菲亮相 AVS
+https://tv.iill.top/OG/160
+#EXTINF:-1 tvg-logo="https://epg.iill.top/logo/OG2024.png" group-title="•咪咕「奥运」", 「羽毛球」19:55 🇨🇳小组赛 卫冕冠军陈雨菲亮相 1号场地原声 赛场原声
+https://tv.iill.top/OG/161
+#EXTINF:-1 tvg-logo="https://epg.iill.top/logo/OG2024.png" group-title="•咪咕「奥运」", 「羽毛球」19:55 🇨🇳小组赛 卫冕冠军陈雨菲亮相 2号场地原声 赛场原声
+https://tv.iill.top/OG/162
+#EXTINF:-1 tvg-logo="https://epg.iill.top/logo/OG2024.png" group-title="•咪咕「奥运」", 「羽毛球」19:55 🇨🇳小组赛 卫冕冠军陈雨菲亮相 3号场地原声 赛场原声
+https://tv.iill.top/OG/163
+#EXTINF:-1 tvg-logo="https://epg.iill.top/logo/OG2024.png" group-title="•咪咕「奥运」", 「山地自行车」19:55 🏅🇨🇳女子越野赛 伍志帆出战
+https://tv.iill.top/OG/164
+#EXTINF:-1 tvg-logo="https://epg.iill.top/logo/OG2024.png" group-title="•咪咕「奥运」", 「山地自行车」19:55 🏅🇨🇳女子越野赛 伍志帆出战 原声
+https://tv.iill.top/OG/165
+#EXTINF:-1 tvg-logo="https://epg.iill.top/logo/OG2024.png" group-title="•咪咕「奥运」", 「射箭」20:00 🏅🇨🇳女子团体1/4决赛、半决赛、金牌赛 中国队
+https://tv.iill.top/OG/166
+#EXTINF:-1 tvg-logo="https://epg.iill.top/logo/OG2024.png" group-title="•咪咕「奥运」", 「射箭」20:00 🏅🇨🇳女子团体1/4决赛、半决赛、金牌赛 清流DX01
+https://tv.iill.top/OG/167
+#EXTINF:-1 tvg-logo="https://epg.iill.top/logo/OG2024.png" group-title="•咪咕「奥运」", 「水球」20:50 男子预赛A组：意大利 VS 美国 郑好
+https://tv.iill.top/OG/168
+#EXTINF:-1 tvg-logo="https://epg.iill.top/logo/OG2024.png" group-title="•咪咕「奥运」", 「水球」20:50 男子预赛A组：意大利 VS 美国 清流DX44
+https://tv.iill.top/OG/169
+#EXTINF:-1 tvg-logo="https://epg.iill.top/logo/OG2024.png" group-title="•咪咕「奥运」", 「沙滩排球」20:50 小组赛第2比赛日午场 范贵懿
+https://tv.iill.top/OG/170
+#EXTINF:-1 tvg-logo="https://epg.iill.top/logo/OG2024.png" group-title="•咪咕「奥运」", 「沙滩排球」20:50 小组赛第2比赛日午场 现场原声
+https://tv.iill.top/OG/171
+#EXTINF:-1 tvg-logo="https://epg.iill.top/logo/OG2024.png" group-title="•咪咕「奥运」", 「乒乓球」21:00 混双1/4决赛 《AI乒中国》第二期（程靖淇、马特） 程靖淇马特
+https://tv.iill.top/OG/172
+#EXTINF:-1 tvg-logo="https://epg.iill.top/logo/OG2024.png" group-title="•咪咕「奥运」", 「乒乓球」21:00 混双1/4决赛 周冠达
+https://tv.iill.top/OG/173
+#EXTINF:-1 tvg-logo="https://epg.iill.top/logo/OG2024.png" group-title="•咪咕「奥运」", 「乒乓球」21:00 混双1/4决赛 马行飞 李静月
+https://tv.iill.top/OG/174
+#EXTINF:-1 tvg-logo="https://epg.iill.top/logo/OG2024.png" group-title="•咪咕「奥运」", 「乒乓球」21:00 混双1/4决赛 清流DX21
+https://tv.iill.top/OG/175
+#EXTINF:-1 tvg-logo="https://epg.iill.top/logo/OG2024.png" group-title="•咪咕「奥运」", 「乒乓球」21:00 混双1/4决赛 清流DX22
+https://tv.iill.top/OG/176
+#EXTINF:-1 tvg-logo="https://epg.iill.top/logo/OG2024.png" group-title="•咪咕「奥运」", 「七人制橄榄球」21:20 🇨🇳女子第1比赛日 李书峰 邢天宇/远程解说
+https://tv.iill.top/OG/177
+#EXTINF:-1 tvg-logo="https://epg.iill.top/logo/OG2024.png" group-title="•咪咕「奥运」", 「七人制橄榄球」21:20 🇨🇳女子第1比赛日 赛场原声
+https://tv.iill.top/OG/178
+#EXTINF:-1 tvg-logo="https://epg.iill.top/logo/OG2024.png" group-title="•咪咕「奥运」", 「皮划艇激流回旋」21:25 🏅🇨🇳第2比赛日 李念
+https://tv.iill.top/OG/179
+#EXTINF:-1 tvg-logo="https://epg.iill.top/logo/OG2024.png" group-title="•咪咕「奥运」", 「皮划艇激流回旋」21:25 🏅🇨🇳第2比赛日 赛场原声
+https://tv.iill.top/OG/180
+#EXTINF:-1 tvg-logo="https://epg.iill.top/logo/OG2024.png" group-title="•咪咕「奥运」", 「手球」21:50 女子预赛A组：丹麦 VS 挪威 黄泽宇
+https://tv.iill.top/OG/181
+#EXTINF:-1 tvg-logo="https://epg.iill.top/logo/OG2024.png" group-title="•咪咕「奥运」", 「手球」21:50 女子预赛A组：丹麦 VS 挪威 清流DX39
+https://tv.iill.top/OG/182
+#EXTINF:-1 tvg-logo="https://epg.iill.top/logo/OG2024.png" group-title="•咪咕「奥运」", 「柔道」21:55 🏅男子66公斤级、女子52公斤级决赛 王腾霄
+https://tv.iill.top/OG/183
+#EXTINF:-1 tvg-logo="https://epg.iill.top/logo/OG2024.png" group-title="•咪咕「奥运」", 「柔道」21:55 🏅男子66公斤级、女子52公斤级决赛 赛场原声
+https://tv.iill.top/OG/184
+#EXTINF:-1 tvg-logo="https://epg.iill.top/logo/OG2024.png" group-title="•咪咕「奥运」", 「水球」22:25 男子预赛A组：克罗地亚 VS 黑山 郑好
+https://tv.iill.top/OG/185
+#EXTINF:-1 tvg-logo="https://epg.iill.top/logo/OG2024.png" group-title="•咪咕「奥运」", 「水球」22:25 男子预赛A组：克罗地亚 VS 黑山 清流DX44
+https://tv.iill.top/OG/186
+#EXTINF:-1 tvg-logo="https://epg.iill.top/logo/OG2024.png" group-title="•咪咕「奥运」", 「滑板」22:45 🏅女子街式赛决赛 解说
+https://tv.iill.top/OG/187
+#EXTINF:-1 tvg-logo="https://epg.iill.top/logo/OG2024.png" group-title="•咪咕「奥运」", 「滑板」22:45 🏅女子街式赛决赛 原声
+https://tv.iill.top/OG/188
+#EXTINF:-1 tvg-logo="https://epg.iill.top/logo/OG2024.png" group-title="•咪咕「奥运」", 「排球」22:50 男子预赛A组：法国 VS 塞尔维亚 景荣
+https://tv.iill.top/OG/189
+#EXTINF:-1 tvg-logo="https://epg.iill.top/logo/OG2024.png" group-title="•咪咕「奥运」", 「排球」22:50 男子预赛A组：法国 VS 塞尔维亚 赛场原声
+https://tv.iill.top/OG/190
+#EXTINF:-1 tvg-logo="https://epg.iill.top/logo/OG2024.png" group-title="•咪咕「奥运」", 「曲棍球」22:50 男子分组循环赛A组：德国 VS 西班牙 曲可乐
+https://tv.iill.top/OG/191
+#EXTINF:-1 tvg-logo="https://epg.iill.top/logo/OG2024.png" group-title="•咪咕「奥运」", 「曲棍球」22:50 男子分组循环赛A组：德国 VS 西班牙 清流DX40
+https://tv.iill.top/OG/192
+#EXTINF:-1 tvg-logo="https://epg.iill.top/logo/OG2024.png" group-title="•咪咕「奥运」", 「足球」22:50 女子A组：新西兰 VS 哥伦比亚 张昊泽
+https://tv.iill.top/OG/193
+#EXTINF:-1 tvg-logo="https://epg.iill.top/logo/OG2024.png" group-title="•咪咕「奥运」", 「足球」22:50 女子A组：新西兰 VS 哥伦比亚 清流DX37
+https://tv.iill.top/OG/194
+#EXTINF:-1 tvg-logo="https://epg.iill.top/logo/OG2024.png" group-title="•咪咕「奥运」", 「足球」22:50 女子C组：巴西 VS 日本 张学洋
+https://tv.iill.top/OG/195
+#EXTINF:-1 tvg-logo="https://epg.iill.top/logo/OG2024.png" group-title="•咪咕「奥运」", 「足球」22:50 女子C组：巴西 VS 日本 清流DX15
+https://tv.iill.top/OG/196
+#EXTINF:-1 tvg-logo="https://epg.iill.top/logo/OG2024.png" group-title="•咪咕「奥运」", 「篮球」23:00 男子小组赛C组：塞尔维亚 VS 美国 姜帆 孙悦 李根 解说
+https://tv.iill.top/OG/197
+#EXTINF:-1 tvg-logo="https://epg.iill.top/logo/OG2024.png" group-title="•咪咕「奥运」", 「篮球」23:00 男子小组赛C组：塞尔维亚 VS 美国 清流DX36
+https://tv.iill.top/OG/198
+#EXTINF:-1 tvg-logo="https://epg.iill.top/logo/OG2024.png" group-title="•咪咕「奥运」", 「曲棍球」23:20 男子分组循环赛B组：比利时 VS 新西兰 岳珂帆
+https://tv.iill.top/OG/199
+#EXTINF:-1 tvg-logo="https://epg.iill.top/logo/OG2024.png" group-title="•咪咕「奥运」", 「曲棍球」23:20 男子分组循环赛B组：比利时 VS 新西兰 清流DX41
+https://tv.iill.top/OG/200
+#EXTINF:-1 tvg-logo="https://epg.iill.top/logo/咪咕.png" group-title="•咪咕「体育」", 「UFC数字赛」05:50 UFC第304期：爱德华兹VS穆罕默德2 解说
 https://tv.iill.top/Migu/1
-#EXTINF:-1 tvg-logo="https://epg.iill.top/logo/咪咕.png" group-title="•咪咕「体育」", 「中超」18:45 联赛 长春亚泰vs沧州雄狮 赛场原声
+#EXTINF:-1 tvg-logo="https://epg.iill.top/logo/咪咕.png" group-title="•咪咕「体育」", 「UFC数字赛」05:50 UFC第304期：爱德华兹VS穆罕默德2 解说
 https://tv.iill.top/Migu/2
-#EXTINF:-1 tvg-logo="https://epg.iill.top/logo/咪咕.png" group-title="•咪咕「体育」", 「中超」19:20 联赛 天津津门虎vs青岛西海岸 解说
+#EXTINF:-1 tvg-logo="https://epg.iill.top/logo/咪咕.png" group-title="•咪咕「体育」", 「中超」19:20 联赛 青岛海牛vs梅州客家 解说
 https://tv.iill.top/Migu/3
-#EXTINF:-1 tvg-logo="https://epg.iill.top/logo/咪咕.png" group-title="•咪咕「体育」", 「中超」19:20 联赛 天津津门虎vs青岛西海岸 赛场原声
+#EXTINF:-1 tvg-logo="https://epg.iill.top/logo/咪咕.png" group-title="•咪咕「体育」", 「中超」19:20 联赛 青岛海牛vs梅州客家 赛场原声
 https://tv.iill.top/Migu/4
+#EXTINF:-1 tvg-logo="https://epg.iill.top/logo/咪咕.png" group-title="•咪咕「体育」", 「中超」19:20 联赛 浙江俱乐部vs成都蓉城 解说
+https://tv.iill.top/Migu/5
+#EXTINF:-1 tvg-logo="https://epg.iill.top/logo/咪咕.png" group-title="•咪咕「体育」", 「中超」19:20 联赛 浙江俱乐部vs成都蓉城 赛场原声
+https://tv.iill.top/Migu/6
+#EXTINF:-1 tvg-logo="https://epg.iill.top/logo/咪咕.png" group-title="•咪咕「体育」", 「中超」19:30 联赛 河南俱乐部酒祖杜康vs山东泰山 解说
+https://tv.iill.top/Migu/7
+#EXTINF:-1 tvg-logo="https://epg.iill.top/logo/咪咕.png" group-title="•咪咕「体育」", 「中超」19:30 联赛 河南俱乐部酒祖杜康vs山东泰山 赛场原声
+https://tv.iill.top/Migu/8
 #EXTINF:-1 tvg-name="CCTV1" tvg-logo="https://epg.iill.top/logo/CCTV1.png" group-title="•咪咕「TV」",CCTV 1 综合
 https://tv.iill.top/migu/cctv1
 #EXTINF:-1 tvg-name="CCTV2" tvg-logo="https://epg.iill.top/logo/CCTV2.png" group-title="•咪咕「TV」",CCTV 2 财经
