@@ -1,0 +1,217 @@
+#EXTM3U x-tvg-url="https://mirror.ghproxy.com/https://raw.githubusercontent.com/Meroser/EPG-test/main/tvxml-test.xml.gz" catchup="append" catchup-source="?playseek=${(b)yyyyMMddHHmmss}-${(e)yyyyMMddHHmmss}"
+
+#央视
+#EXTINF:-1 tvg-id="A01" tvg-name="CCTV1" tvg-logo="https://cdn.jsdelivr.net/gh/youngking525/TVlogo@main/img/CCTV1.png" group-title="央视",CCTV-1 综合
+rtsp://139.215.98.88/PLTV/88888888/224/3221225620/10000100000000060000000014261464_0.smil
+#EXTINF:-1 tvg-id="A02" tvg-name="CCTV2" tvg-logo="https://cdn.jsdelivr.net/gh/youngking525/TVlogo@main/img/CCTV2.png" group-title="央视",CCTV-2 财经
+rtsp://139.215.98.88/PLTV/88888888/224/3221225799/10000100000000060000000014274939_0.smil
+#EXTINF:-1 tvg-id="A03" tvg-name="CCTV3" tvg-logo="https://cdn.jsdelivr.net/gh/youngking525/TVlogo@main/img/CCTV3.png" group-title="央视",CCTV-3 综艺
+rtsp://139.215.98.88/PLTV/88888888/224/3221226127/10000100000000060000000015558809_0.smil
+#EXTINF:-1 tvg-id="A04" tvg-name="CCTV4" tvg-logo="https://cdn.jsdelivr.net/gh/youngking525/TVlogo@main/img/CCTV4.png" group-title="央视",CCTV-4 中文国际
+rtsp://139.215.98.88/PLTV/88888888/224/3221226245/10000100000000060000000016631556_0.smil
+#EXTINF:-1 tvg-id="A05" tvg-name="CCTV5" tvg-logo="https://cdn.jsdelivr.net/gh/youngking525/TVlogo@main/img/CCTV5.png" group-title="央视",CCTV-5 体育
+rtsp://139.215.98.88/PLTV/88888888/224/3221226129/10000100000000060000000015558810_0.smil
+#EXTINF:-1 tvg-id="A06" tvg-name="CCTV5+" tvg-logo="https://cdn.jsdelivr.net/gh/youngking525/TVlogo@main/img/CCTV5plus.png" group-title="央视",CCTV-5+ 体育赛事
+rtsp://139.215.98.88/PLTV/88888888/224/3221225720/10000100000000060000000014868371_0.smil
+#EXTINF:-1 tvg-id="A07" tvg-name="CCTV6" tvg-logo="https://cdn.jsdelivr.net/gh/youngking525/TVlogo@main/img/CCTV6.png" group-title="央视",CCTV-6 电影
+rtsp://139.215.98.88/PLTV/88888888/224/3221226131/10000100000000060000000015558811_0.smil
+#EXTINF:-1 tvg-id="A08" tvg-name="CCTV7" tvg-logo="https://cdn.jsdelivr.net/gh/youngking525/TVlogo@main/img/CCTV7.png" group-title="央视",CCTV-7 国防军事
+rtsp://139.215.98.88/PLTV/88888888/224/3221226239/10000100000000060000000016498531_0.smil
+#EXTINF:-1 tvg-id="A09" tvg-name="CCTV8" tvg-logo="https://cdn.jsdelivr.net/gh/youngking525/TVlogo@main/img/CCTV8.png" group-title="央视",CCTV-8 电视剧
+rtsp://139.215.98.88/PLTV/88888888/224/3221226133/10000100000000060000000015558812_0.smil
+#EXTINF:-1 tvg-id="A10" tvg-name="CCTV9" tvg-logo="https://cdn.jsdelivr.net/gh/youngking525/TVlogo@main/img/CCTV9.png" group-title="央视",CCTV-9 纪录
+rtsp://139.215.98.88/PLTV/88888888/224/3221225803/10000100000000060000000014274943_0.smil
+#EXTINF:-1 tvg-id="A11" tvg-name="CCTV10" tvg-logo="https://cdn.jsdelivr.net/gh/youngking525/TVlogo@main/img/CCTV10.png" group-title="央视",CCTV-10 科教
+rtsp://139.215.98.88/PLTV/88888888/224/3221225805/10000100000000060000000014274956_0.smil
+#EXTINF:-1 tvg-id="A12" tvg-name="CCTV11" tvg-logo="https://cdn.jsdelivr.net/gh/youngking525/TVlogo@main/img/CCTV11.png" group-title="央视",CCTV-11 戏曲
+rtsp://139.215.98.88/PLTV/88888888/224/3221225904/10000100000000060000000016631568_0.smil
+#EXTINF:-1 tvg-id="A13" tvg-name="CCTV12" tvg-logo="https://cdn.jsdelivr.net/gh/youngking525/TVlogo@main/img/CCTV12.png" group-title="央视",CCTV-12 社会与法
+rtsp://139.215.98.88/PLTV/88888888/224/3221225807/10000100000000060000000014274957_0.smil
+#EXTINF:-1 tvg-id="A14" tvg-name="CCTV13" tvg-logo="https://cdn.jsdelivr.net/gh/youngking525/TVlogo@main/img/CCTV13.png" group-title="央视",CCTV-13 新闻
+rtsp://139.215.98.88/PLTV/88888888/224/3221226247/10000100000000060000000016631575_0.smil
+#EXTINF:-1 tvg-id="A15" tvg-name="CCTV14" tvg-logo="https://cdn.jsdelivr.net/gh/youngking525/TVlogo@main/img/CCTV14.png" group-title="央视",CCTV-14 少儿
+rtsp://139.215.98.88/PLTV/88888888/224/3221225809/10000100000000060000000014274958_0.smil
+#EXTINF:-1 tvg-id="A16" tvg-name="CCTV15" tvg-logo="https://cdn.jsdelivr.net/gh/youngking525/TVlogo@main/img/CCTV15.png" group-title="央视",CCTV-15 音乐
+rtsp://139.215.98.88/PLTV/88888888/224/3221225854/10000100000000060000000015317262_0.smil
+#EXTINF:-1 tvg-id="A17" tvg-name="CCTV16" tvg-logo="https://cdn.jsdelivr.net/gh/youngking525/TVlogo@main/img/CCTV16.png" group-title="央视",CCTV-16 奥林匹克
+rtsp://139.215.98.88/PLTV/88888888/224/3221226241/10000100000000060000000016498536_0.smil
+#EXTINF:-1 tvg-id="A18" tvg-name="CCTV17" tvg-logo="https://cdn.jsdelivr.net/gh/youngking525/TVlogo@main/img/CCTV17.png" group-title="央视",CCTV-17 农业农村
+rtsp://139.215.98.88/PLTV/88888888/224/3221225902/10000100000000060000000016498622_0.smil
+#EXTINF:-1 tvg-id="A19" tvg-name="CCTV4K" tvg-logo="https://cdn.jsdelivr.net/gh/youngking525/TVlogo@main/img/CCTV4K.png" group-title="央视",CCTV-4K 超高清
+rtsp://139.215.98.88/PLTV/88888888/224/3221225761/10000100000000060000000014254011_0.smil
+
+#卫视
+#EXTINF:-1 tvg-id="B19" tvg-name="吉林卫视" tvg-logo="https://cdn.jsdelivr.net/gh/youngking525/TVlogo@main/img/Jilin.png" group-title="卫视",吉林卫视
+rtsp://139.215.98.88/PLTV/88888888/224/3221225835/10000100000000060000000014698360_0.smil
+#EXTINF:-1 tvg-id="B20" tvg-name="辽宁卫视" tvg-logo="https://cdn.jsdelivr.net/gh/youngking525/TVlogo@main/img/Liaoning.png" group-title="卫视",辽宁卫视
+rtsp://139.215.98.88/PLTV/88888888/224/3221226055/10000100000000060000000015417309_0.smil
+#EXTINF:-1 tvg-id="B01" tvg-name="湖南卫视" tvg-logo="https://cdn.jsdelivr.net/gh/youngking525/TVlogo@main/img/Hunan.png" group-title="卫视",湖南卫视
+rtsp://139.215.98.88/PLTV/88888888/224/3221225813/10000100000000060000000014274977_0.smil
+#EXTINF:-1 tvg-id="B02" tvg-name="浙江卫视" tvg-logo="https://cdn.jsdelivr.net/gh/youngking525/TVlogo@main/img/Zhejiang.png" group-title="卫视",浙江卫视
+rtsp://139.215.98.88/PLTV/88888888/224/3221226069/10000100000000060000000015417300_0.smil
+#EXTINF:-1 tvg-id="B05" tvg-name="江苏卫视" tvg-logo="https://cdn.jsdelivr.net/gh/youngking525/TVlogo@main/img/Jiangsu.png" group-title="卫视",江苏卫视
+rtsp://139.215.98.88/PLTV/88888888/224/3221225873/10000100000000060000000014817978_0.smil
+#EXTINF:-1 tvg-id="B04" tvg-name="北京卫视" tvg-logo="https://cdn.jsdelivr.net/gh/youngking525/TVlogo@main/img/Beijing.png" group-title="卫视",北京卫视
+rtsp://139.215.98.88/PLTV/88888888/224/3221225811/10000100000000060000000014274961_0.smil
+#EXTINF:-1 tvg-id="B03" tvg-name="东方卫视" tvg-logo="https://cdn.jsdelivr.net/gh/youngking525/TVlogo@main/img/Dongfang.png" group-title="卫视",东方卫视
+rtsp://139.215.98.88/PLTV/88888888/224/3221225786/10000100000000060000000014995744_0.smil
+#EXTINF:-1 tvg-id="B06" tvg-name="安徽卫视" tvg-logo="https://cdn.jsdelivr.net/gh/youngking525/TVlogo@main/img/Anhui.png" group-title="卫视",安徽卫视
+rtsp://139.215.98.88/PLTV/88888888/224/3221226057/10000100000000060000000015417308_0.smil
+#EXTINF:-1 tvg-id="B10" tvg-name="广东卫视" tvg-logo="https://cdn.jsdelivr.net/gh/youngking525/TVlogo@main/img/Guangdong.png" group-title="卫视",广东卫视
+rtsp://139.215.98.88/PLTV/88888888/224/3221225815/10000100000000060000000014274978_0.smil
+#EXTINF:-1 tvg-id="B22" tvg-name="深圳卫视" tvg-logo="https://cdn.jsdelivr.net/gh/youngking525/TVlogo@main/img/Shenzhen.png" group-title="卫视",深圳卫视
+rtsp://139.215.98.88/PLTV/88888888/224/3221225819/10000100000000060000000014274983_0.smil
+#EXTINF:-1 tvg-id="B13" tvg-name="海南卫视" tvg-logo="https://cdn.jsdelivr.net/gh/youngking525/TVlogo@main/img/Hainan.png" group-title="卫视",海南卫视
+rtsp://139.215.98.88/PLTV/88888888/224/3221225568/10000100000000060000000000029657_0.smil
+#EXTINF:-1 tvg-id="B21" tvg-name="山东卫视" tvg-logo="https://cdn.jsdelivr.net/gh/youngking525/TVlogo@main/img/Shandong.png" group-title="卫视",山东卫视
+rtsp://139.215.98.88/PLTV/88888888/224/3221225821/10000100000000060000000014274984_0.smil
+#EXTINF:-1 tvg-id="B24" tvg-name="天津卫视" tvg-logo="https://cdn.jsdelivr.net/gh/youngking525/TVlogo@main/img/Tianjin.png" group-title="卫视",天津卫视
+rtsp://139.215.98.88/PLTV/88888888/224/3221225624/10000100000000060000000014261467_0.smil
+#EXTINF:-1 tvg-id="B07" tvg-name="重庆卫视" tvg-logo="https://cdn.jsdelivr.net/gh/youngking525/TVlogo@main/img/Chongqing.png" group-title="卫视",重庆卫视
+rtsp://139.215.98.88/PLTV/88888888/224/3221226059/10000100000000060000000015417306_0.smil
+#EXTINF:-1 tvg-id="B08" tvg-name="东南卫视" tvg-logo="https://cdn.jsdelivr.net/gh/youngking525/TVlogo@main/img/Dongnan.png" group-title="卫视",东南卫视
+rtsp://139.215.98.88/PLTV/88888888/224/3221225788/10000100000000060000000014995757_0.smil
+#EXTINF:-1 tvg-id="B09" tvg-name="甘肃卫视" tvg-logo="https://cdn.jsdelivr.net/gh/youngking525/TVlogo@main/img/Gansu.png" group-title="卫视",甘肃卫视
+rtsp://139.215.98.88/PLTV/88888888/224/3221226031/10000100000000060000000015242272_0.smil
+#EXTINF:-1 tvg-id="B11" tvg-name="广西卫视" tvg-logo="https://cdn.jsdelivr.net/gh/youngking525/TVlogo@main/img/Guangxi.png" group-title="卫视",广西卫视
+rtsp://139.215.98.88/PLTV/88888888/224/3221226041/10000100000000060000000015242277_0.smil
+#EXTINF:-1 tvg-id="B12" tvg-name="贵州卫视" tvg-logo="https://cdn.jsdelivr.net/gh/youngking525/TVlogo@main/img/Guizhou.png" group-title="卫视",贵州卫视
+rtsp://139.215.98.88/PLTV/88888888/224/3221226061/10000100000000060000000015417305_0.smil
+#EXTINF:-1 tvg-id="B14" tvg-name="河北卫视" tvg-logo="https://cdn.jsdelivr.net/gh/youngking525/TVlogo@main/img/Hebei.png" group-title="卫视",河北卫视
+rtsp://139.215.98.88/PLTV/88888888/224/3221226067/10000100000000060000000015417301_0.smil
+#EXTINF:-1 tvg-id="B15" tvg-name="黑龙江卫视" tvg-logo="https://cdn.jsdelivr.net/gh/youngking525/TVlogo@main/img/Heilongjiang.png" group-title="卫视",黑龙江卫视
+rtsp://139.215.98.88/PLTV/88888888/224/3221225817/10000100000000060000000014274982_0.smil
+#EXTINF:-1 tvg-id="B16" tvg-name="河南卫视" tvg-logo="https://cdn.jsdelivr.net/gh/youngking525/TVlogo@main/img/Henan.png" group-title="卫视",河南卫视
+rtsp://139.215.98.88/PLTV/88888888/224/3221226065/10000100000000060000000015417303_0.smil
+#EXTINF:-1 tvg-id="B17" tvg-name="湖北卫视" tvg-logo="https://cdn.jsdelivr.net/gh/youngking525/TVlogo@main/img/Hubei.png" group-title="卫视",湖北卫视
+rtsp://139.215.98.88/PLTV/88888888/224/3221225823/10000100000000060000000014274985_0.smil
+#EXTINF:-1 tvg-id="B18" tvg-name="江西卫视" tvg-logo="https://cdn.jsdelivr.net/gh/youngking525/TVlogo@main/img/Jiangxi.png" group-title="卫视",江西卫视
+rtsp://139.215.98.88/PLTV/88888888/224/3221226063/10000100000000060000000015417304_0.smil
+#EXTINF:-1 tvg-id="B32" tvg-name="内蒙古卫视" tvg-logo="https://cdn.jsdelivr.net/gh/youngking525/TVlogo@main/img/Neimeng.png" group-title="卫视",内蒙古卫视
+rtsp://139.215.98.88/PLTV/88888888/224/3221225540/10000100000000060000000000029592_0.smil
+#EXTINF:-1 tvg-id="B33" tvg-name="宁夏卫视" tvg-logo="https://cdn.jsdelivr.net/gh/youngking525/TVlogo@main/img/Ningxia.png" group-title="卫视",宁夏卫视
+rtsp://139.215.98.88/PLTV/88888888/224/3221225739/10000100000000060000000014251669_0.smil
+#EXTINF:-1 tvg-id="B30" tvg-name="山西卫视" tvg-logo="https://cdn.jsdelivr.net/gh/youngking525/TVlogo@main/img/Shanxi_.png" group-title="卫视",山西卫视
+rtsp://139.215.98.88/PLTV/88888888/224/3221225540/10000100000000060000000000029592_0.smil
+#EXTINF:-1 tvg-id="B29" tvg-name="陕西卫视" tvg-logo="https://cdn.jsdelivr.net/gh/youngking525/TVlogo@main/img/Shanxi.png" group-title="卫视",陕西卫视
+rtsp://139.215.98.88/PLTV/88888888/224/3221225530/10000100000000060000000000029587_0.smil
+#EXTINF:-1 tvg-id="B23" tvg-name="四川卫视" tvg-logo="https://cdn.jsdelivr.net/gh/youngking525/TVlogo@main/img/Sichuan.png" group-title="卫视",四川卫视
+rtsp://139.215.98.88/PLTV/88888888/224/3221226073/10000100000000060000000015417297_0.smil
+#EXTINF:-1 tvg-id="B26" tvg-name="新疆卫视" tvg-logo="https://cdn.jsdelivr.net/gh/youngking525/TVlogo@main/img/Xinjiang.png" group-title="卫视",新疆卫视
+rtsp://139.215.98.88/PLTV/88888888/224/3221225504/10000100000000060000000000029555_0.smil
+#EXTINF:-1 tvg-id="B25" tvg-name="云南卫视" tvg-logo="https://cdn.jsdelivr.net/gh/youngking525/TVlogo@main/img/Yunnan.png" group-title="卫视",云南卫视
+rtsp://139.215.98.88/PLTV/88888888/224/3221225765/10000100000000060000000014254015_0.smil
+#EXTINF:-1 tvg-id="B28" tvg-name="青海卫视" tvg-logo="https://cdn.jsdelivr.net/gh/youngking525/TVlogo@main/img/Qinghai.png" group-title="卫视",青海卫视
+rtsp://139.215.98.88/PLTV/88888888/224/3221225528/10000100000000060000000000029586_0.smil
+#EXTINF:-1 tvg-id="B34" tvg-name="兵团卫视" tvg-logo="https://cdn.jsdelivr.net/gh/youngking525/TVlogo@main/img/Bingtuan.png" group-title="卫视",兵团卫视
+rtsp://139.215.98.88/PLTV/88888888/224/3221225546/10000100000000060000000000029595_0.smil
+#EXTINF:-1 tvg-id="B39" tvg-name="延边卫视" tvg-logo="https://cdn.jsdelivr.net/gh/youngking525/TVlogo@main/img/Yanbian.png" group-title="卫视",延边卫视
+rtsp://139.215.98.88/PLTV/88888888/224/3221225698/10000100000000060000000014819811_0.smil
+#EXTINF:-1 tvg-id="B31" tvg-name="西藏卫视" tvg-logo="https://cdn.jsdelivr.net/gh/youngking525/TVlogo@main/img/Xizang.png" group-title="卫视",西藏卫视
+rtsp://139.215.98.88/PLTV/88888888/224/3221225544/10000100000000060000000000029594_0.smil
+#EXTINF:-1 tvg-id="B27" tvg-name="三沙卫视" tvg-logo="https://cdn.jsdelivr.net/gh/youngking525/TVlogo@main/img/Sansha.png" group-title="卫视",三沙卫视
+rtsp://139.215.98.88/PLTV/88888888/224/3221225870/10000100000000060000000015811900_0.smil
+
+#吉林
+#EXTINF:-1 tvg-id="B19" tvg-name="吉林卫视" tvg-logo="https://gitee.com/Black_crow/epglogo/raw/master/jilin/Jilin.png" group-title="吉林",吉林卫视
+rtsp://139.215.98.88/PLTV/88888888/224/3221225835/10000100000000060000000014698360_0.smil
+#EXTINF:-1 tvg-id="316" tvg-name="吉林都市" tvg-logo="https://gitee.com/Black_crow/epglogo/raw/master/jilin/Jilin2.png" group-title="吉林",吉林都市
+rtsp://139.215.98.88/PLTV/88888888/224/3221225795/10000100000000060000000014254371_0.smil
+#EXTINF:-1 tvg-id="318" tvg-name="吉林生活" tvg-logo="https://gitee.com/Black_crow/epglogo/raw/master/jilin/Jilin3.png" group-title="吉林",吉林生活
+rtsp://139.215.98.88/PLTV/88888888/224/3221226013/10000100000000060000000015242249_0.smil
+#EXTINF:-1 tvg-id="317" tvg-name="吉林影视" tvg-logo="https://gitee.com/Black_crow/epglogo/raw/master/jilin/Jilin4.png" group-title="吉林",吉林影视
+rtsp://139.215.98.88/PLTV/88888888/224/3221225852/10000100000000060000000015242246_0.smil
+#EXTINF:-1 tvg-id="320" tvg-name="吉林乡村" tvg-logo="https://gitee.com/Black_crow/epglogo/raw/master/jilin/Jilin5.png" group-title="吉林",吉林乡村
+rtsp://139.215.98.88/PLTV/88888888/224/3221226015/10000100000000060000000015242250_0.smil
+#EXTINF:-1 tvg-id="315" tvg-name="吉林公共新闻" tvg-logo="https://gitee.com/Black_crow/epglogo/raw/master/jilin/Jilin1.png" group-title="吉林",吉林公共新闻
+rtsp://139.215.98.88/PLTV/88888888/224/3221226027/10000100000000060000000015242270_0.smil
+#EXTINF:-1 tvg-name="吉视综艺文化" tvg-logo="https://gitee.com/Black_crow/epglogo/raw/master/jilin/Jilin6.png" group-title="吉林",吉林综艺文化
+rtsp://139.215.98.88/PLTV/88888888/224/3221226029/10000100000000060000000015242271_0.smil
+#EXTINF:-1 tvg-name="东北戏曲" tvg-logo="https://cdn.jsdelivr.net/gh/youngking525/TVlogo@main/img/dbxq.png" group-title="吉林",东北戏曲
+rtsp://139.215.98.88/PLTV/88888888/224/3221226033/10000100000000060000000015242273_0.smil
+#EXTINF:-1 tvg-name="篮球" tvg-logo="https://cdn.jsdelivr.net/gh/youngking525/TVlogo@main/img/lqpd.png" group-title="吉林",篮球
+rtsp://139.215.98.88/PLTV/88888888/224/3221226001/10000100000000060000000015014779_0.smil
+#EXTINF:-1 tvg-name="长影频道" tvg-logo="https://cdn.jsdelivr.net/gh/youngking525/TVlogo@main/img/cypd.png" group-title="吉林",长影频道
+rtsp://139.215.98.88/PLTV/88888888/224/3221225848/10000100000000060000000015213098_0.smil
+#EXTINF:-1 tvg-name="四平1" group-title="吉林",四平1
+rtsp://139.215.98.88/PLTV/88888888/224/3221225836/10000100000000060000000015047482_0.smil
+#EXTINF:-1 tvg-name="四平2" group-title="吉林",四平2
+rtsp://139.215.98.88/PLTV/88888888/224/3221225834/10000100000000060000000015047483_0.smil
+#EXTINF:-1 tvg-name="双辽" group-title="吉林",双辽
+rtsp://139.215.98.88/PLTV/88888888/224/3221226113/10000100000000060000000015446246_0.smil
+
+#海外
+#EXTINF:-1 tvg-id="19" tvg-name="CCTV4欧洲" tvg-logo="https://cdn.jsdelivr.net/gh/youngking525/TVlogo@main/img/CCTV4oz.png" group-title="海外",CCTV-4 欧洲
+rtsp://139.215.98.88/PLTV/88888888/224/3221226231/10000100000000060000000016336628_0.smil
+#EXTINF:-1 tvg-id="20" tvg-name="CCTV4美洲" tvg-logo="https://cdn.jsdelivr.net/gh/youngking525/TVlogo@main/img/CCTV4mz.png" group-title="海外",CCTV-4 美洲
+rtsp://139.215.98.88/PLTV/88888888/224/3221225894/10000100000000060000000016336632_0.smil
+#EXTINF:-1 tvg-id="CGTN01" tvg-name="CGTN" tvg-logo="https://cdn.jsdelivr.net/gh/youngking525/TVlogo@main/img/CGTN.png" group-title="海外",CGTN-新闻
+rtsp://139.215.98.88/PLTV/88888888/224/3221226233/10000100000000060000000016336637_0.smil
+#EXTINF:-1 tvg-id="CGTN02" tvg-name="CGTN Documentary" tvg-logo="https://cdn.jsdelivr.net/gh/youngking525/TVlogo@main/img/CGTNjilu.png" group-title="海外",CGTN-纪录
+rtsp://139.215.98.88/PLTV/88888888/224/3221225896/10000100000000060000000016336641_0.smil
+#EXTINF:-1 tvg-id="CGTN03" tvg-name="CGTN Français" tvg-logo="https://cdn.jsdelivr.net/gh/youngking525/TVlogo@main/img/CGTNfy.png" group-title="海外",CGTN-法语
+rtsp://139.215.98.88/PLTV/88888888/224/3221226235/10000100000000060000000016336646_0.smil
+#EXTINF:-1 tvg-id="CGTN04" tvg-name="CGTN Русский" tvg-logo="https://cdn.jsdelivr.net/gh/youngking525/TVlogo@main/img/CGTNey.png" group-title="海外",CGTN-俄语
+rtsp://139.215.98.88/PLTV/88888888/224/3221226237/10000100000000060000000016336658_0.smil
+#EXTINF:-1 tvg-id="CGTN05" tvg-name="CGTN Español" tvg-logo="https://cdn.jsdelivr.net/gh/youngking525/TVlogo@main/img/CGTNxbyy.png" group-title="海外",CGTN-西语
+rtsp://139.215.98.88/PLTV/88888888/224/3221225898/10000100000000060000000016336645_0.smil
+#EXTINF:-1 tvg-id="CGTN06" tvg-name="CGTN العربية" tvg-logo="https://cdn.jsdelivr.net/gh/youngking525/TVlogo@main/img/CGTNalby.png" group-title="海外",CGTN-阿语
+rtsp://139.215.98.88/PLTV/88888888/224/3221225900/10000100000000060000000016336654_0.smil
+
+#数字
+#EXTINF:-1 tvg-id="CCTVdyjc" tvg-name="第一剧场" tvg-logo="https://cdn.jsdelivr.net/gh/youngking525/TVlogo@main/img/CCTVdyjc.png" group-title="数字",CCTV第一剧场
+rtsp://139.215.98.88/PLTV/88888888/224/3221225779/10000100000000060000000014254031_0.smil
+#EXTINF:-1 tvg-id="CCTVfyjc" tvg-name="风云剧场" tvg-logo="https://cdn.jsdelivr.net/gh/youngking525/TVlogo@main/img/CCTVfyjc.png" group-title="数字",CCTV风云剧场
+rtsp://139.215.98.88/PLTV/88888888/224/3221225829/10000100000000060000000014313392_0.smil
+#EXTINF:-1 tvg-id="CCTVhjjc" tvg-name="怀旧剧场" tvg-logo="https://cdn.jsdelivr.net/gh/youngking525/TVlogo@main/img/CCTVhjjc.png" group-title="数字",CCTV怀旧剧场
+rtsp://139.215.98.88/PLTV/88888888/224/3221225757/10000100000000060000000014254008_0.smil
+#EXTINF:-1 tvg-id="CCTVsjdl" tvg-name="世界地理" tvg-logo="https://cdn.jsdelivr.net/gh/youngking525/TVlogo@main/img/CCTVsjdl.png" group-title="数字",CCTV世界地理
+rtsp://139.215.98.88/PLTV/88888888/224/3221225783/10000100000000060000000014254033_0.smil
+#EXTINF:-1 tvg-id="CCTVfyyy" tvg-name="风云音乐" tvg-logo="https://cdn.jsdelivr.net/gh/youngking525/TVlogo@main/img/CCTVfyyy.png" group-title="数字",CCTV风云音乐
+rtsp://139.215.98.88/PLTV/88888888/224/3221225751/10000100000000060000000014254005_0.smil
+#EXTINF:-1 tvg-id="CCTVbqkj" tvg-name="兵器科技" tvg-logo="https://cdn.jsdelivr.net/gh/youngking525/TVlogo@main/img/CCTVbqkj.png" group-title="数字",CCTV兵器科技
+rtsp://139.215.98.88/PLTV/88888888/224/3221225769/10000100000000060000000014254019_0.smil
+#EXTINF:-1 tvg-id="CCTVfyzq" tvg-name="风云足球" tvg-logo="https://cdn.jsdelivr.net/gh/youngking525/TVlogo@main/img/CCTVfyzq.png" group-title="数字",CCTV风云足球
+rtsp://139.215.98.88/PLTV/88888888/224/3221225747/10000100000000060000000014253997_0.smil
+#EXTINF:-1 tvg-id="CCTVgefwq" tvg-name="高尔夫网球" tvg-logo="https://cdn.jsdelivr.net/gh/youngking525/TVlogo@main/img/CCTVgefwq.png" group-title="数字",CCTV高尔夫网球
+rtsp://139.215.98.88/PLTV/88888888/224/3221226213/10000100000000060000000015869929_0.smil
+#EXTINF:-1 tvg-id="CCTVnxss" tvg-name="女性时尚" tvg-logo="https://cdn.jsdelivr.net/gh/youngking525/TVlogo@main/img/CCTVnxss.png" group-title="数字",CCTV女性时尚
+rtsp://139.215.98.88/PLTV/88888888/224/3221225745/10000100000000060000000014253993_0.smil
+#EXTINF:-1 tvg-id="CCTVyswhjp" tvg-name="文化精品" tvg-logo="https://cdn.jsdelivr.net/gh/youngking525/TVlogo@main/img/CCTVyswhjp.png" group-title="数字",CCTV文化精品
+rtsp://139.215.98.88/PLTV/88888888/224/3221225767/10000100000000060000000014254016_0.smil
+#EXTINF:-1 tvg-id="CCTVystq" tvg-name="央视台球" tvg-logo="https://cdn.jsdelivr.net/gh/youngking525/TVlogo@main/img/CCTVystq.png" group-title="数字",CCTV央视台球
+rtsp://139.215.98.88/PLTV/88888888/224/3221225743/10000100000000060000000014253990_0.smil
+#EXTINF:-1 tvg-id="435" tvg-name="卫生健康" tvg-logo="https://cdn.jsdelivr.net/gh/youngking525/TVlogo@main/img/CCTVwsjk.png" group-title="数字",CCTV卫生健康
+rtsp://139.215.98.88/PLTV/88888888/224/3221225872/10000100000000060000000015869926_0.smil
+#EXTINF:-1 tvg-id="CCTVdszn" tvg-name="电视指南" tvg-logo="https://cdn.jsdelivr.net/gh/youngking525/TVlogo@main/img/CCTVdszn.png" group-title="数字",CCTV电视指南
+rtsp://139.215.98.88/PLTV/88888888/224/3221225831/10000100000000060000000014313398_0.smil
+#EXTINF:-1 tvg-id="CHC3" tvg-name="CHC动作电影" tvg-logo="https://cdn.jsdelivr.net/gh/youngking525/TVlogo@main/img/CHC3.png" group-title="数字",CHC动作电影
+rtsp://139.215.98.88/PLTV/88888888/224/3221226201/10000100000000060000000015648520_0.smil
+#EXTINF:-1 tvg-id="CHC2" tvg-name="CHC家庭影院" tvg-logo="https://cdn.jsdelivr.net/gh/youngking525/TVlogo@main/img/CHC2.png" group-title="数字",CHC家庭影院
+rtsp://139.215.98.88/PLTV/88888888/224/3221225864/10000100000000060000000015648524_0.smil
+#EXTINF:-1 tvg-id="CHC1" tvg-name="CHC高清电影" tvg-logo="https://cdn.jsdelivr.net/gh/youngking525/TVlogo@main/img/CHC1.png" group-title="数字",CHC高清电影
+rtsp://139.215.98.88/PLTV/88888888/224/3221225866/10000100000000060000000015648523_0.smil
+#EXTINF:-1 tvg-id="BJ05" tvg-name="纪实科教" tvg-logo="https://cdn.jsdelivr.net/gh/youngking525/TVlogo@main/img/jskj.png" group-title="数字",纪实科教
+rtsp://139.215.98.88/PLTV/88888888/224/3221226051/10000100000000060000000015417312_0.smil
+#EXTINF:-1 tvg-id="jsrw" tvg-name="纪实人文" tvg-logo="https://cdn.jsdelivr.net/gh/youngking525/TVlogo@main/img/jsrw.png" group-title="数字",纪实人文
+rtsp://139.215.98.88/PLTV/88888888/224/3221226071/10000100000000060000000015417299_0.smil
+#EXTINF:-1 tvg-id="Jyjs" tvg-name="金鹰纪实" tvg-logo="https://cdn.jsdelivr.net/gh/youngking525/TVlogo@main/img/jyjs.png" group-title="数字",金鹰纪实
+rtsp://139.215.98.88/PLTV/88888888/224/3221226053/10000100000000060000000015417310_0.smil
+#EXTINF:-1 tvg-id="dsjc" tvg-name="都市剧场" tvg-logo="https://cdn.jsdelivr.net/gh/youngking525/TVlogo@main/img/dsjc.png" group-title="数字",都市剧场
+rtsp://139.215.98.88/PLTV/88888888/224/3221226219/10000100000000060000000015948521_0.smil
+#EXTINF:-1 tvg-id="188" tvg-name="生活时尚" tvg-logo="https://cdn.jsdelivr.net/gh/youngking525/TVlogo@main/img/shss.png" group-title="数字",生活时尚
+rtsp://139.215.98.88/PLTV/88888888/224/3221225878/10000100000000060000000015948520_0.smil
+#EXTINF:-1 tvg-id="jsxt" tvg-name="金色学堂" tvg-logo="https://cdn.jsdelivr.net/gh/youngking525/TVlogo@main/img/jsxt.png" group-title="数字",金色学堂
+rtsp://139.215.98.88/PLTV/88888888/224/3221226221/10000100000000060000000015948519_0.smil
+#EXTINF:-1 tvg-id="187" tvg-name="法治天地" tvg-logo="https://cdn.jsdelivr.net/gh/youngking525/TVlogo@main/img/fztd.png" group-title="数字",法治天地
+rtsp://139.215.98.88/PLTV/88888888/224/3221225880/10000100000000060000000015948516_0.smil
+#EXTINF:-1 tvg-id="226" tvg-name="老故事" tvg-logo="https://cdn.jsdelivr.net/gh/youngking525/TVlogo@main/img/CNDlgs.png" group-title="数字",老故事
+rtsp://139.215.98.88/PLTV/88888888/224/3221225827/10000100000000060000000014313391_0.smil
+#EXTINF:-1 tvg-id="23"7 tvg-name="发现之旅" tvg-logo="https://cdn.jsdelivr.net/gh/youngking525/TVlogo@main/img/CNDfxzl.png" group-title="数字",发现之旅
+rtsp://139.215.98.88/PLTV/88888888/224/3221225566/10000100000000060000000000029649_0.smil
+#EXTINF:-1 tvg-id="233" tvg-name="环球奇观" tvg-logo="https://gitee.com/Black_crow/epglogo/raw/master/shuzi/hyqg.png" group-title="数字",环球奇观
+rtsp://139.215.98.88/PLTV/88888888/224/3221225749/10000100000000060000000014254004_0.smil
+#EXTINF:-1 tvg-id="236" tvg-name="国学" tvg-logo="https://cdn.jsdelivr.net/gh/youngking525/TVlogo@main/img/gxpd.png" group-title="数字",国学频道
+rtsp://139.215.98.88/PLTV/88888888/224/3221225781/10000100000000060000000014254032_0.smil
+#EXTINF:-1 tvg-id="232" tvg-name="汽摩" tvg-logo="https://cdn.jsdelivr.net/gh/youngking525/TVlogo@main/img/qmpd.png" group-title="数字",汽摩频道
+rtsp://139.215.98.88/PLTV/88888888/224/3221225797/10000100000000060000000014254508_0.smil
