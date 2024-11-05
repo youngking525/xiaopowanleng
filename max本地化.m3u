@@ -1,0 +1,498 @@
+#EXTM3U x-tvg-url="https://e.erw.cc/e.xml"
+
+#央视
+
+#EXTINF:-1 tvg-name="CCTV1" tvg-logo="https://gitee.com/youngking525/TVLogo/raw/master/cctv/CCTV1.png" group-title="央视",CCTV-1 综合
+http://127.0.0.1:35455/ysptp/cctv1.m3u8
+
+#EXTINF:-1 tvg-name="CCTV2" tvg-logo="https://gitee.com/youngking525/TVLogo/raw/master/cctv/CCTV2.png" group-title="央视",CCTV-2 财经
+http://127.0.0.1:35455/ysptp/cctv2.m3u8
+
+#EXTINF:-1 tvg-name="CCTV3" tvg-logo="https://gitee.com/youngking525/TVLogo/raw/master/cctv/CCTV3.png" group-title="央视",CCTV-3 综艺
+http://127.0.0.1:35455/ysptp/cctv3.m3u8
+
+#EXTINF:-1 tvg-name="CCTV4" tvg-logo="https://gitee.com/youngking525/TVLogo/raw/master/cctv/CCTV4.png" group-title="央视",CCTV-4 中文国际
+http://127.0.0.1:35455/ysptp/cctv4.m3u8
+
+#EXTINF:-1 tvg-name="CCTV5" tvg-logo="https://gitee.com/youngking525/TVLogo/raw/master/cctv/CCTV5.png" group-title="央视",CCTV-5 体育
+http://127.0.0.1:35455/ysptp/cctv5.m3u8
+
+#EXTINF:-1 tvg-name="CCTV5+" tvg-logo="https://gitee.com/youngking525/TVLogo/raw/master/cctv/CCTV5+.png" group-title="央视",CCTV-5+ 体育赛事
+http://127.0.0.1:35455/ysptp/cctv5p.m3u8
+
+#EXTINF:-1 tvg-name="CCTV6" tvg-logo="https://gitee.com/youngking525/TVLogo/raw/master/cctv/CCTV6.png" group-title="央视",CCTV-6 电影
+http://127.0.0.1:35455/itv/6000000001000004574.m3u8?cdn=wasusyt
+
+#EXTINF:-1 tvg-name="CCTV7" tvg-logo="https://gitee.com/youngking525/TVLogo/raw/master/cctv/CCTV7.png" group-title="央视",CCTV-7 国防军事
+http://127.0.0.1:35455/ysptp/cctv7.m3u8
+
+#EXTINF:-1 tvg-name="CCTV8" tvg-logo="https://gitee.com/youngking525/TVLogo/raw/master/cctv/CCTV8.png" group-title="央视",CCTV-8 电视剧
+http://127.0.0.1:35455/ysptp/cctv8.m3u8
+
+#EXTINF:-1 tvg-name="CCTV9" tvg-logo="https://gitee.com/youngking525/TVLogo/raw/master/cctv/CCTV9.png" group-title="央视",CCTV-9 纪录
+http://127.0.0.1:35455/ysptp/cctv9.m3u8
+
+#EXTINF:-1 tvg-name="CCTV10" tvg-logo="https://gitee.com/youngking525/TVLogo/raw/master/cctv/CCTV10.png" group-title="央视",CCTV-10 科教
+http://127.0.0.1:35455/ysptp/cctv10.m3u8
+
+#EXTINF:-1 tvg-name="CCTV11" tvg-logo="https://gitee.com/youngking525/TVLogo/raw/master/cctv/CCTV11.png" group-title="央视",CCTV-11 戏曲
+http://127.0.0.1:35455/ysptp/cctv11.m3u8
+
+#EXTINF:-1 tvg-name="CCTV12" tvg-logo="https://gitee.com/youngking525/TVLogo/raw/master/cctv/CCTV12.png" group-title="央视",CCTV-12 社会与法
+http://127.0.0.1:35455/ysptp/cctv12.m3u8
+
+#EXTINF:-1 tvg-name="CCTV13" tvg-logo="https://gitee.com/youngking525/TVLogo/raw/master/cctv/CCTV13.png" group-title="央视",CCTV-13 新闻
+http://127.0.0.1:35455/ysptp/cctv13.m3u8
+
+#EXTINF:-1 tvg-name="CCTV14" tvg-logo="https://gitee.com/youngking525/TVLogo/raw/master/cctv/CCTV14.png" group-title="央视",CCTV-14 少儿
+http://127.0.0.1:35455/ysptp/cctv14.m3u8
+
+#EXTINF:-1 tvg-name="CCTV15" tvg-logo="https://gitee.com/youngking525/TVLogo/raw/master/cctv/CCTV15.png" group-title="央视",CCTV-15 音乐
+http://127.0.0.1:35455/ysptp/cctv15.m3u8
+
+#EXTINF:-1 tvg-name="CCTV16" tvg-logo="https://gitee.com/youngking525/TVLogo/raw/master/cctv/CCTV16.png" group-title="央视",CCTV-16 奥林匹克
+http://127.0.0.1:35455/ysptp/cctv4k16.m3u8
+
+#EXTINF:-1 tvg-name="CCTV17" tvg-logo="https://gitee.com/youngking525/TVLogo/raw/master/cctv/CCTV17.png" group-title="央视",CCTV-17 农业农村
+http://127.0.0.1:35455/ysptp/cctv17.m3u8
+
+#EXTINF:-1 tvg-name="CCTV4K" tvg-logo="https://gitee.com/youngking525/TVLogo/raw/master/cctv/CCTV4k.png" group-title="央视",CCTV-4K 超高清
+http://127.0.0.1:35455/ysptp/cctv4k.m3u8
+
+#EXTINF:-1 tvg-name="CCTV8K" tvg-logo="https://gitee.com/youngking525/TVLogo/raw/master/cctv/CCTV8k.png" group-title="央视",CCTV-8K 超高清
+http://127.0.0.1:35455/ysptp/cctv8k_36m.m3u8
+
+
+#卫视
+
+#EXTINF:-1 tvg-name="吉林卫视" tvg-logo="https://gitee.com/youngking525/TVLogo/raw/master/img/Jilin.png" group-title="卫视",吉林卫视
+http://127.0.0.1:35455/itv/5000000011000031117.m3u8?cdn=bestzb
+
+#EXTINF:-1 tvg-name="辽宁卫视" tvg-logo="https://gitee.com/youngking525/TVLogo/raw/master/img/Liaoning.png" group-title="卫视",辽宁卫视
+http://127.0.0.1:35455/itv/5000000004000011671.m3u8?cdn=bestzb
+
+#EXTINF:-1 tvg-name="湖南卫视" tvg-logo="https://gitee.com/youngking525/TVLogo/raw/master/img/Hunan.png" group-title="卫视",湖南卫视
+http://127.0.0.1:35455/itv/5000000004000006692.m3u8?cdn=bestzb
+
+#EXTINF:-1 tvg-name="浙江卫视" tvg-logo="https://gitee.com/youngking525/TVLogo/raw/master/img/Zhejiang.png" group-title="卫视",浙江卫视
+http://127.0.0.1:35455/itv/1000000001000014260.m3u8?cdn=ystenlive
+
+#EXTINF:-1 tvg-name="江苏卫视" tvg-logo="https://gitee.com/youngking525/TVLogo/raw/master/img/Jiangsu.png" group-title="卫视",江苏卫视
+http://127.0.0.1:35455/itv/1000000001000001828.m3u8?cdn=ystenlive
+
+#EXTINF:-1 tvg-name="北京卫视" tvg-logo="https://gitee.com/youngking525/TVLogo/raw/master/img/Beijing.png" group-title="卫视",北京卫视
+http://127.0.0.1:35455/itv/6000000001000020451.m3u8?cdn=wasusyt
+
+#EXTINF:-1 tvg-name="东方卫视" tvg-logo="https://gitee.com/youngking525/TVLogo/raw/master/img/Dongfang.png" group-title="卫视",东方卫视
+http://127.0.0.1:35455/itv/6000000001000003639.m3u8?cdn=wasusyt
+
+#EXTINF:-1 tvg-name="安徽卫视" tvg-logo="https://gitee.com/youngking525/TVLogo/raw/master/img/Anhui.png" group-title="卫视",安徽卫视
+http://127.0.0.1:35455/itv/1000000001000030159.m3u8?cdn=ystenlive
+
+#EXTINF:-1 tvg-name="广东卫视" tvg-logo="https://gitee.com/youngking525/TVLogo/raw/master/img/Guangdong.png" group-title="卫视",广东卫视
+http://127.0.0.1:35455/itv/1000000001000014176.m3u8?cdn=ystenlive
+
+#EXTINF:-1 tvg-name="深圳卫视" tvg-logo="https://gitee.com/youngking525/TVLogo/raw/master/img/Shenzhen.png" group-title="卫视",深圳卫视
+http://127.0.0.1:35455/itv/5000000004000007410.m3u8?cdn=bestzb
+
+#EXTINF:-1 tvg-name="海南卫视" tvg-logo="https://gitee.com/youngking525/TVLogo/raw/master/img/Hainan.png" group-title="卫视",海南卫视
+http://127.0.0.1:35455/itv/5000000004000006211.m3u8?cdn=bestzb
+
+#EXTINF:-1 tvg-name="山东卫视" tvg-logo="https://gitee.com/youngking525/TVLogo/raw/master/img/Shandong.png" group-title="卫视",山东卫视
+http://127.0.0.1:35455/itv/1000000001000016568.m3u8?cdn=ystenlive
+
+#EXTINF:-1 tvg-name="天津卫视" tvg-logo="https://gitee.com/youngking525/TVLogo/raw/master/img/Tianjin.png" group-title="卫视",天津卫视
+http://127.0.0.1:35455/itv/5000000004000006827.m3u8?cdn=bestzb
+
+#EXTINF:-1 tvg-name="重庆卫视" tvg-logo="https://gitee.com/youngking525/TVLogo/raw/master/img/Chongqing.png" group-title="卫视",重庆卫视
+http://127.0.0.1:35455/itv/1000000001000001096.m3u8?cdn=ystenlive
+
+#EXTINF:-1 tvg-name="东南卫视" tvg-logo="https://gitee.com/youngking525/TVLogo/raw/master/img/Dongnan.png" group-title="卫视",东南卫视
+http://127.0.0.1:35455/itv/5000000004000010584.m3u8?cdn=bestzb
+
+#EXTINF:-1 tvg-name="甘肃卫视" tvg-logo="https://gitee.com/youngking525/TVLogo/raw/master/img/Gansu.png" group-title="卫视",甘肃卫视
+http://127.0.0.1:35455/itv/5000000011000031121.m3u8?cdn=bestzb
+
+#EXTINF:-1 tvg-name="广西卫视" tvg-logo="https://gitee.com/youngking525/TVLogo/raw/master/img/Guangxi.png" group-title="卫视",广西卫视
+http://127.0.0.1:35455/itv/5000000011000031118.m3u8?cdn=bestzb
+
+#EXTINF:-1 tvg-name="贵州卫视" tvg-logo="https://gitee.com/youngking525/TVLogo/raw/master/img/Guizhou.png" group-title="卫视",贵州卫视
+http://127.0.0.1:35455/itv/5000000004000025843.m3u8?cdn=bestzb
+
+#EXTINF:-1 tvg-name="河北卫视" tvg-logo="https://gitee.com/youngking525/TVLogo/raw/master/img/Hebei.png" group-title="卫视",河北卫视
+http://127.0.0.1:35455/itv/5000000006000040016.m3u8?cdn=bestzb
+
+#EXTINF:-1 tvg-name="黑龙江卫视" tvg-logo="https://gitee.com/youngking525/TVLogo/raw/master/img/Heilongjiang.png" group-title="卫视",黑龙江卫视
+http://127.0.0.1:35455/itv/1000000001000001925.m3u8?cdn=ystenlive
+
+#EXTINF:-1 tvg-name="河南卫视" tvg-logo="https://gitee.com/youngking525/TVLogo/raw/master/img/Henan.png" group-title="卫视",河南卫视
+http://127.0.0.1:35455/itv/5000000011000031119.m3u8?cdn=bestzb
+
+#EXTINF:-1 tvg-name="湖北卫视" tvg-logo="https://gitee.com/youngking525/TVLogo/raw/master/img/Hubei.png" group-title="卫视",湖北卫视
+http://127.0.0.1:35455/itv/1000000001000024621.m3u8?cdn=ystenlive
+
+#EXTINF:-1 tvg-name="江西卫视" tvg-logo="https://gitee.com/youngking525/TVLogo/raw/master/img/Jiangxi.png" group-title="卫视",江西卫视
+http://127.0.0.1:35455/itv/1000000006000268001.m3u8?cdn=ystenlive
+
+#EXTINF:-1 tvg-name="四川卫视" tvg-logo="https://gitee.com/youngking525/TVLogo/raw/master/img/Sichuan.png" group-title="卫视",四川卫视
+http://127.0.0.1:35455/itv/5000000004000006119.m3u8?cdn=bestzb
+
+#EXTINF:-1 tvg-name="云南卫视" tvg-logo="https://gitee.com/youngking525/TVLogo/raw/master/img/Yunnan.png" group-title="卫视",云南卫视
+http://127.0.0.1:35455/itv/5000000011000031120.m3u8?cdn=bestzb
+
+#EXTINF:-1 tvg-name="青海卫视" tvg-logo="https://gitee.com/youngking525/TVLogo/raw/master/img/Qinghai.png" group-title="卫视",青海卫视
+http://127.0.0.1:35455/itv/1000000002000013359.m3u8?cdn=ystenlive
+
+
+#其他
+
+#EXTINF:-1 tvg-name="CGTN" tvg-logo="https://gitee.com/youngking525/TVLogo/raw/master/img/CGTN.png" group-title="其他",CGTN-新闻
+http://127.0.0.1:35455/ysptp/cgtnen.m3u8
+
+#EXTINF:-1 tvg-name="CGTN纪录" tvg-logo="https://gitee.com/youngking525/TVLogo/raw/master/img/CGTNjilu.png" group-title="其他",CGTN-纪录
+http://127.0.0.1:35455/ysptp/cgtndoc.m3u8
+
+#EXTINF:-1 tvg-name="CGTN法语" tvg-logo="https://gitee.com/youngking525/TVLogo/raw/master/img/CGTNfy.png" group-title="其他",CGTN-法语
+http://127.0.0.1:35455/ysptp/cgtnfr.m3u8
+
+#EXTINF:-1 tvg-name="CGTN俄语" tvg-logo="https://gitee.com/youngking525/TVLogo/raw/master/img/CGTNey.png" group-title="其他",CGTN-俄语
+http://127.0.0.1:35455/ysptp/cgtnru.m3u8
+
+#EXTINF:-1 tvg-name="CGTN西语" tvg-logo="https://gitee.com/youngking525/TVLogo/raw/master/img/CGTNxbyy.png" group-title="其他",CGTN-西语
+http://127.0.0.1:35455/ysptp/cgtnsp.m3u8
+
+#EXTINF:-1 tvg-name="CGTN阿语" tvg-logo="https://gitee.com/youngking525/TVLogo/raw/master/img/CGTNalby.png" group-title="其他",CGTN-阿语
+http://127.0.0.1:35455/ysptp/cgtnar.m3u8
+
+#EXTINF:-1 tvg-name="纯享4K" tvg-logo="https://gitee.com/youngking525/TVLogo/raw/master/shuzi/cx4k.png" group-title="其他",纯享4K
+http://127.0.0.1:35455/itv/1000000004000011651.m3u8?cdn=ystenlive
+
+#EXTINF:-1 tvg-name="纪实科教" tvg-logo="https://gitee.com/youngking525/TVLogo/raw/master/img/jskj.png" group-title="其他",纪实科教
+http://127.0.0.1:35455/itv/1000000001000001910.m3u8?cdn=ystenlive
+
+#EXTINF:-1 tvg-name="纪实人文" tvg-logo="https://gitee.com/youngking525/TVLogo/raw/master/img/jsrw.png" group-title="其他",纪实人文
+http://127.0.0.1:35455/itv/1000000005000265021.m3u8?cdn=ystenlive
+
+#EXTINF:-1,tvg-name="五星体育" tvg-logo="https://gitee.com/youngking525/TVLogo/raw/master/shanghai/Shanghai5.png" group-title="其他",五星体育
+http://127.0.0.1:35455/itv/5000000010000017540.m3u8?cdn=bestzb
+
+#EXTINF:-1,tvg-name="上海都市" tvg-logo="https://gitee.com/youngking525/TVLogo/raw/master/shanghai/Shanghai2.png" group-title="其他",上海都市
+http://127.0.0.1:35455/itv/5000000010000018926.m3u8?cdn=bestzb
+
+#EXTINF:-1,tvg-name="东方影视" tvg-logo="https://gitee.com/youngking525/TVLogo/raw/master/shanghai/Shanghai3.png" group-title="其他",东方影视
+http://127.0.0.1:35455/itv/5000000010000032212.m3u8?cdn=bestzb
+
+#EXTINF:-1,tvg-name="金鹰纪实" tvg-logo="https://gitee.com/youngking525/TVLogo/raw/master/img/jyjs.png" group-title="其他",金鹰纪实
+http://127.0.0.1:35455/itv/5000000011000031203.m3u8?cdn=bestzb
+
+#EXTINF:-1,tvg-name="快乐垂钓" tvg-logo="https://gitee.com/youngking525/TVLogo/raw/master/img/klcd.png" group-title="其他",快乐垂钓
+http://127.0.0.1:35455/itv/5000000011000031206.m3u8?cdn=bestzb
+
+#EXTINF:-1,tvg-name="茶频道" tvg-logo="https://gitee.com/youngking525/TVLogo/raw/master/hunan/Hunan12.png" group-title="其他",茶频道
+http://127.0.0.1:35455/itv/5000000011000031209.m3u8?cdn=bestzb
+
+#EXTINF:-1,tvg-name="第一财经" tvg-logo="https://gitee.com/youngking525/TVLogo/raw/master/img/dycj.png" group-title="其他",第一财经
+http://127.0.0.1:35455/itv/5000000010000027146.m3u8?cdn=bestzb
+
+#EXTINF:-1,tvg-name="东方财经" tvg-logo="https://gitee.com/youngking525/TVLogo/raw/master/img/dfcj.png" group-title="其他",东方财经
+http://127.0.0.1:35455/itv/5000000007000010003.m3u8?cdn=bestzb
+
+#EXTINF:-1,tvg-name="求索纪录" tvg-logo="https://gitee.com/youngking525/TVLogo/raw/master/img/Qiusuo1.png" group-title="其他",求索纪录
+http://127.0.0.1:35455/itv/6000000002000032052.m3u8?cdn=wasusyt
+
+#EXTINF:-1,tvg-name="求索科学" tvg-logo="https://gitee.com/youngking525/TVLogo/raw/master/img/Qiusuo2.png" group-title="其他",求索科学
+http://127.0.0.1:35455/itv/6000000002000032344.m3u8?cdn=wasusyt
+
+#EXTINF:-1,tvg-name="求索动物" tvg-logo="https://gitee.com/youngking525/TVLogo/raw/master/img/Qiusuo3.png" group-title="其他",求索动物
+http://127.0.0.1:35455/itv/6000000002000010046.m3u8?cdn=wasusyt
+
+#EXTINF:-1,tvg-name="求索生活" tvg-logo="https://gitee.com/youngking525/TVLogo/raw/master/img/Qiusuo4.png" group-title="其他",求索生活
+http://127.0.0.1:35455/itv/6000000002000003382.m3u8?cdn=wasusyt
+
+
+#SiTV
+
+#EXTINF:-1 tvg-name="都市剧场" tvg-logo="https://gitee.com/youngking525/TVLogo/raw/master/img/dsjc.png" group-title="SiTV",都市剧场
+http://127.0.0.1:35455/itv/5000000011000031111.m3u8?cdn=bestzb
+
+#EXTINF:-1 tvg-name="法治天地" tvg-logo="https://gitee.com/youngking525/TVLogo/raw/master/img/fztd.png" group-title="SiTV",法治天地
+http://127.0.0.1:35455/itv/9001547084732463424.m3u8?cdn=bestzb
+
+#EXTINF:-1 tvg-name="欢笑剧场" tvg-logo="https://gitee.com/youngking525/TVLogo/raw/master/img/hxjc4k.png" group-title="SiTV",欢笑剧场
+http://127.0.0.1:35455/itv/5000000007000010001.m3u8?cdn=bestzb
+
+#EXTINF:-1 tvg-name="金色学堂" tvg-logo="https://gitee.com/youngking525/TVLogo/raw/master/img/jsxt.png" group-title="SiTV",金色学堂
+http://127.0.0.1:35455/itv/5000000010000026105.m3u8?cdn=bestzb
+
+#EXTINF:-1 tvg-name="劲爆体育" tvg-logo="https://gitee.com/youngking525/TVLogo/raw/master/img/jbty.png" group-title="SiTV",劲爆体育
+http://127.0.0.1:35455/itv/5000000002000029972.m3u8?cdn=bestzb
+
+#EXTINF:-1 tvg-name="乐游" tvg-logo="https://gitee.com/youngking525/TVLogo/raw/master/img/leyou.png" group-title="SiTV",乐游
+http://127.0.0.1:35455/itv/5000000011000031112.m3u8?cdn=bestzb
+
+#EXTINF:-1 tvg-name="魅力足球" tvg-logo="https://gitee.com/youngking525/TVLogo/raw/master/img/mlzq.png" group-title="SiTV",魅力足球
+http://127.0.0.1:35455/itv/5000000011000031207.m3u8?cdn=bestzb
+
+#EXTINF:-1 tvg-name="七彩戏剧" tvg-logo="https://gitee.com/youngking525/TVLogo/raw/master/img/qcxj.png" group-title="SiTV",七彩戏剧
+http://127.0.0.1:35455/itv/5000000011000031116.m3u8?cdn=bestzb
+
+#EXTINF:-1 tvg-name="生活时尚" tvg-logo="https://gitee.com/youngking525/TVLogo/raw/master/img/shss.png" group-title="SiTV",生活时尚
+http://127.0.0.1:35455/itv/5000000002000019634.m3u8?cdn=bestzb
+
+
+#NewTV
+
+#EXTINF:-1 tvg-name="黑莓电影" tvg-logo="https://gitee.com/youngking525/TVLogo/raw/master/img/hmdy.png" group-title="NewTV",黑莓电影
+http://127.0.0.1:35455/itv/1000000004000019624.m3u8?cdn=ystenlive
+
+#EXTINF:-1 tvg-name="军事评论" tvg-logo="https://gitee.com/youngking525/TVLogo/raw/master/NewTV/NewTV01.png" group-title="NewTV",军事评论
+http://127.0.0.1:35455/itv/2000000003000000022.m3u8?cdn=hnbblive
+
+#EXTINF:-1 tvg-name="军旅剧场" tvg-logo="https://gitee.com/youngking525/TVLogo/raw/master/NewTV/NewTV02.png" group-title="NewTV",军旅剧场
+http://127.0.0.1:35455/itv/2000000003000000014.m3u8?cdn=hnbblive
+
+#EXTINF:-1 tvg-name="动作电影" tvg-logo="https://gitee.com/youngking525/TVLogo/raw/master/NewTV/NewTV03.png" group-title="NewTV",动作电影
+http://127.0.0.1:35455/itv/1000000004000018653.m3u8?cdn=ystenlive
+
+#EXTINF:-1 tvg-name="古装剧场" tvg-logo="https://gitee.com/youngking525/TVLogo/raw/master/NewTV/NewTV04.png" group-title="NewTV",古装剧场
+http://127.0.0.1:35455/itv/2000000003000000024.m3u8?cdn=hnbblive
+
+#EXTINF:-1 tvg-name="家庭剧场" tvg-logo="https://gitee.com/youngking525/TVLogo/raw/master/NewTV/NewTV05.png" group-title="NewTV",家庭剧场
+http://127.0.0.1:35455/itv/1000000004000008284.m3u8?cdn=ystenlive
+
+#EXTINF:-1 tvg-name="中国功夫" tvg-logo="https://gitee.com/youngking525/TVLogo/raw/master/NewTV/NewTV07.png" group-title="NewTV",中国功夫
+http://127.0.0.1:35455/itv/2000000003000000009.m3u8?cdn=hnbblive
+
+#EXTINF:-1 tvg-name="农业致富" tvg-logo="https://gitee.com/youngking525/TVLogo/raw/master/NewTV/NewTV08.png" group-title="NewTV",农业致富
+http://127.0.0.1:35455/itv/2000000003000000003.m3u8?cdn=hnbblive
+
+#EXTINF:-1 tvg-name="东北热剧" tvg-logo="https://gitee.com/youngking525/TVLogo/raw/master/NewTV/NewTV09.png" group-title="NewTV",东北热剧
+http://127.0.0.1:35455/itv/1000000005000266013.m3u8?cdn=ystenlive
+
+#EXTINF:-1 tvg-name="惊悚悬疑" tvg-logo="https://gitee.com/youngking525/TVLogo/raw/master/NewTV/NewTV10.png" group-title="NewTV",惊悚悬疑
+http://127.0.0.1:35455/itv/1000000004000024282.m3u8?cdn=ystenlive
+
+#EXTINF:-1 tvg-name="怡伴健康" tvg-logo="https://gitee.com/youngking525/TVLogo/raw/master/NewTV/NewTV11.png" group-title="NewTV",怡伴健康
+http://127.0.0.1:35455/itv/1000000005000266011.m3u8?cdn=ystenlive
+
+#EXTINF:-1 tvg-name="明星大片" tvg-logo="https://gitee.com/youngking525/TVLogo/raw/master/NewTV/NewTV12.png" group-title="NewTV",明星大片
+http://127.0.0.1:35455/itv/2000000003000000016.m3u8?cdn=hnbblive
+
+#EXTINF:-1 tvg-name="欢乐剧场" tvg-logo="https://gitee.com/youngking525/TVLogo/raw/master/NewTV/NewTV13.png" group-title="NewTV",欢乐剧场
+http://127.0.0.1:35455/itv/1000000005000266012.m3u8?cdn=ystenlive
+
+#EXTINF:-1 tvg-name="潮妈辣婆" tvg-logo="https://gitee.com/youngking525/TVLogo/raw/master/NewTV/NewTV15.png" group-title="NewTV",潮妈辣婆
+http://127.0.0.1:35455/itv/2000000003000000018.m3u8?cdn=hnbblive
+
+#EXTINF:-1 tvg-name="炫舞未来" tvg-logo="https://gitee.com/youngking525/TVLogo/raw/master/NewTV/NewTV16.png" group-title="NewTV",炫舞未来
+http://127.0.0.1:35455/itv/1000000001000000515.m3u8?cdn=ystenlive
+
+#EXTINF:-1 tvg-name="爱情喜剧" tvg-logo="https://gitee.com/youngking525/TVLogo/raw/master/NewTV/NewTV17.png" group-title="NewTV",爱情喜剧
+http://127.0.0.1:35455/itv/2000000003000000010.m3u8?cdn=hnbblive
+
+#EXTINF:-1 tvg-name="精品体育" tvg-logo="https://gitee.com/youngking525/TVLogo/raw/master/NewTV/NewTV18.png" group-title="NewTV",精品体育
+http://127.0.0.1:35455/itv/1000000004000014634.m3u8?cdn=ystenlive
+
+#EXTINF:-1 tvg-name="精品大剧" tvg-logo="https://gitee.com/youngking525/TVLogo/raw/master/NewTV/NewTV19.png" group-title="NewTV",精品大剧
+http://127.0.0.1:35455/itv/1000000004000013968.m3u8?cdn=ystenlive
+
+#EXTINF:-1 tvg-name="金牌综艺" tvg-logo="https://gitee.com/youngking525/TVLogo/raw/master/NewTV/NewTV21.png" group-title="NewTV",金牌综艺
+http://127.0.0.1:35455/itv/1000000004000026167.m3u8?cdn=ystenlive
+
+#EXTINF:-1 tvg-name="超级体育" tvg-logo="https://gitee.com/youngking525/TVLogo/raw/master/NewTV/NewTV22.png" group-title="NewTV",超级体育
+http://127.0.0.1:35455/itv/1000000001000009601.m3u8?cdn=ystenlive
+
+#EXTINF:-1 tvg-name="超级电影" tvg-logo="https://gitee.com/youngking525/TVLogo/raw/master/NewTV/NewTV23.png" group-title="NewTV",超级电影
+http://127.0.0.1:35455/itv/1000000003000012426.m3u8?cdn=ystenlive
+
+#EXTINF:-1 tvg-name="超级综艺" tvg-logo="https://gitee.com/youngking525/TVLogo/raw/master/NewTV/NewTV24.png" group-title="NewTV",超级综艺
+http://127.0.0.1:35455/itv/1000000006000268002.m3u8?cdn=ystenlive
+
+#EXTINF:-1 tvg-name="超级电视剧" tvg-logo="https://gitee.com/youngking525/TVLogo/raw/master/NewTV/NewTV25.png" group-title="NewTV",超级电视剧
+http://127.0.0.1:35455/itv/1000000006000268003.m3u8?cdn=ystenlive
+
+#EXTINF:-1 tvg-name="魅力潇湘" tvg-logo="https://gitee.com/youngking525/TVLogo/raw/master/NewTV/NewTV34.png" group-title="NewTV",魅力潇湘
+http://127.0.0.1:35455/itv/1000000001000006197.m3u8?cdn=ystenlive
+
+#EXTINF:-1  tvg-name="精品萌宠" tvg-logo="https://gitee.com/youngking525/TVLogo/raw/master/NewTV/NewTV39.png" group-title="NewTV",超级萌宠
+http://127.0.0.1:35455/itv/1000000006000032328.m3u8?cdn=ystenlive
+
+
+#iHOT
+
+#EXTINF:-1,tvg-id="爱院线" tvg-name="爱院线" tvg-logo="https://gitee.com/youngking525/TVLogo/raw/master/iHOT/ihot01.png" group-title="iHOT",爱院线
+http://127.0.0.1:35455/itv/6000000006000030630.m3u8?cdn=wasusyt
+
+#EXTINF:-1,tvg-id="爱科幻" tvg-name="爱科幻" tvg-logo="https://gitee.com/youngking525/TVLogo/raw/master/iHOT/ihot02.png" group-title="iHOT",爱科幻
+http://127.0.0.1:35455/itv/6000000006000020630.m3u8?cdn=wasusyt
+
+#EXTINF:-1,tvg-id="爱喜剧" tvg-name="爱喜剧" tvg-logo="https://gitee.com/youngking525/TVLogo/raw/master/iHOT/ihot03.png" group-title="iHOT",爱喜剧
+http://127.0.0.1:35455/itv/6000000006000010630.m3u8?cdn=wasusyt
+
+#EXTINF:-1,tvg-id="爱奇谈" tvg-name="爱奇谈" tvg-logo="https://gitee.com/youngking525/TVLogo/raw/master/iHOT/ihot04.png" group-title="iHOT",爱奇谈
+http://127.0.0.1:35455/itv/6000000006000270630.m3u8?cdn=wasusyt
+
+#EXTINF:-1,tvg-id="爱科学" tvg-name="爱科学" tvg-logo="https://gitee.com/youngking525/TVLogo/raw/master/iHOT/ihot07.png" group-title="iHOT",爱科学
+http://127.0.0.1:35455/itv/6000000006000160630.m3u8?cdn=wasusyt
+
+#EXTINF:-1,tvg-id="爱浪漫" tvg-name="爱浪漫" tvg-logo="https://gitee.com/youngking525/TVLogo/raw/master/iHOT/ihot08.png" group-title="iHOT",爱浪漫
+http://127.0.0.1:35455/itv/6000000006000040630.m3u8?cdn=wasusyt
+
+#EXTINF:-1,tvg-id="爱历史" tvg-name="爱历史" tvg-logo="https://gitee.com/youngking525/TVLogo/raw/master/iHOT/ihot09.png" group-title="iHOT",爱历史
+http://127.0.0.1:35455/itv/6000000006000150630.m3u8?cdn=wasusyt
+
+#EXTINF:-1,tvg-id="爱悬疑" tvg-name="爱悬疑" tvg-logo="https://gitee.com/youngking525/TVLogo/raw/master/iHOT/ihot14.png" group-title="iHOT",爱悬疑
+http://127.0.0.1:35455/itv/6000000006000050630.m3u8?cdn=wasusyt
+
+#EXTINF:-1,tvg-id="爱体育" tvg-name="爱体育" tvg-logo="https://gitee.com/youngking525/TVLogo/raw/master/iHOT/ihot15.png" group-title="iHOT",爱体育
+http://127.0.0.1:35455/itv/6000000006000290630.m3u8?cdn=wasusyt
+
+#EXTINF:-1,tvg-id="爱赛车" tvg-name="爱赛车" tvg-logo="https://gitee.com/youngking525/TVLogo/raw/master/iHOT/ihot16.png" group-title="iHOT",爱赛车
+http://127.0.0.1:35455/itv/6000000006000240630.m3u8?cdn=wasusyt
+
+#EXTINF:-1,tvg-id="爱旅行" tvg-name="爱旅行" tvg-logo="https://gitee.com/youngking525/TVLogo/raw/master/iHOT/ihot19.png" group-title="iHOT",爱旅行
+http://127.0.0.1:35455/itv/6000000006000250630.m3u8?cdn=wasusyt
+
+#EXTINF:-1,tvg-id="爱青春" tvg-name="爱青春" tvg-logo="https://gitee.com/youngking525/TVLogo/raw/master/iHOT/ihot22.png" group-title="iHOT",爱青春
+http://127.0.0.1:35455/itv/6000000006000100630.m3u8?cdn=wasusyt
+
+#EXTINF:-1,tvg-id="爱都市" tvg-name="爱都市" tvg-logo="https://gitee.com/youngking525/TVLogo/raw/master/iHOT/ihot25.png" group-title="iHOT",爱都市
+http://127.0.0.1:35455/itv/6000000006000080630.m3u8?cdn=wasusyt
+
+#EXTINF:-1,tvg-id="爱谍战" tvg-name="爱谍战" tvg-logo="https://gitee.com/youngking525/TVLogo/raw/master/iHOT/ihot26.png" group-title="iHOT",爱谍战
+http://127.0.0.1:35455/itv/6000000006000070630.m3u8?cdn=wasusyt
+
+#EXTINF:-1,tvg-id="爱经典" tvg-name="爱经典" tvg-logo="https://gitee.com/youngking525/TVLogo/raw/master/iHOT/ihot27.png" group-title="iHOT",爱经典
+http://127.0.0.1:35455/itv/6000000006000060630.m3u8?cdn=wasusyt
+
+#EXTINF:-1,tvg-id="爱怀旧" tvg-name="爱怀旧" tvg-logo="https://gitee.com/youngking525/TVLogo/raw/master/iHOT/ihot29.png" group-title="iHOT",爱怀旧
+http://127.0.0.1:35455/itv/6000000006000260630.m3u8?cdn=wasusyt
+
+#EXTINF:-1,tvg-id="爱幼教" tvg-name="爱幼教" tvg-logo="https://gitee.com/youngking525/TVLogo/raw/master/iHOT/ihot30.png" group-title="iHOT",爱幼教
+http://127.0.0.1:35455/itv/6000000006000180630.m3u8?cdn=wasusyt
+
+
+#咪咕体育
+
+#EXTINF:-1,tvg-name="全民热练" tvg-logo="https://gitee.com/youngking525/TVLogo/raw/master/img/mgty.png" group-title="咪咕体育",睛彩青少
+http://127.0.0.1:35455/itv/3000000020000031315.m3u8?cdn=FifastbLive
+
+#EXTINF:-1,tvg-name="睛彩竞技" tvg-logo="https://gitee.com/youngking525/TVLogo/raw/master/img/mgty.png" group-title="咪咕体育",睛彩竞技
+http://127.0.0.1:35455/itv/3000000020000011528.m3u8?cdn=FifastbLive
+
+#EXTINF:-1,tvg-name="睛彩篮球" tvg-logo="https://gitee.com/youngking525/TVLogo/raw/master/img/mgty.png" group-title="咪咕体育",睛彩篮球
+http://127.0.0.1:35455/itv/3000000020000011529.m3u8?cdn=FifastbLive
+
+#EXTINF:-1,tvg-name="睛彩广场舞" tvg-logo="https://gitee.com/youngking525/TVLogo/raw/master/img/mgty.png" group-title="咪咕体育",睛彩广场舞
+http://127.0.0.1:35455/itv/3000000020000011523.m3u8?cdn=FifastbLive
+
+#EXTINF:-1,tvg-name="咪咕4K" tvg-logo="https://epg.v1.mk/logo/咪咕4k.png" group-title="咪咕体育",咪咕4K-1
+http://127.0.0.1:35455/itv/3000000010000005180.m3u8?cdn=FifastbLive
+
+#EXTINF:-1,tvg-name="咪咕4K" tvg-logo="https://epg.v1.mk/logo/咪咕4k.png" group-title="咪咕体育",咪咕4K-2
+http://127.0.0.1:35455/itv/3000000010000015686.m3u8?cdn=FifastbLive
+
+#EXTINF:-1,tvg-name="咪咕体育" tvg-logo="https://gitee.com/youngking525/TVLogo/raw/master/img/mgty.png" group-title="咪咕体育",咪咕FifastbLive-1
+http://127.0.0.1:35455/itv/3000000001000005308.m3u8?cdn=FifastbLive
+
+#EXTINF:-1,tvg-name="咪咕体育" tvg-logo="https://gitee.com/youngking525/TVLogo/raw/master/img/mgty.png" group-title="咪咕体育",咪咕FifastbLive-2
+http://127.0.0.1:35455/itv/3000000001000005969.m3u8?cdn=FifastbLive
+
+#EXTINF:-1,tvg-name="咪咕体育" tvg-logo="https://gitee.com/youngking525/TVLogo/raw/master/img/mgty.png" group-title="咪咕体育",咪咕FifastbLive-3
+http://127.0.0.1:35455/itv/3000000001000007218.m3u8?cdn=FifastbLive
+
+#EXTINF:-1,tvg-name="咪咕体育" tvg-logo="https://gitee.com/youngking525/TVLogo/raw/master/img/mgty.png" group-title="咪咕体育",咪咕FifastbLive-4
+http://127.0.0.1:35455/itv/3000000001000008001.m3u8?cdn=FifastbLive
+
+#EXTINF:-1,tvg-name="咪咕体育" tvg-logo="https://gitee.com/youngking525/TVLogo/raw/master/img/mgty.png" group-title="咪咕体育",咪咕FifastbLive-5
+http://127.0.0.1:35455/itv/3000000001000008176.m3u8?cdn=FifastbLive
+
+#EXTINF:-1,tvg-name="咪咕体育" tvg-logo="https://gitee.com/youngking525/TVLogo/raw/master/img/mgty.png" group-title="咪咕体育",咪咕FifastbLive-6
+http://127.0.0.1:35455/itv/3000000001000008379.m3u8?cdn=FifastbLive
+
+#EXTINF:-1,tvg-name="咪咕体育" tvg-logo="https://gitee.com/youngking525/TVLogo/raw/master/img/mgty.png" group-title="咪咕体育",咪咕FifastbLive-7
+http://127.0.0.1:35455/itv/3000000001000010129.m3u8?cdn=FifastbLive
+
+#EXTINF:-1,tvg-name="咪咕体育" tvg-logo="https://gitee.com/youngking525/TVLogo/raw/master/img/mgty.png" group-title="咪咕体育",咪咕FifastbLive-8
+http://127.0.0.1:35455/itv/3000000001000010948.m3u8?cdn=FifastbLive
+
+#EXTINF:-1,tvg-name="咪咕体育" tvg-logo="https://gitee.com/youngking525/TVLogo/raw/master/img/mgty.png" group-title="咪咕体育",咪咕FifastbLive-9
+http://127.0.0.1:35455/itv/3000000001000028638.m3u8?cdn=FifastbLive
+
+#EXTINF:-1,tvg-name="咪咕体育" tvg-logo="https://gitee.com/youngking525/TVLogo/raw/master/img/mgty.png" group-title="咪咕体育",咪咕FifastbLive-10
+http://127.0.0.1:35455/itv/3000000001000031494.m3u8?cdn=FifastbLive
+
+#EXTINF:-1,tvg-name="咪咕体育" tvg-logo="https://gitee.com/youngking525/TVLogo/raw/master/img/mgty.png" group-title="咪咕体育",咪咕FifastbLive-11
+http://127.0.0.1:35455/itv/3000000010000005837.m3u8?cdn=FifastbLive
+
+#EXTINF:-1,tvg-name="咪咕体育" tvg-logo="https://gitee.com/youngking525/TVLogo/raw/master/img/mgty.png" group-title="咪咕体育",咪咕FifastbLive-12
+http://127.0.0.1:35455/itv/3000000020000011518.m3u8?cdn=FifastbLive
+
+#EXTINF:-1,tvg-name="咪咕体育" tvg-logo="https://gitee.com/youngking525/TVLogo/raw/master/img/mgty.png" group-title="咪咕体育",咪咕FifastbLive-13
+http://127.0.0.1:35455/itv/3000000020000011519.m3u8?cdn=FifastbLive
+
+#EXTINF:-1,tvg-name="咪咕体育" tvg-logo="https://gitee.com/youngking525/TVLogo/raw/master/img/mgty.png" group-title="咪咕体育",咪咕FifastbLive-14
+http://127.0.0.1:35455/itv/3000000020000011520.m3u8?cdn=FifastbLive
+
+#EXTINF:-1,tvg-name="咪咕体育" tvg-logo="https://gitee.com/youngking525/TVLogo/raw/master/img/mgty.png" group-title="咪咕体育",咪咕FifastbLive-15
+http://127.0.0.1:35455/itv/3000000020000011522.m3u8?cdn=FifastbLive
+
+#EXTINF:-1,tvg-name="咪咕体育" tvg-logo="https://gitee.com/youngking525/TVLogo/raw/master/img/mgty.png" group-title="咪咕体育",咪咕FifastbLive-16
+http://127.0.0.1:35455/itv/3000000010000000097.m3u8?cdn=FifastbLive
+
+#EXTINF:-1,tvg-name="咪咕体育" tvg-logo="https://gitee.com/youngking525/TVLogo/raw/master/img/mgty.png" group-title="咪咕体育",咪咕FifastbLive-17
+http://127.0.0.1:35455/itv/3000000010000002019.m3u8?cdn=FifastbLive
+
+#EXTINF:-1,tvg-name="咪咕体育" tvg-logo="https://gitee.com/youngking525/TVLogo/raw/master/img/mgty.png" group-title="咪咕体育",咪咕FifastbLive-18
+http://127.0.0.1:35455/itv/3000000010000002809.m3u8?cdn=FifastbLive
+
+#EXTINF:-1,tvg-name="咪咕体育" tvg-logo="https://gitee.com/youngking525/TVLogo/raw/master/img/mgty.png" group-title="咪咕体育",咪咕FifastbLive-19
+http://127.0.0.1:35455/itv/3000000010000003915.m3u8?cdn=FifastbLive
+
+#EXTINF:-1,tvg-name="咪咕体育" tvg-logo="https://gitee.com/youngking525/TVLogo/raw/master/img/mgty.png" group-title="咪咕体育",咪咕FifastbLive-20
+http://127.0.0.1:35455/itv/3000000010000004193.m3u8?cdn=FifastbLive
+
+#EXTINF:-1,tvg-name="咪咕体育" tvg-logo="https://gitee.com/youngking525/TVLogo/raw/master/img/mgty.png" group-title="咪咕体育",咪咕FifastbLive-21
+http://127.0.0.1:35455/itv/3000000010000006077.m3u8?cdn=FifastbLive
+
+#EXTINF:-1,tvg-name="咪咕体育" tvg-logo="https://gitee.com/youngking525/TVLogo/raw/master/img/mgty.png" group-title="咪咕体育",咪咕FifastbLive-22
+http://127.0.0.1:35455/itv/3000000010000006658.m3u8?cdn=FifastbLive
+
+#EXTINF:-1,tvg-name="咪咕体育" tvg-logo="https://gitee.com/youngking525/TVLogo/raw/master/img/mgty.png" group-title="咪咕体育",咪咕FifastbLive-23
+http://127.0.0.1:35455/itv/3000000010000009788.m3u8?cdn=FifastbLive
+
+#EXTINF:-1,tvg-name="咪咕体育" tvg-logo="https://gitee.com/youngking525/TVLogo/raw/master/img/mgty.png" group-title="咪咕体育",咪咕FifastbLive-24
+http://127.0.0.1:35455/itv/3000000010000010833.m3u8?cdn=FifastbLive
+
+#EXTINF:-1,tvg-name="咪咕体育" tvg-logo="https://gitee.com/youngking525/TVLogo/raw/master/img/mgty.png" group-title="咪咕体育",咪咕FifastbLive-25
+http://127.0.0.1:35455/itv/3000000010000011297.m3u8?cdn=FifastbLive
+
+#EXTINF:-1,tvg-name="咪咕体育" tvg-logo="https://gitee.com/youngking525/TVLogo/raw/master/img/mgty.png" group-title="咪咕体育",咪咕FifastbLive-26
+http://127.0.0.1:35455/itv/3000000010000011518.m3u8?cdn=FifastbLive
+
+#EXTINF:-1,tvg-name="咪咕体育" tvg-logo="https://gitee.com/youngking525/TVLogo/raw/master/img/mgty.png" group-title="咪咕体育",咪咕FifastbLive-27
+http://127.0.0.1:35455/itv/3000000010000012558.m3u8?cdn=FifastbLive
+
+#EXTINF:-1,tvg-name="咪咕体育" tvg-logo="https://gitee.com/youngking525/TVLogo/raw/master/img/mgty.png" group-title="咪咕体育",咪咕FifastbLive-28
+http://127.0.0.1:35455/itv/3000000010000012616.m3u8?cdn=FifastbLive
+
+#EXTINF:-1,tvg-name="咪咕体育" tvg-logo="https://gitee.com/youngking525/TVLogo/raw/master/img/mgty.png" group-title="咪咕体育",咪咕FifastbLive-29
+http://127.0.0.1:35455/itv/3000000010000015560.m3u8?cdn=FifastbLive
+
+#EXTINF:-1,tvg-name="咪咕体育" tvg-logo="https://gitee.com/youngking525/TVLogo/raw/master/img/mgty.png" group-title="咪咕体育",咪咕FifastbLive-30
+http://127.0.0.1:35455/itv/3000000010000019839.m3u8?cdn=FifastbLive
+
+#EXTINF:-1,tvg-name="咪咕体育" tvg-logo="https://gitee.com/youngking525/TVLogo/raw/master/img/mgty.png" group-title="咪咕体育",咪咕FifastbLive-31
+http://127.0.0.1:35455/itv/3000000010000021904.m3u8?cdn=FifastbLive
+
+#EXTINF:-1,tvg-name="咪咕体育" tvg-logo="https://gitee.com/youngking525/TVLogo/raw/master/img/mgty.png" group-title="咪咕体育",咪咕FifastbLive-32
+http://127.0.0.1:35455/itv/3000000010000023434.m3u8?cdn=FifastbLive
+
+#EXTINF:-1,tvg-name="咪咕体育" tvg-logo="https://gitee.com/youngking525/TVLogo/raw/master/img/mgty.png" group-title="咪咕体育",咪咕FifastbLive-33
+http://127.0.0.1:35455/itv/3000000010000025380.m3u8?cdn=FifastbLive
+
+#EXTINF:-1,tvg-name="咪咕体育" tvg-logo="https://gitee.com/youngking525/TVLogo/raw/master/img/mgty.png" group-title="咪咕体育",咪咕FifastbLive-34
+http://127.0.0.1:35455/itv/3000000010000027691.m3u8?cdn=FifastbLive
+
+#EXTINF:-1,tvg-name="咪咕体育" tvg-logo="https://gitee.com/youngking525/TVLogo/raw/master/img/mgty.png" group-title="咪咕体育",咪咕FifastbLive-35
+http://127.0.0.1:35455/itv/3000000010000031669.m3u8?cdn=FifastbLive
