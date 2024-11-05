@@ -386,10 +386,10 @@ http://127.0.0.1:35455/itv/3000000020000011529.m3u8?cdn=FifastbLive
 #EXTINF:-1,tvg-name="睛彩广场舞" tvg-logo="https://gitee.com/youngking525/TVLogo/raw/master/img/mgty.png" group-title="咪咕体育",睛彩广场舞
 http://127.0.0.1:35455/itv/3000000020000011523.m3u8?cdn=FifastbLive
 
-#EXTINF:-1,tvg-name="咪咕4K" tvg-logo="https://epg.v1.mk/logo/咪咕4k.png" group-title="咪咕体育",咪咕4K-1
+#EXTINF:-1,tvg-name="咪咕4K" tvg-logo="https://gitee.com/youngking525/TVLogo/raw/master/img/migu4k.png" group-title="咪咕体育",咪咕4K-1
 http://127.0.0.1:35455/itv/3000000010000005180.m3u8?cdn=FifastbLive
 
-#EXTINF:-1,tvg-name="咪咕4K" tvg-logo="https://epg.v1.mk/logo/咪咕4k.png" group-title="咪咕体育",咪咕4K-2
+#EXTINF:-1,tvg-name="咪咕4K" tvg-logo="https://gitee.com/youngking525/TVLogo/raw/master/img/migu4k.png" group-title="咪咕体育",咪咕4K-2
 http://127.0.0.1:35455/itv/3000000010000015686.m3u8?cdn=FifastbLive
 
 #EXTINF:-1,tvg-name="咪咕体育" tvg-logo="https://gitee.com/youngking525/TVLogo/raw/master/img/mgty.png" group-title="咪咕体育",咪咕FifastbLive-1
