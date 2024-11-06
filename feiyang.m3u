@@ -1,6 +1,5 @@
 #EXTM3U x-tvg-url="https://e.erw.cc/e.xml"
 
-#央视
 
 #EXTINF:-1 tvg-name="CCTV1" tvg-logo="https://gitee.com/youngking525/TVLogo/raw/master/cctv/CCTV1.png" group-title="央视",CCTV-1 综合
 http://127.0.0.1:35455/ysptp/cctv1.m3u8
@@ -62,8 +61,6 @@ http://127.0.0.1:35455/ysptp/cctv4k.m3u8
 #EXTINF:-1 tvg-name="CCTV8K" tvg-logo="https://gitee.com/youngking525/TVLogo/raw/master/cctv/CCTV8k.png" group-title="央视",CCTV-8K 超高清
 http://127.0.0.1:35455/ysptp/cctv8k_36m.m3u8
 
-
-#卫视
 
 #EXTINF:-1 tvg-name="吉林卫视" tvg-logo="https://gitee.com/youngking525/TVLogo/raw/master/img/Jilin.png" group-title="卫视",吉林卫视
 http://127.0.0.1:35455/itv/5000000011000031117.m3u8?cdn=bestzb
@@ -144,8 +141,6 @@ http://127.0.0.1:35455/itv/5000000011000031120.m3u8?cdn=bestzb
 http://127.0.0.1:35455/itv/1000000002000013359.m3u8?cdn=ystenlive
 
 
-#其他
-
 #EXTINF:-1 tvg-name="CGTN" tvg-logo="https://gitee.com/youngking525/TVLogo/raw/master/img/CGTN.png" group-title="其他",CGTN-新闻
 http://127.0.0.1:35455/ysptp/cgtnen.m3u8
 
@@ -210,8 +205,6 @@ http://127.0.0.1:35455/itv/6000000002000010046.m3u8?cdn=wasusyt
 http://127.0.0.1:35455/itv/6000000002000003382.m3u8?cdn=wasusyt
 
 
-#SiTV
-
 #EXTINF:-1 tvg-name="都市剧场" tvg-logo="https://gitee.com/youngking525/TVLogo/raw/master/img/dsjc.png" group-title="SiTV",都市剧场
 http://127.0.0.1:35455/itv/5000000011000031111.m3u8?cdn=bestzb
 
@@ -239,8 +232,6 @@ http://127.0.0.1:35455/itv/5000000011000031116.m3u8?cdn=bestzb
 #EXTINF:-1 tvg-name="生活时尚" tvg-logo="https://gitee.com/youngking525/TVLogo/raw/master/img/shss.png" group-title="SiTV",生活时尚
 http://127.0.0.1:35455/itv/5000000002000019634.m3u8?cdn=bestzb
 
-
-#NewTV
 
 #EXTINF:-1 tvg-name="黑莓电影" tvg-logo="https://gitee.com/youngking525/TVLogo/raw/master/img/hmdy.png" group-title="NewTV",黑莓电影
 http://127.0.0.1:35455/itv/1000000004000019624.m3u8?cdn=ystenlive
@@ -318,8 +309,6 @@ http://127.0.0.1:35455/itv/1000000001000006197.m3u8?cdn=ystenlive
 http://127.0.0.1:35455/itv/1000000006000032328.m3u8?cdn=ystenlive
 
 
-#iHOT
-
 #EXTINF:-1,tvg-id="爱院线" tvg-name="爱院线" tvg-logo="https://gitee.com/youngking525/TVLogo/raw/master/iHOT/ihot01.png" group-title="iHOT",爱院线
 http://127.0.0.1:35455/itv/6000000006000030630.m3u8?cdn=wasusyt
 
@@ -371,8 +360,6 @@ http://127.0.0.1:35455/itv/6000000006000260630.m3u8?cdn=wasusyt
 #EXTINF:-1,tvg-id="爱幼教" tvg-name="爱幼教" tvg-logo="https://gitee.com/youngking525/TVLogo/raw/master/iHOT/ihot30.png" group-title="iHOT",爱幼教
 http://127.0.0.1:35455/itv/6000000006000180630.m3u8?cdn=wasusyt
 
-
-#咪咕体育
 
 #EXTINF:-1,tvg-name="全民热练" tvg-logo="https://gitee.com/youngking525/TVLogo/raw/master/img/mgty.png" group-title="咪咕体育",睛彩青少
 http://127.0.0.1:35455/itv/3000000020000031315.m3u8?cdn=FifastbLive
