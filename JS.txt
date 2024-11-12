@@ -1,0 +1,229 @@
+function transformGroupNames(channelList, mapping) {
+  return channelList.map(function (channel) {
+    var newGroupName = mapping[channel.groupName] || channel.groupName;
+    return Object.assign({}, channel, { groupName: newGroupName });
+  });
+}
+
+function sortChannelsByGroupName(channelList, sort) {
+  return channelList
+    .map(function (channel, index) {
+      return { channel: channel, originalIndex: index };
+    })
+    .sort(function (a, b) {
+      var indexA = sort.indexOf(a.channel.groupName);
+      var indexB = sort.indexOf(b.channel.groupName);
+
+      indexA = indexA === -1 ? sort.length : indexA;
+      indexB = indexB === -1 ? sort.length : indexB;
+
+      return indexA - indexB || a.originalIndex - b.originalIndex;
+    })
+    .map(function (item) {
+      return item.channel;
+    });
+}
+
+function transformChannel(channel) {
+  // 过滤不需要的频道
+  if (channel.name.includes('测试') || 
+      channel.name.includes('CCTV-16-4K-HEVC') || 
+      channel.name.includes('cctv164k_10m') ||
+      channel.name.includes('cctv4k_10m') ||
+      channel.name.includes('cctv8k_120m') ||
+      channel.name.includes('重温经典') || 
+      channel.name.includes('CHC') || 
+      channel.name.includes('精品综合') || 
+      channel.name.includes('武博世界') || 
+      channel.name.includes('咪咕全民热练') || 
+      channel.name.includes('咪咕视频_8M1080_咪视通-39') || 
+      channel.name.includes('北京纪实科教8K')) {
+    return undefined;
+  }
+
+  if (channel.name === 'CGTN' || channel.name === 'CGTN-记录' || channel.name === 'SiTV-欢笑剧场') {
+    return undefined;
+  }
+
+  // 改名、分组
+  var transformed = {};
+
+  if (channel.name.includes('cctv164k')) {
+    transformed = { name: 'CCTV16', groupName: '央视' };
+  } else if (channel.name.includes('cctv4k')) {
+    transformed = { name: 'CCTV4K', groupName: '央视' };
+  } else if (channel.name.includes('cctv8k_36m')) {
+    transformed = { name: 'CCTV8K', groupName: '央视' };
+  } else if (channel.name.includes('cctv5p-高码')) {
+    transformed = { name: 'CCTV5+', groupName: '央视' };
+  } else if (channel.name.includes('东方卫视')) {
+    transformed = { name: '东方卫视', groupName: '卫视' };
+  } else if (channel.name.includes('cgtnar-高码')) {
+    transformed = { name: 'CGTN阿语', groupName: '其它' };
+  } else if (channel.name.includes('cgtndoc-高码')) {
+    transformed = { name: 'CGTN纪录', groupName: '其它' };
+  } else if (channel.name.includes('cgtnen-高码')) {
+    transformed = { name: 'CGTN英语', groupName: '其它' };
+  } else if (channel.name.includes('cgtnsp-高码')) {
+    transformed = { name: 'CGTN西语', groupName: '其它' };
+  } else if (channel.name.includes('cgtnfr-高码')) {
+    transformed = { name: 'CGTN法语', groupName: '其它' };
+  } else if (channel.name.includes('cgtnru-高码')) {
+    transformed = { name: 'CGTN俄语', groupName: '其它' };
+  } else if (channel.name.includes('金鹰')) {
+    transformed = { name: '金鹰纪实', groupName: '其它' };
+  } else if (channel.name.includes('垂钓')) {
+    transformed = { name: '快乐垂钓', groupName: '其它' };
+  } else if (channel.name.includes('茶频道')) {
+    transformed = { name: '茶频道', groupName: '其它' };
+  } else if (channel.name.includes('纪实科教')) {
+    transformed = { name: '纪实科教', groupName: '其它' };
+  } else if (channel.name.includes('卡酷少儿')) {
+    transformed = { name: '卡酷少儿', groupName: '其它' };
+  } else if (channel.name.includes('SiTV-欢笑剧场-4K')) {
+    transformed = { name: '欢笑剧场', groupName: '其它' };
+  } else if (channel.name.includes('咪咕视频_8M1080_咪视通-17')) {
+    transformed = { name: '睛彩广场舞', groupName: '其它' };
+  } else if (channel.name.includes('咪咕视频_8M1080_咪视通-18')) {
+    transformed = { name: '睛彩广场舞', groupName: '其它' };
+  } else if (channel.name.includes('咪咕视频_8M1080_湖南bblive-3')) {
+    transformed = { name: '睛彩广场舞', groupName: '其它' };
+  } else if (channel.name.includes('咪咕视频_8M1080_湖南bblive-5')) {
+    transformed = { name: '睛彩广场舞', groupName: '其它' };
+  } else if (channel.name.includes('咪咕视频_8M1080_易视腾-3')) {
+    transformed = { name: '睛彩广场舞', groupName: '其它' };
+  } else if (channel.name.includes('咪咕视频_8M1080_易视腾-5')) {
+    transformed = { name: '睛彩广场舞', groupName: '其它' };
+  } else if (channel.name.includes('咪咕视频_8M1080_咪视通-19')) {
+    transformed = { name: '睛彩青少', groupName: '其它' };
+  } else if (channel.name.includes('咪咕视频_8M1080_咪视通-20')) {
+    transformed = { name: '睛彩竞技', groupName: '其它' };
+  } else if (channel.name.includes('咪咕视频_8M1080_咪视通-22')) {
+    transformed = { name: '睛彩竞技', groupName: '其它' };
+  } else if (channel.name.includes('咪咕视频_8M1080_湖南bblive-1')) {
+    transformed = { name: '睛彩竞技', groupName: '其它' };
+  } else if (channel.name.includes('咪咕视频_8M1080_易视腾-1')) {
+    transformed = { name: '睛彩竞技', groupName: '其它' };
+  } else if (channel.name.includes('咪咕视频_8M1080_咪视通-21')) {
+    transformed = { name: '睛彩篮球', groupName: '其它' };
+  } else if (channel.name.includes('咪咕视频_8M1080_咪视通-23')) {
+    transformed = { name: '睛彩篮球', groupName: '其它' };
+  } else if (channel.name.includes('咪咕视频_8M1080_湖南bblive-2')) {
+    transformed = { name: '睛彩篮球', groupName: '其它' };
+  } else if (channel.name.includes('咪咕视频_8M1080_湖南bblive-6')) {
+    transformed = { name: '睛彩篮球', groupName: '其它' };
+  } else if (channel.name.includes('咪咕视频_8M1080_易视腾-2')) {
+    transformed = { name: '睛彩篮球', groupName: '其它' };
+  } else if (channel.name.includes('咪咕视频_8M1080_易视腾-6')) {
+    transformed = { name: '睛彩篮球', groupName: '其它' };
+  } else if (channel.name.includes('CCTV-16-4K') || 
+             channel.name.includes('cctv164k') || 
+             channel.name.includes('CCTV16') || 
+             channel.name.includes('cctv4k') || 
+             channel.name.includes('cctv8k')) {
+    transformed = { groupName: '央视' };
+  } else if (channel.name.includes('上海') || 
+             channel.name.includes('纪实') || 
+             channel.name.includes('卡酷') || 
+             channel.name.includes('茶') || 
+             channel.name.includes('垂钓')) {
+    transformed = { groupName: '其它' };
+  } else if (channel.name.includes('咪咕4K-1') || 
+             channel.name.includes('咪咕4K-2')) {
+    transformed = { groupName: '咪咕' };
+  } else if (channel.name.includes('CG') || 
+             channel.name.includes('cg') || 
+             channel.name.includes('CGTNDOC')) {
+    transformed = { groupName: '其它' };
+  }
+
+// 字符串替换规则
+var baseName = channel.name;
+
+// 检查是否是"上海都市"，如果不是则进行"上海"的替换
+if (baseName !== '上海都市') {
+  baseName = baseName.replace(/上海/, '');
+}
+
+// 进行其他替换
+baseName = baseName
+  .replace(/SiTV-/, '')           // 去掉 SiTV-
+  .replace(/IHOT-/i, '')          // 去掉 IHOT-
+  .replace(/NEWTV-/i, '')         // 去掉 NEWTV-
+  .replace(/咪咕视频_8M1080_/, '');
+
+
+  baseName = baseName.replace(/-(高码|50-FPS|HEVC)/g, '');
+  baseName = baseName.replace(/-/g, '').toUpperCase();
+  
+  if (!transformed.name && baseName !== channel.name) {
+    transformed.name = baseName;
+  }
+
+  return Object.keys(transformed).length ? transformed : {};
+}
+
+function transformChannelList(channelList, func) {
+  return channelList.map(function (channel) {
+    var transformedChannel = func(channel);
+    return transformedChannel !== undefined ? Object.assign({}, channel, transformedChannel) : undefined;
+  }).filter(function (channel) {
+    // 过滤掉undefined项
+    return channel !== undefined;
+  });
+}
+
+
+function main(channelList) {
+  var groupNameMapping = {
+    '北京': '卫视',
+    '东方': '卫视',
+    '上海': '卫视',
+    '重庆': '卫视',
+    '江苏': '卫视',
+    '浙江': '卫视',
+    '安徽': '卫视',
+    '东南': '卫视',
+    '福建': '卫视',
+    '江西': '卫视',
+    '山东': '卫视',
+    '河南': '卫视',
+    '湖北': '卫视',
+    '湖南': '卫视',
+    '河北': '卫视',
+    '山西': '卫视',
+    '辽宁': '卫视',
+    '吉林': '卫视',
+    '黑龙江': '卫视',
+    '广东': '卫视',
+    '海南': '卫视',
+    '四川': '卫视',
+    '云南': '卫视',
+    '贵州': '卫视',
+    '陕西': '卫视',
+    '甘肃': '卫视',
+    '青海': '卫视',
+    '新疆': '卫视',
+    '宁夏': '卫视',
+    '广西': '卫视',
+    '西藏': '卫视',
+    '卫视': '卫视',
+    '央视': '央视',
+    '咪咕体育': '咪咕',
+    'IHOT': 'iHOT',
+    'NEWTV': 'NewTV',
+    '其他': '其它',
+    '4K频道': '其它',
+    '8K频道': '其它',
+  };
+
+  var groupNameSort = ['央视', '卫视', '其它', 'NewTV', 'iHOT','咪咕'];
+
+  return sortChannelsByGroupName(
+    transformGroupNames(
+      transformChannelList(channelList, transformChannel),
+      groupNameMapping
+    ),
+    groupNameSort
+  );
+}
